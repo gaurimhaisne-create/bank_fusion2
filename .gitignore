@@ -1,0 +1,6 @@
+# Ignore actual generated files
+data/raw_pdfs/**/*.pdf
+data/extracted_json/**/*.json
+
+# Keep folder structure
+!data/**/.gitkeep

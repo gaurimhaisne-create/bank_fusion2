@@ -1,0 +1,1358 @@
+{
+  "bank_name": "BOI",
+  "account_number": "781374845537",
+  "account_holder": "PRIYA SHARMA",
+  "statement_period": "April 01, 2024 to March 31, 2025",
+  "transactions": [
+    {
+      "transaction_date": "2024-04-01",
+      "description": "NEFT-HOUSE RENT423606/",
+      "amount": 10134.37,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 217288.66
+    },
+    {
+      "transaction_date": "2024-04-01",
+      "description": "MEDR/TUITION/971565/",
+      "amount": 11913.25,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 205375.41
+    },
+    {
+      "transaction_date": "2024-04-02",
+      "description": "CWDR//877038/DWCW278",
+      "amount": 5984.05,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 199391.36
+    },
+    {
+      "transaction_date": "2024-04-03",
+      "description": "salary",
+      "amount": 46509.45,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 245900.81
+    },
+    {
+      "transaction_date": "2024-04-03",
+      "description": "MEDR/SHELL FUEL/966617/",
+      "amount": 1908.26,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 243992.55
+    },
+    {
+      "transaction_date": "2024-04-03",
+      "description": "Service Charges",
+      "amount": 27.12,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 243965.43
+    },
+    {
+      "transaction_date": "2024-04-03",
+      "description": "BUPI/771035192953/03-04-2024\n07:30:09/UPI",
+      "amount": 1169.12,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 242796.31
+    },
+    {
+      "transaction_date": "2024-04-03",
+      "description": "MEDR/FLIPKART/660407/",
+      "amount": 1256.29,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 241540.02
+    },
+    {
+      "transaction_date": "2024-04-04",
+      "description": "NEFT-TRANSFER",
+      "amount": 1843.05,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 243383.07
+    },
+    {
+      "transaction_date": "2024-04-04",
+      "description": "MEDR/AMAZON/893244/",
+      "amount": 1018.03,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 242365.04
+    },
+    {
+      "transaction_date": "2024-04-04",
+      "description": "Debit Card Annual Charges",
+      "amount": 76.59,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 242288.45
+    },
+    {
+      "transaction_date": "2024-04-04",
+      "description": "MEDR/NETMEDS/633159/",
+      "amount": 1775.86,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 240512.59
+    },
+    {
+      "transaction_date": "2024-04-05",
+      "description": "BUPI/705753513395/05-04-2024\n07:41:36/UPI",
+      "amount": 1387.83,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 239124.76
+    },
+    {
+      "transaction_date": "2024-04-06",
+      "description": "MEDR/FLIPKART SHP/695120/",
+      "amount": 1057.16,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 238067.6
+    },
+    {
+      "transaction_date": "2024-04-06",
+      "description": "MEDR/AMAZON IND/878378/",
+      "amount": 783.89,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 237283.71
+    },
+    {
+      "transaction_date": "2024-04-06",
+      "description": "BUPI/704675127342/06-04-2024\n11:03:27/UPI",
+      "amount": 1052.71,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 236231.0
+    },
+    {
+      "transaction_date": "2024-04-06",
+      "description": "CWDR//860565/CPCN0170",
+      "amount": 4039.3,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 232191.7
+    },
+    {
+      "transaction_date": "2024-04-07",
+      "description": "BUPI/724808109821/07-04-2024\n15:55:11/UPI",
+      "amount": 885.02,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 231306.68
+    },
+    {
+      "transaction_date": "2024-04-07",
+      "description": "MEDR/MAX HEALTH/796056/",
+      "amount": 2616.67,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 228690.01
+    },
+    {
+      "transaction_date": "2024-04-08",
+      "description": "NEFT-PAYMENT",
+      "amount": 4075.08,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 232765.09
+    },
+    {
+      "transaction_date": "2024-04-08",
+      "description": "Annual Maintenance Charges",
+      "amount": 80.25,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 232684.84
+    },
+    {
+      "transaction_date": "2024-04-08",
+      "description": "NEFT-TRANSFER",
+      "amount": 1142.81,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 233827.65
+    },
+    {
+      "transaction_date": "2024-04-08",
+      "description": "BUPI/766854586384/08-04-2024\n01:46:26/UPI",
+      "amount": 1740.01,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 232087.64
+    },
+    {
+      "transaction_date": "2024-04-09",
+      "description": "CWDR//677215/CPCN0170",
+      "amount": 4022.14,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 228065.5
+    },
+    {
+      "transaction_date": "2024-04-09",
+      "description": "BUPI/731745748335/09-04-2024\n08:12:52/UPI",
+      "amount": 1718.47,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 226347.03
+    },
+    {
+      "transaction_date": "2024-04-10",
+      "description": "MEDR/TPDDL/700310/",
+      "amount": 629.45,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 225717.58
+    },
+    {
+      "transaction_date": "2024-04-10",
+      "description": "BUPI/738094985732/10-04-2024\n11:43:22/UPI",
+      "amount": 1874.67,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 223842.91
+    },
+    {
+      "transaction_date": "2024-04-10",
+      "description": "BUPI/717719344678/10-04-2024\n19:06:21/UPI",
+      "amount": 2284.4,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 221558.51
+    },
+    {
+      "transaction_date": "2024-04-10",
+      "description": "CWDR//104671/DWCW278",
+      "amount": 3633.46,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 217925.05
+    },
+    {
+      "transaction_date": "2024-04-11",
+      "description": "CWDR//498350/NKOL6146",
+      "amount": 6881.44,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 211043.61
+    },
+    {
+      "transaction_date": "2024-04-11",
+      "description": "MEDR/DOMINOS/711683/",
+      "amount": 258.01,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 210785.6
+    },
+    {
+      "transaction_date": "2024-04-12",
+      "description": "BUPI/758694392439/12-04-2024\n19:12:17/UPI",
+      "amount": 1810.48,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 208975.12
+    },
+    {
+      "transaction_date": "2024-04-12",
+      "description": "MEDR/BOOKMYSHOW/233875/",
+      "amount": 743.93,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 208231.19
+    },
+    {
+      "transaction_date": "2024-04-12",
+      "description": "CWDR//745322/MSO9047",
+      "amount": 2819.5,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 205411.69
+    },
+    {
+      "transaction_date": "2024-04-13",
+      "description": "MEDR/IRCTC/337226/",
+      "amount": 629.83,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 204781.86
+    },
+    {
+      "transaction_date": "2024-04-13",
+      "description": "BUPI/749649197931/13-04-2024\n01:31:23/UPI",
+      "amount": 577.67,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 204204.19
+    },
+    {
+      "transaction_date": "2024-04-14",
+      "description": "CWDR//308328/CS046112",
+      "amount": 1155.79,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 203048.4
+    },
+    {
+      "transaction_date": "2024-04-15",
+      "description": "CWDR//525749/ID046101",
+      "amount": 4790.68,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 198257.72
+    },
+    {
+      "transaction_date": "2024-04-15",
+      "description": "MEDR/BESCOM/632240/",
+      "amount": 778.93,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 197478.79
+    },
+    {
+      "transaction_date": "2024-04-15",
+      "description": "BUPI/749798145794/15-04-2024\n18:17:52/UPI",
+      "amount": 1002.98,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 196475.81
+    },
+    {
+      "transaction_date": "2024-04-15",
+      "description": "BUPI/732030364221/15-04-2024\n18:05:25/UPI",
+      "amount": 532.58,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 195943.23
+    },
+    {
+      "transaction_date": "2024-04-16",
+      "description": "CWDR//726836/CS046112",
+      "amount": 2619.45,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 193323.78
+    },
+    {
+      "transaction_date": "2024-04-16",
+      "description": "CWDR//388883/ID046101",
+      "amount": 7307.75,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 186016.03
+    },
+    {
+      "transaction_date": "2024-04-17",
+      "description": "NEFT-MONTHLY RENT306512/",
+      "amount": 6518.72,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 179497.31
+    },
+    {
+      "transaction_date": "2024-04-18",
+      "description": "NEFT-REIMBURSEMENT",
+      "amount": 1883.62,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 181380.93
+    },
+    {
+      "transaction_date": "2024-04-19",
+      "description": "MEDR/BIG BAZAAR/393494/",
+      "amount": 2406.97,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 178973.96
+    },
+    {
+      "transaction_date": "2024-04-19",
+      "description": "MEDR/FLIPKART IND/967530/",
+      "amount": 1185.69,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 177788.27
+    },
+    {
+      "transaction_date": "2024-04-19",
+      "description": "MEDR/KFC REST/122926/",
+      "amount": 1479.81,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 176308.46
+    },
+    {
+      "transaction_date": "2024-04-20",
+      "description": "CWDR//480624/CSO9013",
+      "amount": 5001.38,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 171307.08
+    },
+    {
+      "transaction_date": "2024-04-21",
+      "description": "CWDR//421941/DWCW278",
+      "amount": 6480.88,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 164826.2
+    },
+    {
+      "transaction_date": "2024-04-21",
+      "description": "BUPI/710514436514/21-04-2024\n02:26:56/UPI",
+      "amount": 247.94,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 164578.26
+    },
+    {
+      "transaction_date": "2024-04-21",
+      "description": "BUPI/748338629850/21-04-2024\n21:45:37/UPI",
+      "amount": 449.91,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 164128.35
+    },
+    {
+      "transaction_date": "2024-04-22",
+      "description": "NEFT-REFUND",
+      "amount": 4488.84,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 168617.19
+    },
+    {
+      "transaction_date": "2024-04-23",
+      "description": "Service Charges",
+      "amount": 54.61,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 168562.58
+    },
+    {
+      "transaction_date": "2024-04-24",
+      "description": "BUPI/718664904686/24-04-2024\n19:57:02/UPI",
+      "amount": 505.65,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 168056.93
+    },
+    {
+      "transaction_date": "2024-04-25",
+      "description": "CWDR//118523/NKOL6146",
+      "amount": 7448.18,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 160608.75
+    },
+    {
+      "transaction_date": "2024-04-25",
+      "description": "CWRR//118523/NKOL6146",
+      "amount": 7448.18,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 168056.93
+    },
+    {
+      "transaction_date": "2024-04-26",
+      "description": "BUPI/702452957538/26-04-2024\n08:24:39/UPI",
+      "amount": 1560.47,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 166496.46
+    },
+    {
+      "transaction_date": "2024-04-26",
+      "description": "MEDR/ZOMATO DEL/467738/",
+      "amount": 1268.88,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 165227.58
+    },
+    {
+      "transaction_date": "2024-04-27",
+      "description": "BUPI/704083761820/27-04-2024\n04:18:10/UPI",
+      "amount": 748.24,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 164479.34
+    },
+    {
+      "transaction_date": "2024-04-28",
+      "description": "MEDR/AIRTEL NET/637325/",
+      "amount": 533.68,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 163945.66
+    },
+    {
+      "transaction_date": "2024-04-28",
+      "description": "MEDR/RELIANCE PT/703533/",
+      "amount": 970.72,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 162974.94
+    },
+    {
+      "transaction_date": "2024-04-28",
+      "description": "Annual Maintenance Charges",
+      "amount": 29.68,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 162945.26
+    },
+    {
+      "transaction_date": "2024-04-28",
+      "description": "BUPI/776624623465/28-04-2024\n04:46:50/UPI",
+      "amount": 1354.72,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 161590.54
+    },
+    {
+      "transaction_date": "2024-04-29",
+      "description": "BUPI/777719492260/29-04-2024\n15:15:50/UPI",
+      "amount": 1656.86,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 159933.68
+    },
+    {
+      "transaction_date": "2024-04-29",
+      "description": "BUPI/766485271676/29-04-2024\n12:36:39/UPI",
+      "amount": 2185.56,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 157748.12
+    },
+    {
+      "transaction_date": "2024-04-30",
+      "description": "Annual Maintenance Charges",
+      "amount": 64.57,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 157683.55
+    },
+    {
+      "transaction_date": "2024-05-01",
+      "description": "NEFT-PAYMENT",
+      "amount": 4990.38,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 162673.93
+    },
+    {
+      "transaction_date": "2024-05-02",
+      "description": "MEDR/HEALTH INS/904630/",
+      "amount": 17329.16,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 145344.77
+    },
+    {
+      "transaction_date": "2024-05-02",
+      "description": "BUPI/738032553192/02-05-2024\n22:59:33/UPI",
+      "amount": 1693.27,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 143651.5
+    },
+    {
+      "transaction_date": "2024-05-02",
+      "description": "MEDR/ICICI PRU/175699/",
+      "amount": 19356.96,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 124294.54
+    },
+    {
+      "transaction_date": "2024-05-02",
+      "description": "BUPI/780589152505/02-05-2024\n15:21:26/UPI",
+      "amount": 337.88,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 123956.66
+    },
+    {
+      "transaction_date": "2024-05-03",
+      "description": "salary",
+      "amount": 43023.67,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 166980.33
+    },
+    {
+      "transaction_date": "2024-05-03",
+      "description": "LOAN RECOVERY",
+      "amount": 9073.31,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 157907.02
+    },
+    {
+      "transaction_date": "2024-05-03",
+      "description": "MEDR/DMRC/556381/",
+      "amount": 255.75,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 157651.27
+    },
+    {
+      "transaction_date": "2024-05-04",
+      "description": "CWDR//100441/DWCW278",
+      "amount": 3770.51,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 153880.76
+    },
+    {
+      "transaction_date": "2024-05-04",
+      "description": "CWRR//100441/DWCW278",
+      "amount": 3770.51,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 157651.27
+    },
+    {
+      "transaction_date": "2024-05-04",
+      "description": "NACH DR INW - AXIS BANK\n/ 2167833680 / AGL",
+      "amount": 11075.69,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 146575.58
+    },
+    {
+      "transaction_date": "2024-05-05",
+      "description": "CWDR//242593/CSO9013",
+      "amount": 1435.66,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 145139.92
+    },
+    {
+      "transaction_date": "2024-05-06",
+      "description": "CWDR//449422/MSO9047",
+      "amount": 673.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 144466.92
+    },
+    {
+      "transaction_date": "2024-05-06",
+      "description": "MEDR/VODAFONE/105635/",
+      "amount": 1094.81,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 143372.11
+    },
+    {
+      "transaction_date": "2024-05-06",
+      "description": "SMSChargesQtrAPR24-JUN24+GST@18",
+      "amount": 43.55,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 143328.56
+    },
+    {
+      "transaction_date": "2024-05-06",
+      "description": "NEFT-TRANSFER",
+      "amount": 3182.32,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 146510.88
+    },
+    {
+      "transaction_date": "2024-05-07",
+      "description": "CWDR//236214/CSO9013",
+      "amount": 1389.75,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 145121.13
+    },
+    {
+      "transaction_date": "2024-05-08",
+      "description": "MEDR/RAPIDO/635446/",
+      "amount": 436.03,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 144685.1
+    },
+    {
+      "transaction_date": "2024-05-09",
+      "description": "CWDR//275519/NKOL6146",
+      "amount": 941.78,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 143743.32
+    },
+    {
+      "transaction_date": "2024-05-10",
+      "description": "NEFT-PAYMENT",
+      "amount": 1710.42,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 145453.74
+    },
+    {
+      "transaction_date": "2024-05-10",
+      "description": "NEFT-REIMBURSEMENT",
+      "amount": 4683.78,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 150137.52
+    },
+    {
+      "transaction_date": "2024-05-10",
+      "description": "BUPI/723788976441/10-05-2024\n01:14:16/UPI",
+      "amount": 775.17,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 149362.35
+    },
+    {
+      "transaction_date": "2024-05-11",
+      "description": "MEDR/SWIGGY FD/666183/",
+      "amount": 1267.54,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 148094.81
+    },
+    {
+      "transaction_date": "2024-05-11",
+      "description": "MEDR/JIO FIBER/554937/",
+      "amount": 123.68,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 147971.13
+    },
+    {
+      "transaction_date": "2024-05-11",
+      "description": "CWDR//398180/MSO9047",
+      "amount": 4491.38,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 143479.75
+    },
+    {
+      "transaction_date": "2024-05-11",
+      "description": "CWDR//302839/CPCN0170",
+      "amount": 3103.61,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 140376.14
+    },
+    {
+      "transaction_date": "2024-05-12",
+      "description": "CWDR//104755/ID046101",
+      "amount": 6411.29,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 133964.85
+    },
+    {
+      "transaction_date": "2024-05-12",
+      "description": "NEFT-REFUND",
+      "amount": 1171.73,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 135136.58
+    },
+    {
+      "transaction_date": "2024-05-13",
+      "description": "CWDR//854623/CSO9013",
+      "amount": 6442.8,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 128693.78
+    },
+    {
+      "transaction_date": "2024-05-13",
+      "description": "MEDR/AIRTEL RCH/865449/",
+      "amount": 1135.84,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 127557.94
+    },
+    {
+      "transaction_date": "2024-05-13",
+      "description": "Debit Card Annual Charges",
+      "amount": 89.02,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 127468.92
+    },
+    {
+      "transaction_date": "2024-05-13",
+      "description": "BUPI/724907371251/13-05-2024\n14:49:30/UPI",
+      "amount": 279.84,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 127189.08
+    },
+    {
+      "transaction_date": "2024-05-14",
+      "description": "CWDR//995320/CS046112",
+      "amount": 6529.32,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 120659.76
+    },
+    {
+      "transaction_date": "2024-05-15",
+      "description": "CWDR//271934/CS046112",
+      "amount": 4412.8,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 116246.96
+    },
+    {
+      "transaction_date": "2024-05-15",
+      "description": "BUPI/754324667128/15-05-2024\n05:04:52/UPI",
+      "amount": 2260.56,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 113986.4
+    },
+    {
+      "transaction_date": "2024-05-15",
+      "description": "CWDR//837974/CSO9013",
+      "amount": 944.44,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 113041.96
+    },
+    {
+      "transaction_date": "2024-05-16",
+      "description": "CWDR//908626/CPCN0170",
+      "amount": 5045.02,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 107996.94
+    },
+    {
+      "transaction_date": "2024-05-16",
+      "description": "MEDR/METRO RCH/901862/",
+      "amount": 450.13,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 107546.81
+    },
+    {
+      "transaction_date": "2024-05-16",
+      "description": "BUPI/715225939608/16-05-2024\n10:20:18/UPI",
+      "amount": 751.7,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 106795.11
+    },
+    {
+      "transaction_date": "2024-05-16",
+      "description": "BUPI/714363991206/16-05-2024\n09:18:10/UPI",
+      "amount": 1278.17,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 105516.94
+    },
+    {
+      "transaction_date": "2024-05-17",
+      "description": "NEFT-TRANSFER",
+      "amount": 658.56,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 106175.5
+    },
+    {
+      "transaction_date": "2024-05-17",
+      "description": "CWDR//758775/CS046112",
+      "amount": 5595.24,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 100580.26
+    },
+    {
+      "transaction_date": "2024-05-17",
+      "description": "NACH DR INW - SBI\n/ 5870757385 / AGL",
+      "amount": 10311.13,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 90269.13
+    },
+    {
+      "transaction_date": "2024-05-17",
+      "description": "NEFT-PAYMENT",
+      "amount": 817.26,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 91086.39
+    },
+    {
+      "transaction_date": "2024-05-18",
+      "description": "MEDR/CINEPOLIS/839486/",
+      "amount": 1070.46,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 90015.93
+    },
+    {
+      "transaction_date": "2024-05-19",
+      "description": "SMSChargesQtrAPR24-JUN24+GST@18",
+      "amount": 36.13,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 89979.8
+    },
+    {
+      "transaction_date": "2024-05-20",
+      "description": "CWDR//723753/MSO9047",
+      "amount": 5804.53,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 84175.27
+    },
+    {
+      "transaction_date": "2024-05-20",
+      "description": "CWDR//993356/TPCN1257",
+      "amount": 3833.76,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 80341.51
+    },
+    {
+      "transaction_date": "2024-05-20",
+      "description": "BUPI/772836376502/20-05-2024\n13:51:25/UPI",
+      "amount": 1194.24,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 79147.27
+    },
+    {
+      "transaction_date": "2024-05-20",
+      "description": "MEDR/SPENCER RET/137086/",
+      "amount": 1119.11,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 78028.16
+    },
+    {
+      "transaction_date": "2024-05-21",
+      "description": "NEFT-REIMBURSEMENT",
+      "amount": 2916.85,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 80945.01
+    },
+    {
+      "transaction_date": "2024-05-21",
+      "description": "NEFT-PAYMENT",
+      "amount": 1187.89,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 82132.9
+    },
+    {
+      "transaction_date": "2024-05-22",
+      "description": "MEDR/SCH ADMIS/197105/",
+      "amount": 5867.34,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 76265.56
+    },
+    {
+      "transaction_date": "2024-05-22",
+      "description": "CWDR//969417/CPCN0170",
+      "amount": 1354.19,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 74911.37
+    },
+    {
+      "transaction_date": "2024-05-22",
+      "description": "MEDR/PVR CINEMA/626271/",
+      "amount": 1399.23,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 73512.14
+    },
+    {
+      "transaction_date": "2024-05-22",
+      "description": "CWDR//491323/DWCW278",
+      "amount": 1510.41,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 72001.73
+    },
+    {
+      "transaction_date": "2024-05-23",
+      "description": "CWDR//343272/CS046112",
+      "amount": 4495.14,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 67506.59
+    },
+    {
+      "transaction_date": "2024-05-24",
+      "description": "CWDR//218802/CSO9013",
+      "amount": 3303.52,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 64203.07
+    },
+    {
+      "transaction_date": "2024-05-24",
+      "description": "BUPI/751659532186/24-05-2024\n14:42:19/UPI",
+      "amount": 504.95,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 63698.12
+    },
+    {
+      "transaction_date": "2024-05-25",
+      "description": "Annual Maintenance Charges",
+      "amount": 83.53,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 63614.59
+    },
+    {
+      "transaction_date": "2024-05-26",
+      "description": "MEDR/SCHOOL FEE/519530/",
+      "amount": 6745.93,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 56868.66
+    },
+    {
+      "transaction_date": "2024-05-26",
+      "description": "MEDR/METRO CARD/651152/",
+      "amount": 594.82,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 56273.84
+    },
+    {
+      "transaction_date": "2024-05-26",
+      "description": "CWDR//478779/DWCW278",
+      "amount": 6286.36,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 49987.48
+    },
+    {
+      "transaction_date": "2024-05-27",
+      "description": "NEFT-REFUND",
+      "amount": 4439.31,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 54426.79
+    },
+    {
+      "transaction_date": "2024-05-27",
+      "description": "CWDR//865123/CPCN0170",
+      "amount": 6975.3,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 47451.49
+    },
+    {
+      "transaction_date": "2024-05-28",
+      "description": "MEDR/ZOMATO FD/243343/",
+      "amount": 1083.98,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 46367.51
+    },
+    {
+      "transaction_date": "2024-05-28",
+      "description": "CWDR//488424/CSO9013",
+      "amount": 6634.57,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 39732.94
+    },
+    {
+      "transaction_date": "2024-05-28",
+      "description": "MEDR/PIZZA HUT/859475/",
+      "amount": 1452.96,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 38279.98
+    },
+    {
+      "transaction_date": "2024-05-28",
+      "description": "MEDR/SWIGGY/680927/",
+      "amount": 1413.33,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 36866.65
+    },
+    {
+      "transaction_date": "2024-05-29",
+      "description": "Annual Maintenance Charges",
+      "amount": 96.03,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 36770.62
+    },
+    {
+      "transaction_date": "2024-05-30",
+      "description": "BUPI/748608009604/30-05-2024\n12:33:59/UPI",
+      "amount": 1573.31,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 35197.31
+    },
+    {
+      "transaction_date": "2024-05-30",
+      "description": "MEDR/MSEDCL/111101/",
+      "amount": 247.77,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 34949.54
+    },
+    {
+      "transaction_date": "2024-05-30",
+      "description": "MEDR/AMAZON PAY/528136/",
+      "amount": 687.41,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 34262.13
+    },
+    {
+      "transaction_date": "2024-05-30",
+      "description": "MEDR/ADANI GAS/101352/",
+      "amount": 716.26,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 33545.87
+    },
+    {
+      "transaction_date": "2024-05-31",
+      "description": "BUPI/737373332900/31-05-2024\n14:51:09/UPI",
+      "amount": 2343.4,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 31202.47
+    },
+    {
+      "transaction_date": "2024-05-31",
+      "description": "MEDR/HDFC LIFE/345248/",
+      "amount": 4946.26,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 26256.21
+    },
+    {
+      "transaction_date": "2024-05-31",
+      "description": "MEDR/INDIAN OIL/959027/",
+      "amount": 1850.99,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 24405.22
+    },
+    {
+      "transaction_date": "2024-06-01",
+      "description": "Debit Card Annual Charges",
+      "amount": 98.65,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 24306.57
+    },
+    {
+      "transaction_date": "2024-06-01",
+      "description": "MEDR/FORTIS MED/569158/",
+      "amount": 2045.63,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 22260.94
+    },
+    {
+      "transaction_date": "2024-06-02",
+      "description": "MEDR/HP GAS/152186/",
+      "amount": 1513.99,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 20746.95
+    },
+    {
+      "transaction_date": "2024-06-02",
+      "description": "CWDR//162617/DWCW278",
+      "amount": 3378.82,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 17368.13
+    },
+    {
+      "transaction_date": "2024-06-02",
+      "description": "NACH DR INW - SBI\n/ 5278487028 / AGL",
+      "amount": 4789.63,
+      "transaction_type": "DEBIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 12578.5
+    },
+    {
+      "transaction_date": "2024-06-02",
+      "description": "NEFT-REIMBURSEMENT",
+      "amount": 3176.29,
+      "transaction_type": "CREDIT",
+      "bank_name": "BOI",
+      "account_number": "781374845537",
+      "balance": 15754.79
+    }
+  ]
+}

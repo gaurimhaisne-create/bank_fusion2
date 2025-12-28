@@ -1,0 +1,1358 @@
+{
+  "bank_name": "CENTRAL",
+  "account_number": "1136365327",
+  "account_holder": "Mr. RAHUL KUMAR",
+  "statement_period": "Available in Statement",
+  "transactions": [
+    {
+      "transaction_date": "2025-10-21",
+      "description": "TO TRF.- UPI RRN 436249459386.TRF TO NETFLIX",
+      "amount": 672.92,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 396962.52
+    },
+    {
+      "transaction_date": "2025-10-21",
+      "description": "TO TRF.- UPI RRN 436041703276.TRF TO DMART",
+      "amount": 2335.05,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 394627.47
+    },
+    {
+      "transaction_date": "2025-10-21",
+      "description": "TO TRF.- UPI RRN 479556032778.TRF TO ELECTRICITY BILL",
+      "amount": 1234.17,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 393393.3
+    },
+    {
+      "transaction_date": "2025-10-21",
+      "description": "TO TRF.- UPI RRN 452326367606.TRF TO GAS CYLINDER",
+      "amount": 944.37,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 392448.93
+    },
+    {
+      "transaction_date": "2025-10-21",
+      "description": "BY TRF.- UPI RRN 404730518665.TRF FROM FRIEND",
+      "amount": 3345.48,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 395794.41
+    },
+    {
+      "transaction_date": "2025-10-21",
+      "description": "BY TRF.- UPI RRN 420687124865.TRF FROM FRIEND",
+      "amount": 4601.07,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 400395.48
+    },
+    {
+      "transaction_date": "2025-10-21",
+      "description": "TO TRF.- UPI RRN 482757652812.TRF TO JIO FIBER",
+      "amount": 699.37,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 399696.11
+    },
+    {
+      "transaction_date": "2025-10-22",
+      "description": "TO TRF.- UPI RRN 470652616864.TRF TO AMAZON",
+      "amount": 1345.74,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 398350.37
+    },
+    {
+      "transaction_date": "2025-10-22",
+      "description": "TO TRF.- UPI RRN 423753970233.TRF TO AIRTEL BROADBAND",
+      "amount": 1299.59,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 397050.78
+    },
+    {
+      "transaction_date": "2025-10-22",
+      "description": "TO TRF.- UPI RRN 493108959267.TRF TO INOX",
+      "amount": 883.77,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 396167.01
+    },
+    {
+      "transaction_date": "2025-10-22",
+      "description": "TO TRF.- UPI RRN 407736800554.TRF TO DMART",
+      "amount": 1425.9,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 394741.11
+    },
+    {
+      "transaction_date": "2025-10-23",
+      "description": "TO TRF.- UPI RRN 431709302345.TRF TO BIG BAZAAR",
+      "amount": 2918.18,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 391822.93
+    },
+    {
+      "transaction_date": "2025-10-23",
+      "description": "TO TRF.- UPI RRN 451226829159.TRF TO DTH RECHARGE",
+      "amount": 351.39,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 391471.54
+    },
+    {
+      "transaction_date": "2025-10-24",
+      "description": "TO TRF.- UPI RRN 401545637676.TRF TO AMAZON PRIME",
+      "amount": 1366.79,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 390104.75
+    },
+    {
+      "transaction_date": "2025-10-24",
+      "description": "TO TRF.- UPI RRN 437216576184.TRF TO MORE MEGASTORE",
+      "amount": 898.28,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 389206.47
+    },
+    {
+      "transaction_date": "2025-10-24",
+      "description": "TO TRF.- UPI RRN 464689756185.CTARRFR ITEOD MFOORREW MAREDG A:STORE",
+      "amount": 387430.92,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 384883.73
+    },
+    {
+      "transaction_date": "2025-10-24",
+      "description": "TO TRF.- UPI RRN 414427739976.TRF TO FLIPKART",
+      "amount": 2547.19,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 384883.73
+    },
+    {
+      "transaction_date": "2025-10-24",
+      "description": "TO TRF.- UPI RRN 474843252201.TRF TO CAFE COFFEE DAY",
+      "amount": 298.72,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 384585.01
+    },
+    {
+      "transaction_date": "2025-10-24",
+      "description": "TO TRF.- UPI RRN 434683977631.TRF TO AIRTEL BROADBAND",
+      "amount": 613.76,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 383971.25
+    },
+    {
+      "transaction_date": "2025-10-25",
+      "description": "TO TRF.- UPI RRN 478516131648.TRF TO AMAZON",
+      "amount": 1649.37,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 382321.88
+    },
+    {
+      "transaction_date": "2025-10-25",
+      "description": "TO TRF.- UPI RRN 459521845016.TRF TO STARBUCKS",
+      "amount": 302.2,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 382019.68
+    },
+    {
+      "transaction_date": "2025-10-25",
+      "description": "TO TRF.- UPI RRN 468629784440.TRF TO BHARAT PETROLEUM",
+      "amount": 2365.85,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 379653.83
+    },
+    {
+      "transaction_date": "2025-10-25",
+      "description": "TO TRF.- UPI RRN 426340052926.TRF TO RELIANCE FRESH",
+      "amount": 422.51,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 379231.32
+    },
+    {
+      "transaction_date": "2025-10-25",
+      "description": "BY TRF.- UPI RRN 431227991589.TRF FROM FRIEND",
+      "amount": 1049.59,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 380280.91
+    },
+    {
+      "transaction_date": "2025-10-26",
+      "description": "TO TRF.- UPI RRN 418311540208.TRF TO WATER BILL",
+      "amount": 658.06,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 379622.85
+    },
+    {
+      "transaction_date": "2025-10-26",
+      "description": "TO TRF.- UPI RRN 442858839139.TRF TO AMAZON PRIME",
+      "amount": 413.01,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 379209.84
+    },
+    {
+      "transaction_date": "2025-10-27",
+      "description": "TO TRF.- UPI RRN 417168407983.TRF TO WESTSIDE",
+      "amount": 1329.37,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 377880.47
+    },
+    {
+      "transaction_date": "2025-10-27",
+      "description": "BY TRF.- UPI RRN 468431658404.REFUND",
+      "amount": 1250.62,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 379131.09
+    },
+    {
+      "transaction_date": "2025-10-27",
+      "description": "TO TRF.- UPI RRN 472502361497.TRF TO BHARAT PETROLEUM",
+      "amount": 681.99,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 378449.1
+    },
+    {
+      "transaction_date": "2025-10-27",
+      "description": "TO TRF.- UPI RRN 440424495461.TRF TO LOCAL KIRANA",
+      "amount": 202.86,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 378246.24
+    },
+    {
+      "transaction_date": "2025-10-28",
+      "description": "TO TRF.- UPI RRN 477662699475.TRF TO WATER BILL",
+      "amount": 371.05,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 377875.19
+    },
+    {
+      "transaction_date": "2025-10-28",
+      "description": "TO TRF.- UPI RRN 417500377031.TRF TO MYNTRA",
+      "amount": 785.92,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 377089.27
+    },
+    {
+      "transaction_date": "2025-10-28",
+      "description": "TO TRF.- UPI RRN 418403152561.TRF TO UBER",
+      "amount": 191.97,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 376897.3
+    },
+    {
+      "transaction_date": "2025-10-28",
+      "description": "TO TRF.- UPI RRN 423732634224.TRF TO UBER",
+      "amount": 380.3,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 376517.0
+    },
+    {
+      "transaction_date": "2025-10-28",
+      "description": "TO TRF.- UPI RRN 450417720925.CTARRFR ITEOD BFIOGR BWAAZARADR :",
+      "amount": 374232.17,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 373222.41
+    },
+    {
+      "transaction_date": "2025-10-29",
+      "description": "TO TRF.- UPI RRN 458990205504.TRF TO AJIO",
+      "amount": 1009.76,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 373222.41
+    },
+    {
+      "transaction_date": "2025-10-29",
+      "description": "TO TRF.- UPI RRN 474182521780.TRF TO SPOTIFY",
+      "amount": 119.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 373103.41
+    },
+    {
+      "transaction_date": "2025-10-29",
+      "description": "TO TRF.- UPI RRN 480556844116.TRF TO GOIBIBO",
+      "amount": 6912.06,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 366191.35
+    },
+    {
+      "transaction_date": "2025-10-29",
+      "description": "TO TRF.- UPI RRN 470222708141.TRF TO AJIO",
+      "amount": 860.36,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 365330.99
+    },
+    {
+      "transaction_date": "2025-10-29",
+      "description": "TO TRF.- UPI RRN 464227569180.TRF TO DMART",
+      "amount": 2658.2,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 362672.79
+    },
+    {
+      "transaction_date": "2025-10-29",
+      "description": "TO TRF.- UPI RRN 412194314777.TRF TO AMAZON PRIME",
+      "amount": 577.89,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 362094.9
+    },
+    {
+      "transaction_date": "2025-10-29",
+      "description": "TO TRF.- UPI RRN 495159159049.TRF TO SUBWAY",
+      "amount": 334.2,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 361760.7
+    },
+    {
+      "transaction_date": "2025-10-30",
+      "description": "TO TRF.- UPI RRN 453171059458.TRF TO MORE MEGASTORE",
+      "amount": 834.11,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 360926.59
+    },
+    {
+      "transaction_date": "2025-10-30",
+      "description": "TO TRF.- UPI RRN 475114644355.TRF TO INDIAN OIL PETROL",
+      "amount": 808.86,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 360117.73
+    },
+    {
+      "transaction_date": "2025-10-30",
+      "description": "TO TRF.- UPI RRN 407260007336.TRF TO SALON",
+      "amount": 1151.76,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 358965.97
+    },
+    {
+      "transaction_date": "2025-10-30",
+      "description": "TO TRF.- UPI RRN 442338564244.TRF TO PANTALOONS",
+      "amount": 1860.44,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 357105.53
+    },
+    {
+      "transaction_date": "2025-10-30",
+      "description": "TO TRF.- UPI RRN 400113159505.TRF TO MYNTRA",
+      "amount": 1079.49,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 356026.04
+    },
+    {
+      "transaction_date": "2025-10-30",
+      "description": "TO TRF.- UPI RRN 469309243956.TRF TO GOIBIBO",
+      "amount": 6417.23,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 349608.81
+    },
+    {
+      "transaction_date": "2025-10-30",
+      "description": "TO TRF.- UPI RRN 497803426358.TRF TO MOBILE RECHARGE",
+      "amount": 483.87,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 349124.94
+    },
+    {
+      "transaction_date": "2025-10-30",
+      "description": "BY TRF.- UPI RRN 421339293363.SALARY CREDIT",
+      "amount": 64232.62,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 413357.56
+    },
+    {
+      "transaction_date": "2025-10-31",
+      "description": "TO TRF.- UPI RRN 414245936608.TRF TO INOX",
+      "amount": 323.68,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 413033.88
+    },
+    {
+      "transaction_date": "2025-10-31",
+      "description": "TO TRF.- UPI RRN 471568208454.TRF TO GYM MEMBERSHIP",
+      "amount": 1390.37,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 411643.51
+    },
+    {
+      "transaction_date": "2025-10-31",
+      "description": "BY TRF.- UPI RRN 466864219436.SALARY CREDIT",
+      "amount": 39007.45,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 450650.96
+    },
+    {
+      "transaction_date": "2025-11-01",
+      "description": "TO TRF.- UPI RRN 407857819471.TRF TO MAKEMYTRIP",
+      "amount": 9513.29,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 441137.67
+    },
+    {
+      "transaction_date": "2025-11-01",
+      "description": "TO TRF.- UPI RRN 415479583142.CTARRFR ITEOD RFEONRTW PAARYDM :ENT",
+      "amount": 419206.08,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 418744.95
+    },
+    {
+      "transaction_date": "2025-11-01",
+      "description": "TO TRF.- UPI RRN 411416387491.TRF TO MORE MEGASTORE",
+      "amount": 461.13,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 418744.95
+    },
+    {
+      "transaction_date": "2025-11-01",
+      "description": "TO TRF.- UPI RRN 446704007615.TRF TO KFC",
+      "amount": 371.77,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 418373.18
+    },
+    {
+      "transaction_date": "2025-11-01",
+      "description": "TO TRF.- UPI RRN 408672657099.TRF TO AJIO",
+      "amount": 980.63,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 417392.55
+    },
+    {
+      "transaction_date": "2025-11-01",
+      "description": "TO TRF.- UPI RRN 415430048550.TRF TO MAKEMYTRIP",
+      "amount": 4494.13,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 412898.42
+    },
+    {
+      "transaction_date": "2025-11-01",
+      "description": "TO TRF.- UPI RRN 455146967065.TRF TO RELIANCE FRESH",
+      "amount": 1693.56,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 411204.86
+    },
+    {
+      "transaction_date": "2025-11-02",
+      "description": "TO TRF.- UPI RRN 417431552125.TRF TO AMAZON PRIME",
+      "amount": 1260.35,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 409944.51
+    },
+    {
+      "transaction_date": "2025-11-02",
+      "description": "TO TRF.- UPI RRN 434897025354.TRF TO MYNTRA",
+      "amount": 973.08,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 408971.43
+    },
+    {
+      "transaction_date": "2025-11-02",
+      "description": "TO TRF.- UPI RRN 493796285664.TRF TO RELIANCE FRESH",
+      "amount": 743.18,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 408228.25
+    },
+    {
+      "transaction_date": "2025-11-03",
+      "description": "TO TRF.- UPI RRN 422611058099.TRF TO SPOTIFY",
+      "amount": 119.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 408109.25
+    },
+    {
+      "transaction_date": "2025-11-03",
+      "description": "TO TRF.- UPI RRN 406274503401.TRF TO MOBILE RECHARGE",
+      "amount": 797.62,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 407311.63
+    },
+    {
+      "transaction_date": "2025-11-03",
+      "description": "TO TRF.- UPI RRN 461263895107.TRF TO GYM MEMBERSHIP",
+      "amount": 1965.55,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 405346.08
+    },
+    {
+      "transaction_date": "2025-11-03",
+      "description": "TO TRF.- UPI RRN 458360609635.TRF TO JIO FIBER",
+      "amount": 752.72,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 404593.36
+    },
+    {
+      "transaction_date": "2025-11-03",
+      "description": "TO TRF.- UPI RRN 401432681762.TRF TO STARBUCKS",
+      "amount": 263.53,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 404329.83
+    },
+    {
+      "transaction_date": "2025-11-03",
+      "description": "TO TRF.- UPI RRN 434545690993.TRF TO BIG BAZAAR",
+      "amount": 3125.01,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 401204.82
+    },
+    {
+      "transaction_date": "2025-11-04",
+      "description": "TO TRF.- UPI RRN 473197096515.TRF TO INOX",
+      "amount": 769.06,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 400435.76
+    },
+    {
+      "transaction_date": "2025-11-04",
+      "description": "TO TRF.- UPI RRN 444336461597.TRF TO BARBEQUE NATION",
+      "amount": 1194.07,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 399241.69
+    },
+    {
+      "transaction_date": "2025-11-04",
+      "description": "TO TRF.- UPI RRN 485360372812.TRF TO PVR CINEMAS",
+      "amount": 840.09,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 398401.6
+    },
+    {
+      "transaction_date": "2025-11-04",
+      "description": "TO TRF.- UPI RRN 414666944817.TRF TO DOMINOS PIZZA",
+      "amount": 451.55,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 397950.05
+    },
+    {
+      "transaction_date": "2025-11-05",
+      "description": "TO TRF.- UPI RRN 410645079513.TRF TO AJIO",
+      "amount": 1998.29,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 395951.76
+    },
+    {
+      "transaction_date": "2025-11-05",
+      "description": "TO TRF.- UPI RRN 401984143519.CTARRFR ITEOD JFIOO RFWIBAERRD :",
+      "amount": 394886.06,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 393511.04
+    },
+    {
+      "transaction_date": "2025-11-05",
+      "description": "TO TRF.- UPI RRN 478636971158.TRF TO JIO FIBER",
+      "amount": 1375.02,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 393511.04
+    },
+    {
+      "transaction_date": "2025-11-05",
+      "description": "TO TRF.- UPI RRN 443980809963.TRF TO METRO CARD RECHARGE",
+      "amount": 313.88,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 393197.16
+    },
+    {
+      "transaction_date": "2025-11-06",
+      "description": "TO TRF.- UPI RRN 431562703993.TRF TO SALON",
+      "amount": 951.92,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 392245.24
+    },
+    {
+      "transaction_date": "2025-11-06",
+      "description": "TO TRF.- UPI RRN 421171028830.TRF TO LOCAL KIRANA",
+      "amount": 909.75,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 391335.49
+    },
+    {
+      "transaction_date": "2025-11-06",
+      "description": "TO TRF.- UPI RRN 411184588854.TRF TO AMAZON",
+      "amount": 2360.54,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 388974.95
+    },
+    {
+      "transaction_date": "2025-11-06",
+      "description": "TO TRF.- UPI RRN 489471695902.TRF TO GAS CYLINDER",
+      "amount": 977.69,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 387997.26
+    },
+    {
+      "transaction_date": "2025-11-08",
+      "description": "TO TRF.- UPI RRN 459641490360.TRF TO RELIANCE FRESH",
+      "amount": 907.29,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 387089.97
+    },
+    {
+      "transaction_date": "2025-11-08",
+      "description": "TO TRF.- UPI RRN 416091820574.TRF TO STARBUCKS",
+      "amount": 199.61,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 386890.36
+    },
+    {
+      "transaction_date": "2025-11-08",
+      "description": "TO TRF.- UPI RRN 490458409730.TRF TO SALON",
+      "amount": 1129.85,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 385760.51
+    },
+    {
+      "transaction_date": "2025-11-09",
+      "description": "BY TRF.- UPI RRN 479806096097.SALARY CREDIT",
+      "amount": 43851.45,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 429611.96
+    },
+    {
+      "transaction_date": "2025-11-09",
+      "description": "TO TRF.- UPI RRN 463760886985.TRF TO METRO CARD RECHARGE",
+      "amount": 398.83,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 429213.13
+    },
+    {
+      "transaction_date": "2025-11-09",
+      "description": "TO TRF.- UPI RRN 498034925479.TRF TO SUBWAY",
+      "amount": 302.36,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 428910.77
+    },
+    {
+      "transaction_date": "2025-11-10",
+      "description": "BY TRF.- UPI RRN 426871183803.SALARY CREDIT",
+      "amount": 64919.99,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 493830.76
+    },
+    {
+      "transaction_date": "2025-11-10",
+      "description": "TO TRF.- UPI RRN 410184929105.TRF TO RELIANCE FRESH",
+      "amount": 1818.91,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 492011.85
+    },
+    {
+      "transaction_date": "2025-11-10",
+      "description": "TO TRF.- UPI RRN 434702205340.TRF TO SPENCERS",
+      "amount": 1788.79,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 490223.06
+    },
+    {
+      "transaction_date": "2025-11-10",
+      "description": "TO TRF.- UPI RRN 492256803806.TRF TO GYM MEMBERSHIP",
+      "amount": 2579.09,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 487643.97
+    },
+    {
+      "transaction_date": "2025-11-10",
+      "description": "TO TRF.- UPI RRN 455028327924.TRF TO IRCTC TRAIN BOOKING",
+      "amount": 1889.21,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 485754.76
+    },
+    {
+      "transaction_date": "2025-11-10",
+      "description": "BY TRF.- UPI RRN 435279386139.TRF FROM FRIEND",
+      "amount": 2978.7,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 488733.46
+    },
+    {
+      "transaction_date": "2025-11-11",
+      "description": "TO TRF.- UPI RRN 480848340038.TRF TO INOX",
+      "amount": 558.32,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 488175.14
+    },
+    {
+      "transaction_date": "2025-11-11",
+      "description": "TO TRF.- UPI RRN 470414351253.CTARRFR ITEOD PFHOARRWMAARCDY :",
+      "amount": 487767.78,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 486818.49
+    },
+    {
+      "transaction_date": "2025-11-11",
+      "description": "TO TRF.- UPI RRN 415988951312.TRF TO GAS CYLINDER",
+      "amount": 949.29,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 486818.49
+    },
+    {
+      "transaction_date": "2025-11-11",
+      "description": "BY TRF.- UPI RRN 465020553834.SALARY CREDIT",
+      "amount": 44247.41,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 531065.9
+    },
+    {
+      "transaction_date": "2025-11-12",
+      "description": "TO TRF.- UPI RRN 463206197691.TRF TO DTH RECHARGE",
+      "amount": 277.09,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 530788.81
+    },
+    {
+      "transaction_date": "2025-11-12",
+      "description": "TO TRF.- UPI RRN 460209250228.TRF TO LOCAL KIRANA",
+      "amount": 983.7,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 529805.11
+    },
+    {
+      "transaction_date": "2025-11-12",
+      "description": "TO TRF.- UPI RRN 420857281358.TRF TO DMART",
+      "amount": 2713.7,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 527091.41
+    },
+    {
+      "transaction_date": "2025-11-12",
+      "description": "TO TRF.- UPI RRN 495080969229.TRF TO BOOK MY SHOW",
+      "amount": 363.17,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 526728.24
+    },
+    {
+      "transaction_date": "2025-11-12",
+      "description": "TO TRF.- UPI RRN 464605645980.TRF TO AJIO",
+      "amount": 897.38,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 525830.86
+    },
+    {
+      "transaction_date": "2025-11-12",
+      "description": "TO TRF.- UPI RRN 429798614968.TRF TO WATER BILL",
+      "amount": 605.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 525225.86
+    },
+    {
+      "transaction_date": "2025-11-12",
+      "description": "TO TRF.- UPI RRN 442057952530.TRF TO STARBUCKS",
+      "amount": 347.85,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 524878.01
+    },
+    {
+      "transaction_date": "2025-11-13",
+      "description": "TO TRF.- UPI RRN 475139877063.TRF TO ELECTRICITY BILL",
+      "amount": 2257.97,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 522620.04
+    },
+    {
+      "transaction_date": "2025-11-13",
+      "description": "TO TRF.- UPI RRN 470981785264.TRF TO MORE MEGASTORE",
+      "amount": 480.62,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 522139.42
+    },
+    {
+      "transaction_date": "2025-11-13",
+      "description": "TO TRF.- UPI RRN 480707818310.TRF TO DMART",
+      "amount": 2687.18,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 519452.24
+    },
+    {
+      "transaction_date": "2025-11-13",
+      "description": "TO TRF.- UPI RRN 410018216300.TRF TO MORE MEGASTORE",
+      "amount": 1915.41,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 517536.83
+    },
+    {
+      "transaction_date": "2025-11-13",
+      "description": "TO TRF.- UPI RRN 437708157474.TRF TO SPOTIFY",
+      "amount": 119.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 517417.83
+    },
+    {
+      "transaction_date": "2025-11-13",
+      "description": "TO TRF.- UPI RRN 450915238743.TRF TO LOCAL KIRANA",
+      "amount": 625.22,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 516792.61
+    },
+    {
+      "transaction_date": "2025-11-13",
+      "description": "BY TRF.- UPI RRN 406420140244.TRF FROM FRIEND",
+      "amount": 3439.61,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 520232.22
+    },
+    {
+      "transaction_date": "2025-11-14",
+      "description": "TO TRF.- UPI RRN 499462601436.TRF TO DMART",
+      "amount": 1579.81,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 518652.41
+    },
+    {
+      "transaction_date": "2025-11-14",
+      "description": "TO TRF.- UPI RRN 416961968962.TRF TO SPENCERS",
+      "amount": 2042.14,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 516610.27
+    },
+    {
+      "transaction_date": "2025-11-14",
+      "description": "TO TRF.- UPI RRN 470070895792.TRF TO ATM CASH WITHDRAWAL",
+      "amount": 7179.85,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 509430.42
+    },
+    {
+      "transaction_date": "2025-11-14",
+      "description": "TO TRF.- UPI RRN 463682674946.CTARRFR ITEOD MFAOKREWMAYRTDR I:P",
+      "amount": 503664.07,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 503367.16
+    },
+    {
+      "transaction_date": "2025-11-15",
+      "description": "TO TRF.- UPI RRN 467430128786.TRF TO HALDIRAMS",
+      "amount": 296.91,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 503367.16
+    },
+    {
+      "transaction_date": "2025-11-15",
+      "description": "BY TRF.- UPI RRN 402659916564.TRF FROM FRIEND",
+      "amount": 3675.83,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 507042.99
+    },
+    {
+      "transaction_date": "2025-11-16",
+      "description": "TO TRF.- UPI RRN 483940046509.TRF TO DOMINOS PIZZA",
+      "amount": 393.32,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 506649.67
+    },
+    {
+      "transaction_date": "2025-11-16",
+      "description": "BY TRF.- UPI RRN 452786617097.TRF FROM FRIEND",
+      "amount": 3432.93,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 510082.6
+    },
+    {
+      "transaction_date": "2025-11-16",
+      "description": "TO TRF.- UPI RRN 487423495583.TRF TO AJIO",
+      "amount": 543.63,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 509538.97
+    },
+    {
+      "transaction_date": "2025-11-16",
+      "description": "BY TRF.- UPI RRN 499649802948.SALARY CREDIT",
+      "amount": 74235.07,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 583774.04
+    },
+    {
+      "transaction_date": "2025-11-17",
+      "description": "BY TRF.- UPI RRN 446328198818.TRF FROM FRIEND",
+      "amount": 758.82,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 584532.86
+    },
+    {
+      "transaction_date": "2025-11-17",
+      "description": "TO TRF.- UPI RRN 468155289175.TRF TO NETFLIX",
+      "amount": 480.35,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 584052.51
+    },
+    {
+      "transaction_date": "2025-11-17",
+      "description": "TO TRF.- UPI RRN 433212952251.TRF TO BHARAT PETROLEUM",
+      "amount": 2069.87,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 581982.64
+    },
+    {
+      "transaction_date": "2025-11-17",
+      "description": "TO TRF.- UPI RRN 492088807969.TRF TO IRCTC TRAIN BOOKING",
+      "amount": 1047.47,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 580935.17
+    },
+    {
+      "transaction_date": "2025-11-17",
+      "description": "TO TRF.- UPI RRN 450330898529.TRF TO ZOMATO",
+      "amount": 580.38,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 580354.79
+    },
+    {
+      "transaction_date": "2025-11-17",
+      "description": "TO TRF.- UPI RRN 406582572154.TRF TO ELECTRICITY BILL",
+      "amount": 1366.91,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 578987.88
+    },
+    {
+      "transaction_date": "2025-11-18",
+      "description": "TO TRF.- UPI RRN 431978880145.TRF TO BOOK MY SHOW",
+      "amount": 624.43,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 578363.45
+    },
+    {
+      "transaction_date": "2025-11-18",
+      "description": "TO TRF.- UPI RRN 439958846004.TRF TO ZOMATO",
+      "amount": 424.12,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 577939.33
+    },
+    {
+      "transaction_date": "2025-11-18",
+      "description": "TO TRF.- UPI RRN 435528280191.TRF TO BIG BAZAAR",
+      "amount": 2975.87,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 574963.46
+    },
+    {
+      "transaction_date": "2025-11-18",
+      "description": "TO TRF.- UPI RRN 468753081480.TRF TO PVR CINEMAS",
+      "amount": 666.32,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 574297.14
+    },
+    {
+      "transaction_date": "2025-11-18",
+      "description": "TO TRF.- UPI RRN 433932594553.TRF TO MORE MEGASTORE",
+      "amount": 1848.31,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 572448.83
+    },
+    {
+      "transaction_date": "2025-11-18",
+      "description": "TO TRF.- UPI RRN 439924590078.TRF TO BOOK STORE",
+      "amount": 679.03,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 571769.8
+    },
+    {
+      "transaction_date": "2025-11-19",
+      "description": "TO TRF.- UPI RRN 485014657953.TRF TO HOTSTAR",
+      "amount": 1175.73,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 570594.07
+    },
+    {
+      "transaction_date": "2025-11-19",
+      "description": "TO TRF.- UPI RRN 484098922897.CTARRFR ITEOD SFAOLROWNARD :",
+      "amount": 569212.93,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 568929.58
+    },
+    {
+      "transaction_date": "2025-11-19",
+      "description": "TO TRF.- UPI RRN 436537404125.TRF TO SWIGGY",
+      "amount": 283.35,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 568929.58
+    },
+    {
+      "transaction_date": "2025-11-20",
+      "description": "TO TRF.- UPI RRN 412390391284.TRF TO RENT PAYMENT",
+      "amount": 13906.07,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 555023.51
+    },
+    {
+      "transaction_date": "2025-11-20",
+      "description": "TO TRF.- UPI RRN 440725190079.TRF TO WATER BILL",
+      "amount": 637.14,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 554386.37
+    },
+    {
+      "transaction_date": "2025-11-20",
+      "description": "TO TRF.- UPI RRN 490326867340.TRF TO DECATHLON",
+      "amount": 1527.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 552859.37
+    },
+    {
+      "transaction_date": "2025-11-20",
+      "description": "TO TRF.- UPI RRN 484075220955.TRF TO GOIBIBO",
+      "amount": 5793.54,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 547065.83
+    },
+    {
+      "transaction_date": "2025-11-21",
+      "description": "TO TRF.- UPI RRN 430041705025.TRF TO SPENCERS",
+      "amount": 531.97,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 546533.86
+    },
+    {
+      "transaction_date": "2025-11-21",
+      "description": "TO TRF.- UPI RRN 407763775067.TRF TO LOCAL KIRANA",
+      "amount": 1030.77,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 545503.09
+    },
+    {
+      "transaction_date": "2025-11-21",
+      "description": "TO TRF.- UPI RRN 432471160142.TRF TO NETFLIX",
+      "amount": 439.13,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 545063.96
+    },
+    {
+      "transaction_date": "2025-11-21",
+      "description": "TO TRF.- UPI RRN 412137608439.TRF TO DTH RECHARGE",
+      "amount": 468.26,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 544595.7
+    },
+    {
+      "transaction_date": "2025-11-22",
+      "description": "TO TRF.- UPI RRN 418200346428.TRF TO AMAZON",
+      "amount": 316.98,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 544278.72
+    },
+    {
+      "transaction_date": "2025-11-22",
+      "description": "TO TRF.- UPI RRN 417424381707.TRF TO BIG BAZAAR",
+      "amount": 2330.02,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 541948.7
+    },
+    {
+      "transaction_date": "2025-11-22",
+      "description": "TO TRF.- UPI RRN 499243637823.TRF TO MYNTRA",
+      "amount": 804.73,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 541143.97
+    },
+    {
+      "transaction_date": "2025-11-22",
+      "description": "TO TRF.- UPI RRN 478144616412.TRF TO PHARMACY",
+      "amount": 889.56,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 540254.41
+    },
+    {
+      "transaction_date": "2025-11-22",
+      "description": "BY TRF.- UPI RRN 409739359669.REFUND",
+      "amount": 1903.88,
+      "transaction_type": "CREDIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 542158.29
+    },
+    {
+      "transaction_date": "2025-11-22",
+      "description": "TO TRF.- UPI RRN 467507884117.TRF TO GYM MEMBERSHIP.CARRIED FORWARD : Page Summary Dr.Count 134.Count 16 Toll Free No.18003030 This is system generated statement hence signature or seal is not required",
+      "amount": 214044.59,
+      "transaction_type": "DEBIT",
+      "bank_name": "CENTRAL",
+      "account_number": "1136365327",
+      "balance": 356930.52
+    }
+  ]
+}

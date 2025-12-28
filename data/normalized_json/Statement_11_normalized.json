@@ -1,0 +1,1358 @@
+{
+  "bank_name": "HDFC",
+  "account_number": "50100180608895",
+  "account_holder": "",
+  "statement_period": "01/08/2024 To 29/11/2024",
+  "transactions": [
+    {
+      "transaction_date": "2024-08-01",
+      "description": "NEFT CR-SBIN0001234-CAPGEMINI INDIA PVT\nLTD-SALARY FOR SEPTEMBER",
+      "amount": 84111.6,
+      "transaction_type": "CREDIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 92905.12
+    },
+    {
+      "transaction_date": "2024-08-03",
+      "description": "POS 416021XXXXXX9012 BIG BAZAAR POS DEBIT",
+      "amount": 1416.44,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 91488.68
+    },
+    {
+      "transaction_date": "2024-08-03",
+      "description": "IMPS-878421076824-RAHUL\nDUBEY-HDFC-XXXXXXXX2415-PERSONAL",
+      "amount": 6749.77,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 84738.91
+    },
+    {
+      "transaction_date": "2024-08-03",
+      "description": "POS 416021XXXXXX9590 INDIAN OIL PETROL POS\nDEBIT",
+      "amount": 2434.25,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 82304.66
+    },
+    {
+      "transaction_date": "2024-08-03",
+      "description": "UPI-661656289329-BOOKMYSHOW-UPI-827243314308-O\nK",
+      "amount": 867.94,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 81436.72
+    },
+    {
+      "transaction_date": "2024-08-04",
+      "description": "NHDF6551153475/BILLDKVODAFONEINDIAL",
+      "amount": 368.28,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 81068.44
+    },
+    {
+      "transaction_date": "2024-08-06",
+      "description": "POS 416021XXXXXX3463 BARBEQUE NATION POS\nDEBIT",
+      "amount": 1183.84,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 79884.6
+    },
+    {
+      "transaction_date": "2024-08-06",
+      "description": "POS 416021XXXXXX2531 WESTSIDE POS DEBIT",
+      "amount": 1032.93,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 78851.67
+    },
+    {
+      "transaction_date": "2024-08-07",
+      "description": "POS 416021XXXXXX5534 CAFE COFFEE DAY POS\nDEBIT",
+      "amount": 129.36,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 78722.31
+    },
+    {
+      "transaction_date": "2024-08-07",
+      "description": "IB BILLPAY DR-HDFCPE-545964XXXXXX3563",
+      "amount": 4443.31,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 74279.0
+    },
+    {
+      "transaction_date": "2024-08-09",
+      "description": "POS 416021XXXXXX3058 STARBUCKS COFFEE POS\nDEBIT",
+      "amount": 209.38,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 74069.62
+    },
+    {
+      "transaction_date": "2024-08-09",
+      "description": "POS 416021XXXXXX4222 LOCAL KIRANA POS DEBIT",
+      "amount": 547.35,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 73522.27
+    },
+    {
+      "transaction_date": "2024-08-11",
+      "description": "NHDF6496486612/BILLDKHOTSTAR",
+      "amount": 1028.05,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 72494.22
+    },
+    {
+      "transaction_date": "2024-08-11",
+      "description": "NHDF6699782466/BILLDKHOTSTAR",
+      "amount": 1227.66,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 71266.56
+    },
+    {
+      "transaction_date": "2024-08-11",
+      "description": "UPI-973390298607-BOOKMYSHOW-UPI-840212585902-O\nK",
+      "amount": 853.98,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 70412.58
+    },
+    {
+      "transaction_date": "2024-08-11",
+      "description": "POS 416021XXXXXX3936 INDIAN OIL PETROL POS\nDEBIT",
+      "amount": 1952.68,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 68459.9
+    },
+    {
+      "transaction_date": "2024-08-11",
+      "description": "A\nNHDF6508944661/BILLDKKOTAKCARDS",
+      "amount": 8900.91,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 59558.99
+    },
+    {
+      "transaction_date": "2024-08-11",
+      "description": "POS 416021XXXXXX8886 LIFESTYLE POS DEBIT",
+      "amount": 3446.95,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 56112.04
+    },
+    {
+      "transaction_date": "2024-08-13",
+      "description": "S\nPOS 416021XXXXXX8538 KFC RESTAURANT POS\nDEBIT",
+      "amount": 477.55,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 55634.49
+    },
+    {
+      "transaction_date": "2024-08-15",
+      "description": "POS 416021XXXXXX5497 KFC RESTAURANT POS\nDEBIT",
+      "amount": 540.9,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 55093.59
+    },
+    {
+      "transaction_date": "2024-08-16",
+      "description": "NHDF6333532506/BILLDKSPOTIFY",
+      "amount": 122.57,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 54971.02
+    },
+    {
+      "transaction_date": "2024-08-16",
+      "description": "POS 416021XXXXXX9697 SPENCERS RETAIL POS\nDEBIT",
+      "amount": 1117.7,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 53853.32
+    },
+    {
+      "transaction_date": "2024-08-16",
+      "description": "POS 416021XXXXXX9129 NATURE S BASKET POS\nDEBIT",
+      "amount": 1740.14,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 52113.18
+    },
+    {
+      "transaction_date": "2024-08-19",
+      "description": "IMPS-866365980298-RAJESH\nSINGH-HDFC-XXXXXXXX8671-PERSONAL",
+      "amount": 3056.79,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 49056.39
+    },
+    {
+      "transaction_date": "2024-08-19",
+      "description": "POS 416021XXXXXX6010 INDIAN OIL PETROL POS\nDEBIT",
+      "amount": 2262.12,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 46794.27
+    },
+    {
+      "transaction_date": "2024-08-21",
+      "description": "POS 416021XXXXXX5194 PANTALOONS POS DEBIT",
+      "amount": 2767.87,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 44026.4
+    },
+    {
+      "transaction_date": "2024-08-21",
+      "description": "POS 416021XXXXXX7771 DOMINOS PIZZA POS DEBIT",
+      "amount": 382.38,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 43644.02
+    },
+    {
+      "transaction_date": "2024-08-21",
+      "description": "POS 416021XXXXXX8391 WESTSIDE POS DEBIT",
+      "amount": 1268.14,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 42375.88
+    },
+    {
+      "transaction_date": "2024-08-23",
+      "description": "POS 416021XXXXXX9755 STARBUCKS COFFEE POS\nDEBIT",
+      "amount": 237.9,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 42137.98
+    },
+    {
+      "transaction_date": "2024-08-23",
+      "description": "UPI-721685512321-BOOKMYSHOW-UPI-854016046747-O\nK",
+      "amount": 358.9,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 41779.08
+    },
+    {
+      "transaction_date": "2024-08-23",
+      "description": "POS 416021XXXXXX9296 DMART POS DEBIT",
+      "amount": 1448.23,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 40330.85
+    },
+    {
+      "transaction_date": "2024-08-24",
+      "description": "POS 416021XXXXXX8937 DMART POS DEBIT",
+      "amount": 1835.18,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 38495.67
+    },
+    {
+      "transaction_date": "2024-08-25",
+      "description": "POS 416021XXXXXX1001 DOMINOS PIZZA POS DEBIT",
+      "amount": 680.31,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 37815.36
+    },
+    {
+      "transaction_date": "2024-08-26",
+      "description": "NHDF6557402880/SBI CARDS",
+      "amount": 19632.53,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 18182.83
+    },
+    {
+      "transaction_date": "2024-08-26",
+      "description": "POS 416021XXXXXX5244 NATURE S BASKET POS\nDEBIT",
+      "amount": 1804.71,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 16378.12
+    },
+    {
+      "transaction_date": "2024-08-26",
+      "description": "POS 416021XXXXXX7783 CULT FIT POS DEBIT",
+      "amount": 2433.1,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 13945.02
+    },
+    {
+      "transaction_date": "2024-08-26",
+      "description": "POS 416021XXXXXX8371 BARBEQUE NATION POS\nDEBIT",
+      "amount": 1083.71,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 12861.31
+    },
+    {
+      "transaction_date": "2024-08-29",
+      "description": "NHDF6696951020/BILLDKBESCOM",
+      "amount": 2283.56,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 10577.75
+    },
+    {
+      "transaction_date": "2024-08-29",
+      "description": "UPI-472835738922-BOOKMYSHOW-UPI-827022303404-O\nK",
+      "amount": 955.91,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 9621.84
+    },
+    {
+      "transaction_date": "2024-08-31",
+      "description": "POS 416021XXXXXX9101 MYNTRA POS DEBIT",
+      "amount": 1994.95,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 7626.89
+    },
+    {
+      "transaction_date": "2024-08-31",
+      "description": "NHDF6640023827/BILLDKHDFCCARDS",
+      "amount": 5949.47,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 1677.42
+    },
+    {
+      "transaction_date": "2024-08-31",
+      "description": "MICRO ATM CASH DEP - HDFC MUMBAI MH IN -\nBNAKMU29",
+      "amount": 14159.44,
+      "transaction_type": "CREDIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 15836.86
+    },
+    {
+      "transaction_date": "2024-08-31",
+      "description": "NHDF6034280583/BILLDKNETFLIX",
+      "amount": 515.74,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 15321.12
+    },
+    {
+      "transaction_date": "2024-08-31",
+      "description": "POS 416021XXXXXX6073 HP PETROL PUMP POS DEBIT",
+      "amount": 1760.73,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 13560.39
+    },
+    {
+      "transaction_date": "2024-08-31",
+      "description": "IB BILLPAY DR-HDFCPE-545964XXXXXX3563",
+      "amount": 2286.94,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 11273.45
+    },
+    {
+      "transaction_date": "2024-08-31",
+      "description": "NHDF6249332648/BILLDKNETFLIX",
+      "amount": 775.5,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 10497.95
+    },
+    {
+      "transaction_date": "2024-08-31",
+      "description": "POS 416021XXXXXX4178 STARBUCKS COFFEE POS\nDEBIT",
+      "amount": 332.31,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 10165.64
+    },
+    {
+      "transaction_date": "2024-08-31",
+      "description": "POS 416021XXXXXX5032 PVR CINEMAS POS DEBIT",
+      "amount": 682.35,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 9483.29
+    },
+    {
+      "transaction_date": "2024-09-01",
+      "description": "NHDF6771591709/BILLDKAIRTELINDIA",
+      "amount": 804.67,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 8678.62
+    },
+    {
+      "transaction_date": "2024-09-02",
+      "description": "A\nPOS 416021XXXXXX4584 MORE SUPERMARKET POS\nDEBIT",
+      "amount": 960.72,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 7717.9
+    },
+    {
+      "transaction_date": "2024-09-02",
+      "description": "UPI-318540257842-OLA CABS-UPI-817593686579-OK",
+      "amount": 360.97,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 7356.93
+    },
+    {
+      "transaction_date": "2024-09-05",
+      "description": "S\nPOS 416021XXXXXX4712 CULT FIT POS DEBIT",
+      "amount": 2853.88,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 4503.05
+    },
+    {
+      "transaction_date": "2024-09-05",
+      "description": "POS 416021XXXXXX9454 HALDIRAM S POS DEBIT",
+      "amount": 224.05,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 4279.0
+    },
+    {
+      "transaction_date": "2024-09-05",
+      "description": "POS 416021XXXXXX4486 PANTALOONS POS DEBIT",
+      "amount": 2676.42,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 1602.58
+    },
+    {
+      "transaction_date": "2024-09-05",
+      "description": "NHDF6377960273/BILLDKSPOTIFY",
+      "amount": 122.35,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 1480.23
+    },
+    {
+      "transaction_date": "2024-09-06",
+      "description": "POS 416021XXXXXX9655 FLIPKART POS DEBIT",
+      "amount": 2887.15,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -1406.92
+    },
+    {
+      "transaction_date": "2024-09-06",
+      "description": "ACH D- TP ACH HOME-6180983910",
+      "amount": 3507.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -4913.92
+    },
+    {
+      "transaction_date": "2024-09-08",
+      "description": "NHDF6911678833/BILLDKVODAFONEINDIAL",
+      "amount": 510.03,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -5423.95
+    },
+    {
+      "transaction_date": "2024-09-08",
+      "description": "IB BILLPAY DR-HDFCPE-545964XXXXXX3563",
+      "amount": 1339.91,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -6763.86
+    },
+    {
+      "transaction_date": "2024-09-08",
+      "description": "NEFT DR-RMSO134351-KAVITA PATEL-NETBANK,\nMUM-N990744356083-PERSON",
+      "amount": 11187.44,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -17951.3
+    },
+    {
+      "transaction_date": "2024-09-09",
+      "description": "NHDF6347715430/BILLDKVODAFONEINDIAL",
+      "amount": 183.76,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -18135.06
+    },
+    {
+      "transaction_date": "2024-09-10",
+      "description": "ACH D- HOMECRINDFINPVTLTD-6037789824",
+      "amount": 1560.73,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -19695.79
+    },
+    {
+      "transaction_date": "2024-09-10",
+      "description": "POS 416021XXXXXX8303 MAKEMYTRIP POS DEBIT",
+      "amount": 6915.55,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -26611.34
+    },
+    {
+      "transaction_date": "2024-09-10",
+      "description": "POS 416021XXXXXX9016 NATURE S BASKET POS\nDEBIT",
+      "amount": 2070.45,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -28681.79
+    },
+    {
+      "transaction_date": "2024-09-10",
+      "description": "IMPS-867740091784-MANOJ\nIYER-HDFC-XXXXXXXX3977-PERSONAL",
+      "amount": 1014.81,
+      "transaction_type": "CREDIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -27666.98
+    },
+    {
+      "transaction_date": "2024-09-10",
+      "description": "POS 416021XXXXXX3929 HALDIRAM S POS DEBIT",
+      "amount": 281.77,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -27948.75
+    },
+    {
+      "transaction_date": "2024-09-11",
+      "description": "UPI-451618208342-SWIGGY-UPI-814773285079-OK",
+      "amount": 219.86,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -28168.61
+    },
+    {
+      "transaction_date": "2024-09-11",
+      "description": "UPI-645512354437-VIJAY\nAGARWAL@UPI-847857250163-OK",
+      "amount": 1122.73,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -29291.34
+    },
+    {
+      "transaction_date": "2024-09-12",
+      "description": "POS 416021XXXXXX8437 LOCAL KIRANA POS DEBIT",
+      "amount": 445.1,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -29736.44
+    },
+    {
+      "transaction_date": "2024-09-13",
+      "description": "NHDF6581666210/BILLDKAIRTELINDIA",
+      "amount": 803.63,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -30540.07
+    },
+    {
+      "transaction_date": "2024-09-14",
+      "description": "POS 416021XXXXXX9720 CAFE COFFEE DAY POS\nDEBIT",
+      "amount": 154.23,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -30694.3
+    },
+    {
+      "transaction_date": "2024-09-14",
+      "description": "IMPS-819952541866-RAMESH\nGUPTA-HDFC-XXXXXXXX9259-PERSONAL",
+      "amount": 3836.98,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -34531.28
+    },
+    {
+      "transaction_date": "2024-09-14",
+      "description": "NEFT DR-XTUI920511-POOJA MISHRA-NETBANK,\nMUM-N214530155940-PERSON",
+      "amount": 1291.3,
+      "transaction_type": "CREDIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -33239.98
+    },
+    {
+      "transaction_date": "2024-09-14",
+      "description": "UPI-350373413878-BOOKMYSHOW-UPI-810879665882-O\nK",
+      "amount": 362.29,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -33602.27
+    },
+    {
+      "transaction_date": "2024-09-15",
+      "description": "POS 416021XXXXXX7735 PANTALOONS POS DEBIT",
+      "amount": 1679.83,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -35282.1
+    },
+    {
+      "transaction_date": "2024-09-15",
+      "description": "POS 416021XXXXXX3654 DMART POS DEBIT",
+      "amount": 2094.49,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -37376.59
+    },
+    {
+      "transaction_date": "2024-09-16",
+      "description": "POS 416021XXXXXX2212 MORE SUPERMARKET POS\nDEBIT",
+      "amount": 551.97,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -37928.56
+    },
+    {
+      "transaction_date": "2024-09-16",
+      "description": "A\nPOS 416021XXXXXX3330 DOMINOS PIZZA POS DEBIT",
+      "amount": 748.02,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -38676.58
+    },
+    {
+      "transaction_date": "2024-09-18",
+      "description": "NEFT DR-NDIX706606-ARUN MISHRA-NETBANK,\nMUM-N688891139115-PERSONA",
+      "amount": 9917.16,
+      "transaction_type": "CREDIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -28759.42
+    },
+    {
+      "transaction_date": "2024-09-18",
+      "description": "S\nIMPS-829267664277-RAHUL\nSHAH-HDFC-XXXXXXXX1349-PERSONAL",
+      "amount": 4278.86,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -33038.28
+    },
+    {
+      "transaction_date": "2024-09-18",
+      "description": "UPI-531415187284-KIRAN\nSHARMA@UPI-873438632564-OK",
+      "amount": 1642.87,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -34681.15
+    },
+    {
+      "transaction_date": "2024-09-18",
+      "description": "IB BILLPAY DR-HDFCPE-545964XXXXXX3563",
+      "amount": 4774.92,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -39456.07
+    },
+    {
+      "transaction_date": "2024-09-18",
+      "description": "POS 416021XXXXXX3034 HP PETROL PUMP POS DEBIT",
+      "amount": 2782.67,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -42238.74
+    },
+    {
+      "transaction_date": "2024-09-19",
+      "description": "UPI-520883103977-SWIGGY-UPI-853249096488-OK",
+      "amount": 543.6,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -42782.34
+    },
+    {
+      "transaction_date": "2024-09-22",
+      "description": "POS 416021XXXXXX4562 MORE SUPERMARKET POS\nDEBIT",
+      "amount": 1342.14,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -44124.48
+    },
+    {
+      "transaction_date": "2024-09-23",
+      "description": "UPI-813716204968-SWIGGY-UPI-885529634146-OK",
+      "amount": 570.26,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -44694.74
+    },
+    {
+      "transaction_date": "2024-09-24",
+      "description": "UPI-919207885631-ZOMATO-UPI-852385245847-OK",
+      "amount": 708.49,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -45403.23
+    },
+    {
+      "transaction_date": "2024-09-25",
+      "description": "POS 416021XXXXXX3746 PANTALOONS POS DEBIT",
+      "amount": 2464.83,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -47868.06
+    },
+    {
+      "transaction_date": "2024-09-25",
+      "description": "POS 416021XXXXXX6588 AMAZON PAY POS DEBIT",
+      "amount": 807.58,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -48675.64
+    },
+    {
+      "transaction_date": "2024-09-26",
+      "description": "NEFT CR-SBIN0001234-HCL TECHNOLOGIES\nLTD-SALARY FOR JULY",
+      "amount": 80408.72,
+      "transaction_type": "CREDIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 31733.08
+    },
+    {
+      "transaction_date": "2024-09-26",
+      "description": "POS 416021XXXXXX3877 BHARAT PETROLEUM POS\nDEBIT",
+      "amount": 2391.46,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 29341.62
+    },
+    {
+      "transaction_date": "2024-09-26",
+      "description": "POS 416021XXXXXX5220 DOMINOS PIZZA POS DEBIT",
+      "amount": 556.66,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 28784.96
+    },
+    {
+      "transaction_date": "2024-09-28",
+      "description": "UPI-439241544717-ZOMATO-UPI-891779319959-OK",
+      "amount": 760.75,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 28024.21
+    },
+    {
+      "transaction_date": "2024-09-28",
+      "description": "POS 416021XXXXXX3541 MORE SUPERMARKET POS\nDEBIT",
+      "amount": 1286.61,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 26737.6
+    },
+    {
+      "transaction_date": "2024-09-30",
+      "description": "IMPS-816991973306-ANITA\nAGARWAL-HDFC-XXXXXXXX6359-PERSONAL",
+      "amount": 2381.54,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 24356.06
+    },
+    {
+      "transaction_date": "2024-09-30",
+      "description": "CASH DEP MIRA ROAD -",
+      "amount": 22784.84,
+      "transaction_type": "CREDIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 47140.9
+    },
+    {
+      "transaction_date": "2024-09-30",
+      "description": "NHDF6029332343/BILLDKNETFLIX",
+      "amount": 699.57,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 46441.33
+    },
+    {
+      "transaction_date": "2024-09-30",
+      "description": "POS 416021XXXXXX5094 LIFESTYLE POS DEBIT",
+      "amount": 2347.73,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 44093.6
+    },
+    {
+      "transaction_date": "2024-10-02",
+      "description": "POS 416021XXXXXX6028 CAFE COFFEE DAY POS\nDEBIT",
+      "amount": 194.7,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 43898.9
+    },
+    {
+      "transaction_date": "2024-10-03",
+      "description": "UPI-143634440373-SWIGGY-UPI-875044181372-OK",
+      "amount": 488.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 43410.9
+    },
+    {
+      "transaction_date": "2024-10-04",
+      "description": "POS 416021XXXXXX6336 INOX CINEMAS POS DEBIT",
+      "amount": 966.04,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 42444.86
+    },
+    {
+      "transaction_date": "2024-10-06",
+      "description": "POS 416021XXXXXX4157 APOLLO PHARMACY POS\nDEBIT",
+      "amount": 920.47,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 41524.39
+    },
+    {
+      "transaction_date": "2024-10-08",
+      "description": "POS 416021XXXXXX5162 IRCTC RAIL TICKET POS\nDEBIT",
+      "amount": 1926.45,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 39597.94
+    },
+    {
+      "transaction_date": "2024-10-09",
+      "description": "UPI-925242610681-ZOMATO-UPI-846246433603-OK",
+      "amount": 463.37,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 39134.57
+    },
+    {
+      "transaction_date": "2024-10-10",
+      "description": "CASH DEP MIRA ROAD -",
+      "amount": 14080.52,
+      "transaction_type": "CREDIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 53215.09
+    },
+    {
+      "transaction_date": "2024-10-10",
+      "description": "POS 416021XXXXXX2865 MORE SUPERMARKET POS\nDEBIT",
+      "amount": 700.53,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 52514.56
+    },
+    {
+      "transaction_date": "2024-10-11",
+      "description": "NHDF6480589268/BILLDKAIRTELINDIA",
+      "amount": 413.76,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 52100.8
+    },
+    {
+      "transaction_date": "2024-10-15",
+      "description": "A\nACH D- HOMECRINDFINPVTLTD-6486801957",
+      "amount": 1443.84,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 50656.96
+    },
+    {
+      "transaction_date": "2024-10-18",
+      "description": "NHDF6817643625/BILLDKBESCOM",
+      "amount": 2186.31,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 48470.65
+    },
+    {
+      "transaction_date": "2024-10-18",
+      "description": "S\nIMPS-862852400191-RAMESH\nSINGH-HDFC-XXXXXXXX9894-PERSONAL",
+      "amount": 4441.19,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 44029.46
+    },
+    {
+      "transaction_date": "2024-10-20",
+      "description": "UPI-395846179320-OLA CABS-UPI-813900255499-OK",
+      "amount": 430.32,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 43599.14
+    },
+    {
+      "transaction_date": "2024-10-20",
+      "description": "POS 416021XXXXXX6730 MORE SUPERMARKET POS\nDEBIT",
+      "amount": 669.37,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 42929.77
+    },
+    {
+      "transaction_date": "2024-10-20",
+      "description": "NHDF6572801205/BILLDKHDFCCARDS",
+      "amount": 4426.48,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 38503.29
+    },
+    {
+      "transaction_date": "2024-10-25",
+      "description": "UPI-981481607861-OLA CABS-UPI-847068700242-OK",
+      "amount": 481.88,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 38021.41
+    },
+    {
+      "transaction_date": "2024-10-25",
+      "description": "POS 416021XXXXXX8541 CULT FIT POS DEBIT",
+      "amount": 1451.74,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 36569.67
+    },
+    {
+      "transaction_date": "2024-10-26",
+      "description": "EMI 4942528 CHQ S501880537 2610244942528",
+      "amount": 3904.43,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 32665.24
+    },
+    {
+      "transaction_date": "2024-10-28",
+      "description": "POS 416021XXXXXX8317 HP PETROL PUMP POS DEBIT",
+      "amount": 1800.57,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 30864.67
+    },
+    {
+      "transaction_date": "2024-10-30",
+      "description": "POS 416021XXXXXX6550 HALDIRAM S POS DEBIT",
+      "amount": 175.41,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 30689.26
+    },
+    {
+      "transaction_date": "2024-10-30",
+      "description": "EMI 5003063 CHQ S506530904 3010245003063",
+      "amount": 5016.38,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 25672.88
+    },
+    {
+      "transaction_date": "2024-11-01",
+      "description": "POS 416021XXXXXX6470 INOX CINEMAS POS DEBIT",
+      "amount": 958.9,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 24713.98
+    },
+    {
+      "transaction_date": "2024-11-03",
+      "description": "POS 416021XXXXXX2109 MYNTRA POS DEBIT",
+      "amount": 1859.8,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 22854.18
+    },
+    {
+      "transaction_date": "2024-11-05",
+      "description": "POS 416021XXXXXX7528 CAFE COFFEE DAY POS\nDEBIT",
+      "amount": 312.55,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 22541.63
+    },
+    {
+      "transaction_date": "2024-11-05",
+      "description": "POS 416021XXXXXX3443 MORE SUPERMARKET POS\nDEBIT",
+      "amount": 529.92,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 22011.71
+    },
+    {
+      "transaction_date": "2024-11-09",
+      "description": "NHDF6150733586/BILLDKSPOTIFY",
+      "amount": 113.74,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 21897.97
+    },
+    {
+      "transaction_date": "2024-11-09",
+      "description": "POS 416021XXXXXX2173 BHARAT PETROLEUM POS\nDEBIT",
+      "amount": 2044.01,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 19853.96
+    },
+    {
+      "transaction_date": "2024-11-09",
+      "description": "POS 416021XXXXXX5882 HP PETROL PUMP POS DEBIT",
+      "amount": 1487.37,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 18366.59
+    },
+    {
+      "transaction_date": "2024-11-11",
+      "description": "UPI-427708052850-OLA CABS-UPI-836567635857-OK",
+      "amount": 362.27,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 18004.32
+    },
+    {
+      "transaction_date": "2024-11-11",
+      "description": "POS 416021XXXXXX4270 FLIPKART POS DEBIT",
+      "amount": 1258.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 16746.32
+    },
+    {
+      "transaction_date": "2024-11-13",
+      "description": "NEFT DR-ETDH619664-KAVITA REDDY-NETBANK,\nMUM-N618848463467-PERSON",
+      "amount": 8420.8,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 8325.52
+    },
+    {
+      "transaction_date": "2024-11-14",
+      "description": "POS 416021XXXXXX2586 HALDIRAM S POS DEBIT",
+      "amount": 324.04,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 8001.48
+    },
+    {
+      "transaction_date": "2024-11-14",
+      "description": "UPI-318070142569-UBER INDIA-UPI-822677198919-OK",
+      "amount": 502.02,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 7499.46
+    },
+    {
+      "transaction_date": "2024-11-15",
+      "description": "POS 416021XXXXXX9781 INDIAN OIL PETROL POS\nDEBIT",
+      "amount": 2689.26,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 4810.2
+    },
+    {
+      "transaction_date": "2024-11-15",
+      "description": "UPI-567851746806-BOOKMYSHOW-UPI-877815110162-O\nK",
+      "amount": 742.22,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 4067.98
+    },
+    {
+      "transaction_date": "2024-11-17",
+      "description": "UPI-844548321913-BOOKMYSHOW-UPI-844424861658-O\nK",
+      "amount": 712.53,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 3355.45
+    },
+    {
+      "transaction_date": "2024-11-18",
+      "description": "UPI-984102584318-OLA CABS-UPI-864008170210-OK",
+      "amount": 120.55,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 3234.9
+    },
+    {
+      "transaction_date": "2024-11-19",
+      "description": "POS 416021XXXXXX1126 APOLLO PHARMACY POS\nDEBIT",
+      "amount": 839.18,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": 2395.72
+    },
+    {
+      "transaction_date": "2024-11-19",
+      "description": "A\nNEFT DR-VGQP706214-SEEMA DUBEY-NETBANK,\nMUM-N181896121985-PERSONA",
+      "amount": 6953.73,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -4558.01
+    },
+    {
+      "transaction_date": "2024-11-19",
+      "description": "POS 416021XXXXXX3338 STARBUCKS COFFEE POS\nDEBIT",
+      "amount": 281.96,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -4839.97
+    },
+    {
+      "transaction_date": "2024-11-20",
+      "description": "S\nUPI-500676790006-OLA CABS-UPI-856316758136-OK",
+      "amount": 495.5,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -5335.47
+    },
+    {
+      "transaction_date": "2024-11-23",
+      "description": "ACH D- TP ACH HOME-6086938164",
+      "amount": 3078.04,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -8413.51
+    },
+    {
+      "transaction_date": "2024-11-23",
+      "description": "UPI-706245427357-MEERA\nSHARMA@UPI-838511029517-OK",
+      "amount": 3073.33,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -11486.84
+    },
+    {
+      "transaction_date": "2024-11-24",
+      "description": "POS 416021XXXXXX9811 LIFESTYLE POS DEBIT",
+      "amount": 3771.15,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -15257.99
+    },
+    {
+      "transaction_date": "2024-11-24",
+      "description": "POS 416021XXXXXX7830 SHOPPER S STOP POS DEBIT",
+      "amount": 1608.21,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -16866.2
+    },
+    {
+      "transaction_date": "2024-11-25",
+      "description": "POS 416021XXXXXX5704 DOMINOS PIZZA POS DEBIT",
+      "amount": 485.96,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -17352.16
+    },
+    {
+      "transaction_date": "2024-11-25",
+      "description": "POS 416021XXXXXX8732 PUNJABI DHABA POS DEBIT",
+      "amount": 233.06,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -17585.22
+    },
+    {
+      "transaction_date": "2024-11-26",
+      "description": "UPI-427290554632-OLA CABS-UPI-811928623964-OK",
+      "amount": 259.8,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -17845.02
+    },
+    {
+      "transaction_date": "2024-11-27",
+      "description": "POS 416021XXXXXX4243 IRCTC RAIL TICKET POS\nDEBIT",
+      "amount": 1567.63,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -19412.65
+    },
+    {
+      "transaction_date": "2024-11-27",
+      "description": "POS 416021XXXXXX2393 INDIAN OIL PETROL POS\nDEBIT",
+      "amount": 1144.48,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -20557.13
+    },
+    {
+      "transaction_date": "2024-11-29",
+      "description": "POS 416021XXXXXX4791 BARBEQUE NATION POS\nDEBIT",
+      "amount": 1824.78,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -22381.91
+    },
+    {
+      "transaction_date": "2024-11-29",
+      "description": "NHDF6761282453/BILLDKHOTSTAR",
+      "amount": 787.44,
+      "transaction_type": "DEBIT",
+      "bank_name": "HDFC",
+      "account_number": "50100180608895",
+      "balance": -23169.35
+    }
+  ]
+}

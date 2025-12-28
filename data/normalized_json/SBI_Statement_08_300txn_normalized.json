@@ -1,0 +1,2780 @@
+{
+  "bank_name": "SBI",
+  "account_number": "1255211221223",
+  "account_holder": "Ms. RAVI MALHOTRA Interest Rate(% p.a.) 3.25",
+  "statement_period": "24/11/2025 to 24/12/2025",
+  "transactions": [
+    {
+      "transaction_date": "24-Nov-25\n(24-Nov-2025)",
+      "description": "UPI-SWIGGY-5856",
+      "amount": 759.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 184097.0
+    },
+    {
+      "transaction_date": "24-Nov-25\n(24-Nov-2025)",
+      "description": "ATM WDL\nATM CASH 4638 VADODARA ALKAPURI",
+      "amount": 6795.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 177302.0
+    },
+    {
+      "transaction_date": "24-Nov-25\n(24-Nov-2025)",
+      "description": "UPI-STARBUCKS-3113",
+      "amount": 944.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 176358.0
+    },
+    {
+      "transaction_date": "24-Nov-25\n(24-Nov-2025)",
+      "description": "UPI-CAFE COFFEE DAY-9892",
+      "amount": 1169.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 175189.0
+    },
+    {
+      "transaction_date": "24-Nov-25\n(24-Nov-2025)",
+      "description": "POS PURCHASE-WESTSIDE-8288",
+      "amount": 4995.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 170194.0
+    },
+    {
+      "transaction_date": "25-Nov-25\n(25-Nov-2025)",
+      "description": "UPI-VI RECHARGE-",
+      "amount": 2579.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 167615.0
+    },
+    {
+      "transaction_date": "25-Nov-25\n(25-Nov-2025)",
+      "description": "UPI-MCDONALDS-9442",
+      "amount": 1213.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 166402.0
+    },
+    {
+      "transaction_date": "25-Nov-25\n(25-Nov-2025)",
+      "description": "UPI-CAFE COFFEE DAY-8920",
+      "amount": 349.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 166053.0
+    },
+    {
+      "transaction_date": "25-Nov-25\n(25-Nov-2025)",
+      "description": "UPI-STARBUCKS-8579",
+      "amount": 774.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 165279.0
+    },
+    {
+      "transaction_date": "25-Nov-25\n(25-Nov-2025)",
+      "description": "POS PURCHASE-SHOPPERS STOP-4124",
+      "amount": 10182.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 155097.0
+    },
+    {
+      "transaction_date": "25-Nov-25\n(25-Nov-2025)",
+      "description": "CREDIT INTEREST",
+      "amount": 123.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 155220.0
+    },
+    {
+      "transaction_date": "25-Nov-25\n(25-Nov-2025)",
+      "description": "UPI-BARBEQUE NATION-3980",
+      "amount": 858.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 154362.0
+    },
+    {
+      "transaction_date": "25-Nov-25\n(25-Nov-2025)",
+      "description": "UPI-TATA SKY-",
+      "amount": 1622.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 152740.0
+    },
+    {
+      "transaction_date": "25-Nov-25\n(25-Nov-2025)",
+      "description": "UPI-HOTSTAR-2754",
+      "amount": 447.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 152293.0
+    },
+    {
+      "transaction_date": "25-Nov-25\n(25-Nov-2025)",
+      "description": "UPI-SUBWAY-4194",
+      "amount": 1397.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 150896.0
+    },
+    {
+      "transaction_date": "25-Nov-25\n(25-Nov-2025)",
+      "description": "IMPS-PAYTM-FASTAG1106",
+      "amount": 1889.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 149007.0
+    },
+    {
+      "transaction_date": "25-Nov-25\n(25-Nov-2025)",
+      "description": "ATM WDL\nATM CASH 4250 LUCKNOW HAZRATGAN",
+      "amount": 1239.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 147768.0
+    },
+    {
+      "transaction_date": "26-Nov-25\n(26-Nov-2025)",
+      "description": "ATM WDL\nATM CASH 1952 VADODARA ALKAPURI",
+      "amount": 6399.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 141369.0
+    },
+    {
+      "transaction_date": "26-Nov-25\n(26-Nov-2025)",
+      "description": "IMPS-PAYTM-FASTAG9858",
+      "amount": 1772.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 139597.0
+    },
+    {
+      "transaction_date": "26-Nov-25\n(26-Nov-2025)",
+      "description": "POS PURCHASE-LIFESTYLE-5109",
+      "amount": 5386.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 134211.0
+    },
+    {
+      "transaction_date": "26-Nov-25\n(26-Nov-2025)",
+      "description": "UPI-OLA CABS-2788",
+      "amount": 64.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 134147.0
+    },
+    {
+      "transaction_date": "26-Nov-25\n(26-Nov-2025)",
+      "description": "UPI-AMAZON PRIME-1349",
+      "amount": 951.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 133196.0
+    },
+    {
+      "transaction_date": "26-Nov-25\n(26-Nov-2025)",
+      "description": "IMPS CR-DIVYA",
+      "amount": 1018.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 134214.0
+    },
+    {
+      "transaction_date": "26-Nov-25\n(26-Nov-2025)",
+      "description": "UPI-OLA CABS-6142",
+      "amount": 1566.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 132648.0
+    },
+    {
+      "transaction_date": "26-Nov-25\n(26-Nov-2025)",
+      "description": "UPI-UBER INDIA-3202",
+      "amount": 779.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 131869.0
+    },
+    {
+      "transaction_date": "27-Nov-25\n(27-Nov-2025)",
+      "description": "POS PURCHASE-RELIANCE FRESH-2722",
+      "amount": 1192.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 130677.0
+    },
+    {
+      "transaction_date": "27-Nov-25\n(27-Nov-2025)",
+      "description": "IMPS CR-RAVI",
+      "amount": 4182.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 134859.0
+    },
+    {
+      "transaction_date": "27-Nov-25\n(27-Nov-2025)",
+      "description": "UPI-ZOMATO-9178",
+      "amount": 1439.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 133420.0
+    },
+    {
+      "transaction_date": "27-Nov-25\n(27-Nov-2025)",
+      "description": "UPI-RAPIDO-2861",
+      "amount": 1066.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 132354.0
+    },
+    {
+      "transaction_date": "27-Nov-25\n(27-Nov-2025)",
+      "description": "UPI-RAPIDO-7557",
+      "amount": 1724.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 130630.0
+    },
+    {
+      "transaction_date": "27-Nov-25\n(27-Nov-2025)",
+      "description": "UPI-SWIGGY-2340",
+      "amount": 1217.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 129413.0
+    },
+    {
+      "transaction_date": "27-Nov-25\n(27-Nov-2025)",
+      "description": "CREDIT INTEREST",
+      "amount": 246.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 129659.0
+    },
+    {
+      "transaction_date": "27-Nov-25\n(27-Nov-2025)",
+      "description": "ATM WDL\nATM CASH 7285 LUCKNOW HAZRATGAN",
+      "amount": 2945.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 126714.0
+    },
+    {
+      "transaction_date": "27-Nov-25\n(27-Nov-2025)",
+      "description": "ATM WDL\nATM CASH 5638 KOLKATA PARK STREE",
+      "amount": 9660.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 117054.0
+    },
+    {
+      "transaction_date": "27-Nov-25\n(27-Nov-2025)",
+      "description": "IMPS-PAYTM-FASTAG7673",
+      "amount": 150.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 116904.0
+    },
+    {
+      "transaction_date": "28-Nov-25\n(28-Nov-2025)",
+      "description": "SALARY CREDIT-COMPANY NAME",
+      "amount": 68199.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 185103.0
+    },
+    {
+      "transaction_date": "28-Nov-25\n(28-Nov-2025)",
+      "description": "SALARY CREDIT-COMPANY NAME",
+      "amount": 68199.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 253302.0
+    },
+    {
+      "transaction_date": "28-Nov-25\n(28-Nov-2025)",
+      "description": "SALARY CREDIT-COMPANY NAME",
+      "amount": 68199.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 321501.0
+    },
+    {
+      "transaction_date": "28-Nov-25\n(28-Nov-2025)",
+      "description": "SALARY CREDIT-COMPANY NAME",
+      "amount": 68199.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 389700.0
+    },
+    {
+      "transaction_date": "28-Nov-25\n(28-Nov-2025)",
+      "description": "SALARY CREDIT-COMPANY NAME",
+      "amount": 68199.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 457899.0
+    },
+    {
+      "transaction_date": "28-Nov-25\n(28-Nov-2025)",
+      "description": "SALARY CREDIT-COMPANY NAME",
+      "amount": 68199.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 526098.0
+    },
+    {
+      "transaction_date": "28-Nov-25\n(28-Nov-2025)",
+      "description": "UPI-STARBUCKS-4397",
+      "amount": 58.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 526040.0
+    },
+    {
+      "transaction_date": "28-Nov-25\n(28-Nov-2025)",
+      "description": "SALARY CREDIT-COMPANY NAME",
+      "amount": 68199.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 594239.0
+    },
+    {
+      "transaction_date": "28-Nov-25\n(28-Nov-2025)",
+      "description": "SALARY CREDIT-COMPANY NAME",
+      "amount": 68199.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 662438.0
+    },
+    {
+      "transaction_date": "28-Nov-25\n(28-Nov-2025)",
+      "description": "UPI-MCDONALDS-4304",
+      "amount": 299.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 662139.0
+    },
+    {
+      "transaction_date": "29-Nov-25\n(29-Nov-2025)",
+      "description": "UPI CR-KARTHIK",
+      "amount": 1156.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 663295.0
+    },
+    {
+      "transaction_date": "29-Nov-25\n(29-Nov-2025)",
+      "description": "POS PURCHASE-RAILWAY TICKET-1038",
+      "amount": 600.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 662695.0
+    },
+    {
+      "transaction_date": "29-Nov-25\n(29-Nov-2025)",
+      "description": "POS PURCHASE-INDIAN OIL-2640",
+      "amount": 487.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 662208.0
+    },
+    {
+      "transaction_date": "29-Nov-25\n(29-Nov-2025)",
+      "description": "UPI-BARBEQUE NATION-4452",
+      "amount": 622.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 661586.0
+    },
+    {
+      "transaction_date": "29-Nov-25\n(29-Nov-2025)",
+      "description": "UPI-AMAZON PAY-2840",
+      "amount": 13151.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 648435.0
+    },
+    {
+      "transaction_date": "29-Nov-25\n(29-Nov-2025)",
+      "description": "ATM WDL\nATM CASH 6021 LUCKNOW HAZRATGAN",
+      "amount": 9138.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 639297.0
+    },
+    {
+      "transaction_date": "29-Nov-25\n(29-Nov-2025)",
+      "description": "UPI-GROFERS-4414",
+      "amount": 482.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 638815.0
+    },
+    {
+      "transaction_date": "30-Nov-25\n(30-Nov-2025)",
+      "description": "POS PURCHASE-HP PETROL-8261",
+      "amount": 88.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 638727.0
+    },
+    {
+      "transaction_date": "30-Nov-25\n(30-Nov-2025)",
+      "description": "POS PURCHASE-INOX-9214",
+      "amount": 840.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 637887.0
+    },
+    {
+      "transaction_date": "30-Nov-25\n(30-Nov-2025)",
+      "description": "POS PURCHASE-SPENCERS-1844",
+      "amount": 2769.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 635118.0
+    },
+    {
+      "transaction_date": "30-Nov-25\n(30-Nov-2025)",
+      "description": "UPI-RAPIDO-4649",
+      "amount": 1012.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 634106.0
+    },
+    {
+      "transaction_date": "30-Nov-25\n(30-Nov-2025)",
+      "description": "UPI-BOOKMYSHOW-7334",
+      "amount": 819.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 633287.0
+    },
+    {
+      "transaction_date": "30-Nov-25\n(30-Nov-2025)",
+      "description": "UPI-BARBEQUE NATION-7067",
+      "amount": 517.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 632770.0
+    },
+    {
+      "transaction_date": "30-Nov-25\n(30-Nov-2025)",
+      "description": "UPI-ZOMATO-5281",
+      "amount": 618.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 632152.0
+    },
+    {
+      "transaction_date": "30-Nov-25\n(30-Nov-2025)",
+      "description": "ATM WDL\nATM CASH 6984 VADODARA ALKAPURI",
+      "amount": 9327.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 622825.0
+    },
+    {
+      "transaction_date": "01-Dec-25\n(01-Dec-2025)",
+      "description": "POS PURCHASE-INDIAN OIL-6918",
+      "amount": 1047.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 621778.0
+    },
+    {
+      "transaction_date": "01-Dec-25\n(01-Dec-2025)",
+      "description": "POS PURCHASE-BHARAT PETROLEUM-",
+      "amount": 1166.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 620612.0
+    },
+    {
+      "transaction_date": "01-Dec-25\n(01-Dec-2025)",
+      "description": "UPI-UBER INDIA-6186",
+      "amount": 1564.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 619048.0
+    },
+    {
+      "transaction_date": "01-Dec-25\n(01-Dec-2025)",
+      "description": "UPI-FLIPKART-6104",
+      "amount": 12949.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 606099.0
+    },
+    {
+      "transaction_date": "01-Dec-25\n(01-Dec-2025)",
+      "description": "UPI-ZOMATO-9895",
+      "amount": 1206.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 604893.0
+    },
+    {
+      "transaction_date": "01-Dec-25\n(01-Dec-2025)",
+      "description": "UPI-AMAZON PAY-5012",
+      "amount": 13067.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 591826.0
+    },
+    {
+      "transaction_date": "01-Dec-25\n(01-Dec-2025)",
+      "description": "UPI-GROFERS-3550",
+      "amount": 3301.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 588525.0
+    },
+    {
+      "transaction_date": "01-Dec-25\n(01-Dec-2025)",
+      "description": "POS PURCHASE-WESTSIDE-4447",
+      "amount": 1550.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 586975.0
+    },
+    {
+      "transaction_date": "01-Dec-25\n(01-Dec-2025)",
+      "description": "NEFT CR-RAMESH",
+      "amount": 2632.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 589607.0
+    },
+    {
+      "transaction_date": "01-Dec-25\n(01-Dec-2025)",
+      "description": "UPI-OLA CABS-2743",
+      "amount": 1068.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 588539.0
+    },
+    {
+      "transaction_date": "01-Dec-25\n(01-Dec-2025)",
+      "description": "UPI-STARBUCKS-2758",
+      "amount": 542.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 587997.0
+    },
+    {
+      "transaction_date": "01-Dec-25\n(01-Dec-2025)",
+      "description": "SALARY CREDIT-RAJESH",
+      "amount": 3589.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 591586.0
+    },
+    {
+      "transaction_date": "02-Dec-25\n(02-Dec-2025)",
+      "description": "BILL PAYMENT-WATER BILL",
+      "amount": 201.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 591385.0
+    },
+    {
+      "transaction_date": "02-Dec-25\n(02-Dec-2025)",
+      "description": "POS PURCHASE-HP PETROL-8701",
+      "amount": 1637.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 589748.0
+    },
+    {
+      "transaction_date": "02-Dec-25\n(02-Dec-2025)",
+      "description": "IMPS-PAYTM-FASTAG6846",
+      "amount": 232.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 589516.0
+    },
+    {
+      "transaction_date": "02-Dec-25\n(02-Dec-2025)",
+      "description": "POS PURCHASE-HOTEL 7908",
+      "amount": 751.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 588765.0
+    },
+    {
+      "transaction_date": "02-Dec-25\n(02-Dec-2025)",
+      "description": "UPI-MCDONALDS-4755",
+      "amount": 1064.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 587701.0
+    },
+    {
+      "transaction_date": "02-Dec-25\n(02-Dec-2025)",
+      "description": "POS PURCHASE-LIFESTYLE-5985",
+      "amount": 10271.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 577430.0
+    },
+    {
+      "transaction_date": "02-Dec-25\n(02-Dec-2025)",
+      "description": "UPI-ZOMATO-7403",
+      "amount": 983.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 576447.0
+    },
+    {
+      "transaction_date": "02-Dec-25\n(02-Dec-2025)",
+      "description": "UPI-FLIPKART-5356",
+      "amount": 10543.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 565904.0
+    },
+    {
+      "transaction_date": "02-Dec-25\n(02-Dec-2025)",
+      "description": "POS PURCHASE-DMART-4225",
+      "amount": 4149.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 561755.0
+    },
+    {
+      "transaction_date": "02-Dec-25\n(02-Dec-2025)",
+      "description": "POS PURCHASE-BHARAT PETROLEUM-",
+      "amount": 1775.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 559980.0
+    },
+    {
+      "transaction_date": "03-Dec-25\n(03-Dec-2025)",
+      "description": "RTGS-MEERA-9005",
+      "amount": 8469.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 551511.0
+    },
+    {
+      "transaction_date": "03-Dec-25\n(03-Dec-2025)",
+      "description": "UPI-FLIPKART-4066",
+      "amount": 13907.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 537604.0
+    },
+    {
+      "transaction_date": "03-Dec-25\n(03-Dec-2025)",
+      "description": "UPI-MEESHO-7341",
+      "amount": 14491.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 523113.0
+    },
+    {
+      "transaction_date": "03-Dec-25\n(03-Dec-2025)",
+      "description": "UPI-NETFLIX-4357",
+      "amount": 290.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 522823.0
+    },
+    {
+      "transaction_date": "03-Dec-25\n(03-Dec-2025)",
+      "description": "UPI-NETFLIX-9982",
+      "amount": 230.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 522593.0
+    },
+    {
+      "transaction_date": "03-Dec-25\n(03-Dec-2025)",
+      "description": "NEFT CR-KAVITA",
+      "amount": 3845.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 526438.0
+    },
+    {
+      "transaction_date": "03-Dec-25\n(03-Dec-2025)",
+      "description": "UPI-BIGBASKET-5776",
+      "amount": 2112.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 524326.0
+    },
+    {
+      "transaction_date": "03-Dec-25\n(03-Dec-2025)",
+      "description": "UPI-DOMINOS PIZZA-3760",
+      "amount": 1122.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 523204.0
+    },
+    {
+      "transaction_date": "03-Dec-25\n(03-Dec-2025)",
+      "description": "UPI-BOOKMYSHOW-4447",
+      "amount": 251.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 522953.0
+    },
+    {
+      "transaction_date": "03-Dec-25\n(03-Dec-2025)",
+      "description": "UPI-BIGBASKET-2874",
+      "amount": 2627.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 520326.0
+    },
+    {
+      "transaction_date": "03-Dec-25\n(03-Dec-2025)",
+      "description": "CREDIT INTEREST",
+      "amount": 236.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 520562.0
+    },
+    {
+      "transaction_date": "03-Dec-25\n(03-Dec-2025)",
+      "description": "UPI-GROFERS-6787",
+      "amount": 3916.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 516646.0
+    },
+    {
+      "transaction_date": "04-Dec-25\n(04-Dec-2025)",
+      "description": "UPI-STARBUCKS-8420",
+      "amount": 995.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 515651.0
+    },
+    {
+      "transaction_date": "04-Dec-25\n(04-Dec-2025)",
+      "description": "POS PURCHASE-DMART-2165",
+      "amount": 540.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 515111.0
+    },
+    {
+      "transaction_date": "04-Dec-25\n(04-Dec-2025)",
+      "description": "POS PURCHASE-WESTSIDE-3210",
+      "amount": 8584.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 506527.0
+    },
+    {
+      "transaction_date": "04-Dec-25\n(04-Dec-2025)",
+      "description": "UPI-MYNTRA-7007",
+      "amount": 6093.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 500434.0
+    },
+    {
+      "transaction_date": "04-Dec-25\n(04-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 3651 INDORE VIJAY NAGAR",
+      "amount": 3046.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 497388.0
+    },
+    {
+      "transaction_date": "04-Dec-25\n(04-Dec-2025)",
+      "description": "UPI-OLA CABS-2612",
+      "amount": 383.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 497005.0
+    },
+    {
+      "transaction_date": "04-Dec-25\n(04-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 8239 AHMEDABAD NAVRANG",
+      "amount": 5928.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 491077.0
+    },
+    {
+      "transaction_date": "04-Dec-25\n(04-Dec-2025)",
+      "description": "POS PURCHASE-HOTEL 3754",
+      "amount": 1207.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 489870.0
+    },
+    {
+      "transaction_date": "04-Dec-25\n(04-Dec-2025)",
+      "description": "UPI-STARBUCKS-4688",
+      "amount": 963.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 488907.0
+    },
+    {
+      "transaction_date": "04-Dec-25\n(04-Dec-2025)",
+      "description": "UPI-FLIPKART-9013",
+      "amount": 720.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 488187.0
+    },
+    {
+      "transaction_date": "04-Dec-25\n(04-Dec-2025)",
+      "description": "POS PURCHASE-MORE MEGASTORE-75",
+      "amount": 4859.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 483328.0
+    },
+    {
+      "transaction_date": "04-Dec-25\n(04-Dec-2025)",
+      "description": "UPI-SUBWAY-6108",
+      "amount": 1014.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 482314.0
+    },
+    {
+      "transaction_date": "05-Dec-25\n(05-Dec-2025)",
+      "description": "UPI-ACT FIBERNET-",
+      "amount": 430.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 481884.0
+    },
+    {
+      "transaction_date": "05-Dec-25\n(05-Dec-2025)",
+      "description": "POS PURCHASE-LIFESTYLE-6863",
+      "amount": 11704.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 470180.0
+    },
+    {
+      "transaction_date": "05-Dec-25\n(05-Dec-2025)",
+      "description": "POS PURCHASE-SPENCERS-9460",
+      "amount": 3269.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 466911.0
+    },
+    {
+      "transaction_date": "05-Dec-25\n(05-Dec-2025)",
+      "description": "IMPS CR-SWATI",
+      "amount": 4742.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 471653.0
+    },
+    {
+      "transaction_date": "05-Dec-25\n(05-Dec-2025)",
+      "description": "POS PURCHASE-RESTAURANT 4928",
+      "amount": 149.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 471504.0
+    },
+    {
+      "transaction_date": "05-Dec-25\n(05-Dec-2025)",
+      "description": "UPI-TATA SKY-",
+      "amount": 844.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 470660.0
+    },
+    {
+      "transaction_date": "05-Dec-25\n(05-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 3755 HYDERABAD BANJARA",
+      "amount": 8683.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 461977.0
+    },
+    {
+      "transaction_date": "05-Dec-25\n(05-Dec-2025)",
+      "description": "POS PURCHASE-RELIANCE FRESH-1648",
+      "amount": 266.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 461711.0
+    },
+    {
+      "transaction_date": "05-Dec-25\n(05-Dec-2025)",
+      "description": "UPI-CAFE COFFEE DAY-5000",
+      "amount": 831.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 460880.0
+    },
+    {
+      "transaction_date": "06-Dec-25\n(06-Dec-2025)",
+      "description": "POS PURCHASE-HP PETROL-6245",
+      "amount": 700.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 460180.0
+    },
+    {
+      "transaction_date": "06-Dec-25\n(06-Dec-2025)",
+      "description": "UPI-ZOMATO-6923",
+      "amount": 1433.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 458747.0
+    },
+    {
+      "transaction_date": "06-Dec-25\n(06-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 6307 DELHI CONNAUGHT PL",
+      "amount": 7354.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 451393.0
+    },
+    {
+      "transaction_date": "06-Dec-25\n(06-Dec-2025)",
+      "description": "POS PURCHASE-PVR CINEMAS-2455",
+      "amount": 837.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 450556.0
+    },
+    {
+      "transaction_date": "06-Dec-25\n(06-Dec-2025)",
+      "description": "SALARY CREDIT-DIVYA",
+      "amount": 2383.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 452939.0
+    },
+    {
+      "transaction_date": "06-Dec-25\n(06-Dec-2025)",
+      "description": "UPI-AJIO-5458",
+      "amount": 1025.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 451914.0
+    },
+    {
+      "transaction_date": "06-Dec-25\n(06-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 1680 HYDERABAD BANJARA",
+      "amount": 3705.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 448209.0
+    },
+    {
+      "transaction_date": "06-Dec-25\n(06-Dec-2025)",
+      "description": "UPI-SUBWAY-9031",
+      "amount": 510.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 447699.0
+    },
+    {
+      "transaction_date": "06-Dec-25\n(06-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 6838 PUNE SHIVAJI NAGAR",
+      "amount": 3839.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 443860.0
+    },
+    {
+      "transaction_date": "06-Dec-25\n(06-Dec-2025)",
+      "description": "UPI CR-REKHA",
+      "amount": 678.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 444538.0
+    },
+    {
+      "transaction_date": "06-Dec-25\n(06-Dec-2025)",
+      "description": "RTGS-DIVYA-7888",
+      "amount": 33240.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 411298.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "UPI-ZOMATO-5618",
+      "amount": 273.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 411025.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 5884 NAGPUR SITABULDI",
+      "amount": 2910.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 408115.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "POS PURCHASE-HOTEL 6748",
+      "amount": 934.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 407181.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "UPI-STARBUCKS-7361",
+      "amount": 297.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 406884.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "SALARY CREDIT-MANOJ",
+      "amount": 2716.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 409600.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "NEFT-RAVI-9890",
+      "amount": 22416.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 387184.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "UPI-SUBWAY-3737",
+      "amount": 861.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 386323.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "UPI-DOMINOS PIZZA-1158",
+      "amount": 902.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 385421.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 9881 LUCKNOW HAZRATGAN",
+      "amount": 1377.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 384044.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 8379 PUNE SHIVAJI NAGAR",
+      "amount": 9082.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 374962.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 3372 INDORE VIJAY NAGAR",
+      "amount": 6875.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 368087.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 8253 KOLKATA PARK STREE",
+      "amount": 3261.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 364826.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "UPI-FLIPKART-4375",
+      "amount": 3461.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 361365.0
+    },
+    {
+      "transaction_date": "07-Dec-25\n(07-Dec-2025)",
+      "description": "POS PURCHASE-RESTAURANT 4348",
+      "amount": 130.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 361235.0
+    },
+    {
+      "transaction_date": "08-Dec-25\n(08-Dec-2025)",
+      "description": "UPI-OLA CABS-2366",
+      "amount": 336.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 360899.0
+    },
+    {
+      "transaction_date": "08-Dec-25\n(08-Dec-2025)",
+      "description": "UPI-BARBEQUE NATION-5454",
+      "amount": 587.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 360312.0
+    },
+    {
+      "transaction_date": "08-Dec-25\n(08-Dec-2025)",
+      "description": "UPI-ZOMATO-4772",
+      "amount": 796.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 359516.0
+    },
+    {
+      "transaction_date": "08-Dec-25\n(08-Dec-2025)",
+      "description": "UPI-AMAZON PAY-7981",
+      "amount": 5602.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 353914.0
+    },
+    {
+      "transaction_date": "08-Dec-25\n(08-Dec-2025)",
+      "description": "POS PURCHASE-BHARAT PETROLEUM-",
+      "amount": 1178.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 352736.0
+    },
+    {
+      "transaction_date": "08-Dec-25\n(08-Dec-2025)",
+      "description": "UPI-GROFERS-7951",
+      "amount": 985.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 351751.0
+    },
+    {
+      "transaction_date": "08-Dec-25\n(08-Dec-2025)",
+      "description": "POS PURCHASE-HP PETROL-6371",
+      "amount": 216.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 351535.0
+    },
+    {
+      "transaction_date": "09-Dec-25\n(09-Dec-2025)",
+      "description": "UPI-BARBEQUE NATION-3025",
+      "amount": 438.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 351097.0
+    },
+    {
+      "transaction_date": "09-Dec-25\n(09-Dec-2025)",
+      "description": "UPI-SUBWAY-8338",
+      "amount": 1383.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 349714.0
+    },
+    {
+      "transaction_date": "09-Dec-25\n(09-Dec-2025)",
+      "description": "POS PURCHASE-SPENCERS-4870",
+      "amount": 3398.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 346316.0
+    },
+    {
+      "transaction_date": "09-Dec-25\n(09-Dec-2025)",
+      "description": "UPI-BIGBASKET-8223",
+      "amount": 260.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 346056.0
+    },
+    {
+      "transaction_date": "09-Dec-25\n(09-Dec-2025)",
+      "description": "POS PURCHASE-SPENCERS-6338",
+      "amount": 2241.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 343815.0
+    },
+    {
+      "transaction_date": "09-Dec-25\n(09-Dec-2025)",
+      "description": "POS PURCHASE-HOTEL 7595",
+      "amount": 1228.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 342587.0
+    },
+    {
+      "transaction_date": "09-Dec-25\n(09-Dec-2025)",
+      "description": "UPI-ZOMATO-1965",
+      "amount": 511.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 342076.0
+    },
+    {
+      "transaction_date": "09-Dec-25\n(09-Dec-2025)",
+      "description": "POS PURCHASE-LIFESTYLE-1544",
+      "amount": 4736.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 337340.0
+    },
+    {
+      "transaction_date": "10-Dec-25\n(10-Dec-2025)",
+      "description": "UPI-IRCTC-5717",
+      "amount": 1815.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 335525.0
+    },
+    {
+      "transaction_date": "10-Dec-25\n(10-Dec-2025)",
+      "description": "POS PURCHASE-SPENCERS-2517",
+      "amount": 4840.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 330685.0
+    },
+    {
+      "transaction_date": "10-Dec-25\n(10-Dec-2025)",
+      "description": "POS PURCHASE-HOTEL 7645",
+      "amount": 456.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 330229.0
+    },
+    {
+      "transaction_date": "10-Dec-25\n(10-Dec-2025)",
+      "description": "UPI-ZOMATO-5847",
+      "amount": 867.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 329362.0
+    },
+    {
+      "transaction_date": "10-Dec-25\n(10-Dec-2025)",
+      "description": "UPI-AMAZON PAY-6848",
+      "amount": 775.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 328587.0
+    },
+    {
+      "transaction_date": "10-Dec-25\n(10-Dec-2025)",
+      "description": "POS PURCHASE-LIFESTYLE-5550",
+      "amount": 1705.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 326882.0
+    },
+    {
+      "transaction_date": "10-Dec-25\n(10-Dec-2025)",
+      "description": "UPI-MYNTRA-7070",
+      "amount": 12414.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 314468.0
+    },
+    {
+      "transaction_date": "10-Dec-25\n(10-Dec-2025)",
+      "description": "UPI-MEESHO-3028",
+      "amount": 11267.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 303201.0
+    },
+    {
+      "transaction_date": "10-Dec-25\n(10-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 9559 KOCHI MG ROAD",
+      "amount": 7328.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 295873.0
+    },
+    {
+      "transaction_date": "10-Dec-25\n(10-Dec-2025)",
+      "description": "POS PURCHASE-MORE MEGASTORE-74",
+      "amount": 3265.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 292608.0
+    },
+    {
+      "transaction_date": "11-Dec-25\n(11-Dec-2025)",
+      "description": "UPI-IRCTC-3296",
+      "amount": 286.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 292322.0
+    },
+    {
+      "transaction_date": "11-Dec-25\n(11-Dec-2025)",
+      "description": "UPI-BARBEQUE NATION-8086",
+      "amount": 1023.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 291299.0
+    },
+    {
+      "transaction_date": "11-Dec-25\n(11-Dec-2025)",
+      "description": "IMPS-PAYTM-FASTAG4869",
+      "amount": 771.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 290528.0
+    },
+    {
+      "transaction_date": "11-Dec-25\n(11-Dec-2025)",
+      "description": "IMPS-RAJESH-9286",
+      "amount": 46130.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 244398.0
+    },
+    {
+      "transaction_date": "11-Dec-25\n(11-Dec-2025)",
+      "description": "BILL PAYMENT-GAS BILL",
+      "amount": 1533.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 242865.0
+    },
+    {
+      "transaction_date": "11-Dec-25\n(11-Dec-2025)",
+      "description": "UPI-BIGBASKET-6695",
+      "amount": 2012.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 240853.0
+    },
+    {
+      "transaction_date": "11-Dec-25\n(11-Dec-2025)",
+      "description": "IMPS-PAYTM-FASTAG1713",
+      "amount": 1547.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 239306.0
+    },
+    {
+      "transaction_date": "11-Dec-25\n(11-Dec-2025)",
+      "description": "POS PURCHASE-BIG BAZAAR-9233",
+      "amount": 1150.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 238156.0
+    },
+    {
+      "transaction_date": "11-Dec-25\n(11-Dec-2025)",
+      "description": "UPI-NETFLIX-8018",
+      "amount": 814.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 237342.0
+    },
+    {
+      "transaction_date": "12-Dec-25\n(12-Dec-2025)",
+      "description": "UPI-BARBEQUE NATION-8345",
+      "amount": 655.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 236687.0
+    },
+    {
+      "transaction_date": "12-Dec-25\n(12-Dec-2025)",
+      "description": "POS PURCHASE-RELIANCE FRESH-1651",
+      "amount": 3173.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 233514.0
+    },
+    {
+      "transaction_date": "12-Dec-25\n(12-Dec-2025)",
+      "description": "UPI-BIGBASKET-6915",
+      "amount": 1136.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 232378.0
+    },
+    {
+      "transaction_date": "12-Dec-25\n(12-Dec-2025)",
+      "description": "UPI-SWIGGY-7051",
+      "amount": 437.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 231941.0
+    },
+    {
+      "transaction_date": "12-Dec-25\n(12-Dec-2025)",
+      "description": "POS PURCHASE-INOX-1704",
+      "amount": 474.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 231467.0
+    },
+    {
+      "transaction_date": "12-Dec-25\n(12-Dec-2025)",
+      "description": "UPI-OLA CABS-8231",
+      "amount": 357.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 231110.0
+    },
+    {
+      "transaction_date": "12-Dec-25\n(12-Dec-2025)",
+      "description": "UPI-MEESHO-5595",
+      "amount": 8209.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 222901.0
+    },
+    {
+      "transaction_date": "12-Dec-25\n(12-Dec-2025)",
+      "description": "UPI-CAFE COFFEE DAY-7436",
+      "amount": 1060.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 221841.0
+    },
+    {
+      "transaction_date": "12-Dec-25\n(12-Dec-2025)",
+      "description": "POS PURCHASE-BIG BAZAAR-5210",
+      "amount": 3741.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 218100.0
+    },
+    {
+      "transaction_date": "12-Dec-25\n(12-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 7511 LUCKNOW HAZRATGAN",
+      "amount": 3491.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 214609.0
+    },
+    {
+      "transaction_date": "12-Dec-25\n(12-Dec-2025)",
+      "description": "UPI-SWIGGY-9501",
+      "amount": 783.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 213826.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "POS PURCHASE-HOTEL 8709",
+      "amount": 1188.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 212638.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 5077 KOCHI MG ROAD",
+      "amount": 9351.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 203287.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "UPI-UBER INDIA-4910",
+      "amount": 1149.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 202138.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "IMPS-PAYTM-FASTAG8999",
+      "amount": 751.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 201387.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "UPI-SUBWAY-1161",
+      "amount": 206.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 201181.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "POS PURCHASE-LIFESTYLE-7738",
+      "amount": 10901.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 190280.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "UPI-SPOTIFY-2034",
+      "amount": 884.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 189396.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "POS PURCHASE-BIG BAZAAR-2612",
+      "amount": 3249.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 186147.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "CREDIT INTEREST",
+      "amount": 154.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 186301.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "UPI-BIGBASKET-4005",
+      "amount": 2558.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 183743.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "POS PURCHASE-SHOPPERS STOP-1308",
+      "amount": 7912.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 175831.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "POS PURCHASE-DMART-4652",
+      "amount": 1665.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 174166.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "POS PURCHASE-PANTALOONS-5639",
+      "amount": 6325.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 167841.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "POS PURCHASE-RESTAURANT 8217",
+      "amount": 205.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 167636.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "POS PURCHASE-LIFESTYLE-8618",
+      "amount": 3843.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 163793.0
+    },
+    {
+      "transaction_date": "13-Dec-25\n(13-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 7287 PUNE SHIVAJI NAGAR",
+      "amount": 3846.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 159947.0
+    },
+    {
+      "transaction_date": "14-Dec-25\n(14-Dec-2025)",
+      "description": "UPI-BIGBASKET-9157",
+      "amount": 2154.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 157793.0
+    },
+    {
+      "transaction_date": "14-Dec-25\n(14-Dec-2025)",
+      "description": "POS PURCHASE-RESTAURANT 4390",
+      "amount": 168.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 157625.0
+    },
+    {
+      "transaction_date": "14-Dec-25\n(14-Dec-2025)",
+      "description": "UPI-KFC-1527",
+      "amount": 464.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 157161.0
+    },
+    {
+      "transaction_date": "14-Dec-25\n(14-Dec-2025)",
+      "description": "UPI-BIGBASKET-2447",
+      "amount": 2073.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 155088.0
+    },
+    {
+      "transaction_date": "14-Dec-25\n(14-Dec-2025)",
+      "description": "POS PURCHASE-DMART-8410",
+      "amount": 3012.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 152076.0
+    },
+    {
+      "transaction_date": "15-Dec-25\n(15-Dec-2025)",
+      "description": "UPI-KFC-5906",
+      "amount": 665.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 151411.0
+    },
+    {
+      "transaction_date": "15-Dec-25\n(15-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 4447 JAIPUR MI ROAD",
+      "amount": 8593.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 142818.0
+    },
+    {
+      "transaction_date": "15-Dec-25\n(15-Dec-2025)",
+      "description": "UPI-AMAZON PRIME-8863",
+      "amount": 654.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 142164.0
+    },
+    {
+      "transaction_date": "15-Dec-25\n(15-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 6189 BANGALORE KORAMAN",
+      "amount": 4156.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 138008.0
+    },
+    {
+      "transaction_date": "15-Dec-25\n(15-Dec-2025)",
+      "description": "UPI-MCDONALDS-3651",
+      "amount": 1019.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 136989.0
+    },
+    {
+      "transaction_date": "15-Dec-25\n(15-Dec-2025)",
+      "description": "POS PURCHASE-DMART-4687",
+      "amount": 1428.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 135561.0
+    },
+    {
+      "transaction_date": "15-Dec-25\n(15-Dec-2025)",
+      "description": "POS PURCHASE-RESTAURANT 5524",
+      "amount": 665.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 134896.0
+    },
+    {
+      "transaction_date": "15-Dec-25\n(15-Dec-2025)",
+      "description": "UPI-SUBWAY-2406",
+      "amount": 746.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 134150.0
+    },
+    {
+      "transaction_date": "15-Dec-25\n(15-Dec-2025)",
+      "description": "POS PURCHASE-HP PETROL-1303",
+      "amount": 640.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 133510.0
+    },
+    {
+      "transaction_date": "16-Dec-25\n(16-Dec-2025)",
+      "description": "RTGS-ANJALI-3190",
+      "amount": 1496.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 132014.0
+    },
+    {
+      "transaction_date": "16-Dec-25\n(16-Dec-2025)",
+      "description": "UPI-DOMINOS PIZZA-5903",
+      "amount": 1355.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 130659.0
+    },
+    {
+      "transaction_date": "16-Dec-25\n(16-Dec-2025)",
+      "description": "RTGS-SUNITA-6282",
+      "amount": 18640.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 112019.0
+    },
+    {
+      "transaction_date": "16-Dec-25\n(16-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 4967 PUNE SHIVAJI NAGAR",
+      "amount": 2314.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 109705.0
+    },
+    {
+      "transaction_date": "16-Dec-25\n(16-Dec-2025)",
+      "description": "POS PURCHASE-MORE MEGASTORE-56",
+      "amount": 4280.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 105425.0
+    },
+    {
+      "transaction_date": "16-Dec-25\n(16-Dec-2025)",
+      "description": "POS PURCHASE-RELIANCE FRESH-8704",
+      "amount": 1745.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 103680.0
+    },
+    {
+      "transaction_date": "16-Dec-25\n(16-Dec-2025)",
+      "description": "UPI-IRCTC-1134",
+      "amount": 617.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 103063.0
+    },
+    {
+      "transaction_date": "16-Dec-25\n(16-Dec-2025)",
+      "description": "UPI-HOTSTAR-9409",
+      "amount": 432.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 102631.0
+    },
+    {
+      "transaction_date": "16-Dec-25\n(16-Dec-2025)",
+      "description": "UPI-OLA CABS-7494",
+      "amount": 436.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 102195.0
+    },
+    {
+      "transaction_date": "17-Dec-25\n(17-Dec-2025)",
+      "description": "UPI-ZOMATO-4371",
+      "amount": 593.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 101602.0
+    },
+    {
+      "transaction_date": "17-Dec-25\n(17-Dec-2025)",
+      "description": "POS PURCHASE-WESTSIDE-6511",
+      "amount": 7418.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 94184.0
+    },
+    {
+      "transaction_date": "17-Dec-25\n(17-Dec-2025)",
+      "description": "POS PURCHASE-LIFESTYLE-7571",
+      "amount": 8726.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 85458.0
+    },
+    {
+      "transaction_date": "17-Dec-25\n(17-Dec-2025)",
+      "description": "UPI-AIRTEL FIBER-",
+      "amount": 2037.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 83421.0
+    },
+    {
+      "transaction_date": "17-Dec-25\n(17-Dec-2025)",
+      "description": "IMPS-PAYTM-FASTAG2460",
+      "amount": 1350.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 82071.0
+    },
+    {
+      "transaction_date": "17-Dec-25\n(17-Dec-2025)",
+      "description": "POS PURCHASE-SPENCERS-1420",
+      "amount": 3552.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 78519.0
+    },
+    {
+      "transaction_date": "17-Dec-25\n(17-Dec-2025)",
+      "description": "POS PURCHASE-RESTAURANT 3836",
+      "amount": 1483.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 77036.0
+    },
+    {
+      "transaction_date": "17-Dec-25\n(17-Dec-2025)",
+      "description": "UPI-CAFE COFFEE DAY-9656",
+      "amount": 561.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 76475.0
+    },
+    {
+      "transaction_date": "18-Dec-25\n(18-Dec-2025)",
+      "description": "POS PURCHASE-SHOPPERS STOP-9335",
+      "amount": 10018.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 66457.0
+    },
+    {
+      "transaction_date": "18-Dec-25\n(18-Dec-2025)",
+      "description": "UPI-OLA CABS-2898",
+      "amount": 1070.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 65387.0
+    },
+    {
+      "transaction_date": "18-Dec-25\n(18-Dec-2025)",
+      "description": "POS PURCHASE-PANTALOONS-5851",
+      "amount": 10109.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 55278.0
+    },
+    {
+      "transaction_date": "18-Dec-25\n(18-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 5376 CHENNAI ANNA NAGAR",
+      "amount": 1613.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 53665.0
+    },
+    {
+      "transaction_date": "18-Dec-25\n(18-Dec-2025)",
+      "description": "BILL PAYMENT-WATER BILL",
+      "amount": 1936.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 51729.0
+    },
+    {
+      "transaction_date": "18-Dec-25\n(18-Dec-2025)",
+      "description": "POS PURCHASE-RAILWAY TICKET-5290",
+      "amount": 1826.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 49903.0
+    },
+    {
+      "transaction_date": "18-Dec-25\n(18-Dec-2025)",
+      "description": "UPI-KFC-1733",
+      "amount": 1459.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 48444.0
+    },
+    {
+      "transaction_date": "18-Dec-25\n(18-Dec-2025)",
+      "description": "BILL PAYMENT-ELECTRICITY BILL",
+      "amount": 291.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 48153.0
+    },
+    {
+      "transaction_date": "18-Dec-25\n(18-Dec-2025)",
+      "description": "UPI-CAFE COFFEE DAY-5968",
+      "amount": 677.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 47476.0
+    },
+    {
+      "transaction_date": "18-Dec-25\n(18-Dec-2025)",
+      "description": "UPI-MYNTRA-2847",
+      "amount": 8456.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 39020.0
+    },
+    {
+      "transaction_date": "18-Dec-25\n(18-Dec-2025)",
+      "description": "UPI-SUBWAY-4149",
+      "amount": 1212.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 37808.0
+    },
+    {
+      "transaction_date": "18-Dec-25\n(18-Dec-2025)",
+      "description": "UPI-CAFE COFFEE DAY-8149",
+      "amount": 262.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 37546.0
+    },
+    {
+      "transaction_date": "19-Dec-25\n(19-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 6449 JAIPUR MI ROAD",
+      "amount": 1664.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 35882.0
+    },
+    {
+      "transaction_date": "19-Dec-25\n(19-Dec-2025)",
+      "description": "UPI-ZEE5-4943",
+      "amount": 819.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 35063.0
+    },
+    {
+      "transaction_date": "19-Dec-25\n(19-Dec-2025)",
+      "description": "POS PURCHASE-DMART-1649",
+      "amount": 3158.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 31905.0
+    },
+    {
+      "transaction_date": "19-Dec-25\n(19-Dec-2025)",
+      "description": "POS PURCHASE-RESTAURANT 4084",
+      "amount": 698.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 31207.0
+    },
+    {
+      "transaction_date": "19-Dec-25\n(19-Dec-2025)",
+      "description": "UPI-AJIO-3083",
+      "amount": 7118.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 24089.0
+    },
+    {
+      "transaction_date": "19-Dec-25\n(19-Dec-2025)",
+      "description": "UPI-CAFE COFFEE DAY-1216",
+      "amount": 1204.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 22885.0
+    },
+    {
+      "transaction_date": "19-Dec-25\n(19-Dec-2025)",
+      "description": "UPI-OLA CABS-1833",
+      "amount": 1370.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 21515.0
+    },
+    {
+      "transaction_date": "19-Dec-25\n(19-Dec-2025)",
+      "description": "NEFT CR-GOPAL",
+      "amount": 31235.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 52750.0
+    },
+    {
+      "transaction_date": "19-Dec-25\n(19-Dec-2025)",
+      "description": "UPI-SNEHA-3251",
+      "amount": 38462.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 14288.0
+    },
+    {
+      "transaction_date": "20-Dec-25\n(20-Dec-2025)",
+      "description": "POS PURCHASE-PVR CINEMAS-3729",
+      "amount": 534.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 13754.0
+    },
+    {
+      "transaction_date": "20-Dec-25\n(20-Dec-2025)",
+      "description": "BILL PAYMENT-WATER BILL",
+      "amount": 2471.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 11283.0
+    },
+    {
+      "transaction_date": "20-Dec-25\n(20-Dec-2025)",
+      "description": "UPI-GROFERS-4550",
+      "amount": 4223.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 7060.0
+    },
+    {
+      "transaction_date": "20-Dec-25\n(20-Dec-2025)",
+      "description": "UPI-KFC-7153",
+      "amount": 1382.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 5678.0
+    },
+    {
+      "transaction_date": "20-Dec-25\n(20-Dec-2025)",
+      "description": "UPI-SPOTIFY-6690",
+      "amount": 906.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 4772.0
+    },
+    {
+      "transaction_date": "20-Dec-25\n(20-Dec-2025)",
+      "description": "UPI-BOOKMYSHOW-8258",
+      "amount": 350.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 4422.0
+    },
+    {
+      "transaction_date": "20-Dec-25\n(20-Dec-2025)",
+      "description": "POS PURCHASE-HOTEL 3037",
+      "amount": 148.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 4274.0
+    },
+    {
+      "transaction_date": "20-Dec-25\n(20-Dec-2025)",
+      "description": "NEFT CR-POOJA",
+      "amount": 20843.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 25117.0
+    },
+    {
+      "transaction_date": "20-Dec-25\n(20-Dec-2025)",
+      "description": "UPI-MEESHO-7220",
+      "amount": 9777.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 15340.0
+    },
+    {
+      "transaction_date": "20-Dec-25\n(20-Dec-2025)",
+      "description": "UPI-BIGBASKET-8280",
+      "amount": 1735.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 13605.0
+    },
+    {
+      "transaction_date": "20-Dec-25\n(20-Dec-2025)",
+      "description": "UPI-CAFE COFFEE DAY-6427",
+      "amount": 486.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 13119.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "UPI-SWIGGY-1916",
+      "amount": 381.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 12738.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "UPI-JIO RECHARGE-",
+      "amount": 792.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 11946.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "UPI-CAFE COFFEE DAY-2071",
+      "amount": 983.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 10963.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "POS PURCHASE-RAILWAY TICKET-6550",
+      "amount": 454.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 10509.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "UPI-ZOMATO-8362",
+      "amount": 1129.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 9380.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "UPI-NETFLIX-4431",
+      "amount": 168.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 9212.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "POS PURCHASE-SHOPPERS STOP-2999",
+      "amount": 7196.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 2016.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "UPI-STARBUCKS-1447",
+      "amount": 853.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 1163.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "NEFT CR-VENKAT",
+      "amount": 9511.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 10674.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "POS PURCHASE-DMART-8151",
+      "amount": 1222.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 9452.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 1220 AHMEDABAD NAVRANG",
+      "amount": 4368.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 5084.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "NEFT CR-ANJALI",
+      "amount": 17076.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 22160.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "UPI-FLIPKART-9528",
+      "amount": 12720.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 9440.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "POS PURCHASE-HOTEL 2057",
+      "amount": 1381.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 8059.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "UPI-BOOKMYSHOW-9269",
+      "amount": 381.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 7678.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "UPI-CAFE COFFEE DAY-6498",
+      "amount": 333.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 7345.0
+    },
+    {
+      "transaction_date": "21-Dec-25\n(21-Dec-2025)",
+      "description": "SALARY CREDIT-RAJESH",
+      "amount": 1596.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 8941.0
+    },
+    {
+      "transaction_date": "22-Dec-25\n(22-Dec-2025)",
+      "description": "UPI-UBER INDIA-2336",
+      "amount": 781.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 8160.0
+    },
+    {
+      "transaction_date": "22-Dec-25\n(22-Dec-2025)",
+      "description": "POS PURCHASE-BHARAT PETROLEUM-",
+      "amount": 1758.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 6402.0
+    },
+    {
+      "transaction_date": "22-Dec-25\n(22-Dec-2025)",
+      "description": "NEFT CR-GOPAL",
+      "amount": 11347.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 17749.0
+    },
+    {
+      "transaction_date": "22-Dec-25\n(22-Dec-2025)",
+      "description": "POS PURCHASE-LIFESTYLE-4168",
+      "amount": 10795.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 6954.0
+    },
+    {
+      "transaction_date": "22-Dec-25\n(22-Dec-2025)",
+      "description": "POS PURCHASE-RESTAURANT 3538",
+      "amount": 818.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 6136.0
+    },
+    {
+      "transaction_date": "22-Dec-25\n(22-Dec-2025)",
+      "description": "ATM WDL\nATM CASH 3662 AHMEDABAD NAVRANG",
+      "amount": 1615.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 4521.0
+    },
+    {
+      "transaction_date": "22-Dec-25\n(22-Dec-2025)",
+      "description": "UPI-KFC-3667",
+      "amount": 1298.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 3223.0
+    },
+    {
+      "transaction_date": "22-Dec-25\n(22-Dec-2025)",
+      "description": "POS PURCHASE-SHOPPERS STOP-9036",
+      "amount": 502.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 2721.0
+    },
+    {
+      "transaction_date": "22-Dec-25\n(22-Dec-2025)",
+      "description": "NEFT CR-SNEHA",
+      "amount": 19935.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 22656.0
+    },
+    {
+      "transaction_date": "22-Dec-25\n(22-Dec-2025)",
+      "description": "UPI-MEESHO-7765",
+      "amount": 13760.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 8896.0
+    },
+    {
+      "transaction_date": "23-Dec-25\n(23-Dec-2025)",
+      "description": "UPI-ZOMATO-7275",
+      "amount": 898.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 7998.0
+    },
+    {
+      "transaction_date": "23-Dec-25\n(23-Dec-2025)",
+      "description": "CREDIT INTEREST",
+      "amount": 493.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 8491.0
+    },
+    {
+      "transaction_date": "23-Dec-25\n(23-Dec-2025)",
+      "description": "UPI-RAPIDO-9106",
+      "amount": 379.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 8112.0
+    },
+    {
+      "transaction_date": "23-Dec-25\n(23-Dec-2025)",
+      "description": "SALARY CREDIT-SACHIN",
+      "amount": 1369.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 9481.0
+    },
+    {
+      "transaction_date": "23-Dec-25\n(23-Dec-2025)",
+      "description": "UPI-SPOTIFY-1182",
+      "amount": 412.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 9069.0
+    },
+    {
+      "transaction_date": "23-Dec-25\n(23-Dec-2025)",
+      "description": "UPI-ZOMATO-2620",
+      "amount": 352.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 8717.0
+    },
+    {
+      "transaction_date": "23-Dec-25\n(23-Dec-2025)",
+      "description": "UPI-SUBWAY-5373",
+      "amount": 407.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 8310.0
+    },
+    {
+      "transaction_date": "23-Dec-25\n(23-Dec-2025)",
+      "description": "NEFT CR-NISHA",
+      "amount": 35781.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 44091.0
+    },
+    {
+      "transaction_date": "23-Dec-25\n(23-Dec-2025)",
+      "description": "UPI-SURESH-8352",
+      "amount": 33423.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 10668.0
+    },
+    {
+      "transaction_date": "24-Dec-25\n(24-Dec-2025)",
+      "description": "UPI-KFC-8798",
+      "amount": 346.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 10322.0
+    },
+    {
+      "transaction_date": "24-Dec-25\n(24-Dec-2025)",
+      "description": "UPI-AMAZON PAY-7151",
+      "amount": 5876.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 4446.0
+    },
+    {
+      "transaction_date": "24-Dec-25\n(24-Dec-2025)",
+      "description": "UPI-IRCTC-7039",
+      "amount": 1533.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 2913.0
+    },
+    {
+      "transaction_date": "24-Dec-25\n(24-Dec-2025)",
+      "description": "POS PURCHASE-SPENCERS-6879",
+      "amount": 1093.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 1820.0
+    },
+    {
+      "transaction_date": "24-Dec-25\n(24-Dec-2025)",
+      "description": "UPI-SONYLIV-6665",
+      "amount": 739.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 1081.0
+    },
+    {
+      "transaction_date": "24-Dec-25\n(24-Dec-2025)",
+      "description": "NEFT CR-RAJESH",
+      "amount": 17280.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 18361.0
+    },
+    {
+      "transaction_date": "24-Dec-25\n(24-Dec-2025)",
+      "description": "POS PURCHASE-RAILWAY TICKET-9372",
+      "amount": 1270.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 17091.0
+    },
+    {
+      "transaction_date": "24-Dec-25\n(24-Dec-2025)",
+      "description": "POS PURCHASE-DMART-7926",
+      "amount": 2072.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "SBI",
+      "account_number": "1255211221223",
+      "balance": 15019.0
+    }
+  ]
+}

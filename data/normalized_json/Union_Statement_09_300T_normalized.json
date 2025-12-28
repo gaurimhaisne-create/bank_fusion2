@@ -1,0 +1,2636 @@
+{
+  "bank_name": "UNION",
+  "account_number": "672202025116715",
+  "account_holder": "ANITA Z SHAH Home Branch",
+  "statement_period": "From -04/12/2023 To 01/06/2024",
+  "transactions": [
+    {
+      "transaction_date": "2024-06-01",
+      "description": "NEFT:TRANSFER\nFDRLM8096022651",
+      "amount": 23757.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -672035.02
+    },
+    {
+      "transaction_date": "2024-06-01",
+      "description": "UPIAR/945196851109/DR/Reliance/RELIANCE/SBIN/reliance@sb\ni",
+      "amount": 457.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -671578.02
+    },
+    {
+      "transaction_date": "2024-05-30",
+      "description": "UPIAR/668821108826/DR/Flipkart/FLIPKART/AXIS/flipkart@axisb\nank",
+      "amount": 983.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -670595.02
+    },
+    {
+      "transaction_date": "2024-05-30",
+      "description": "UPIAR/827249570312/DR/Netflix/NETFLIX/HDFC/netflix@hdfcban\nk",
+      "amount": 460.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -670135.02
+    },
+    {
+      "transaction_date": "2024-05-29",
+      "description": "UPIAR/598024127039/DR/Ola/OLA/ICICI/ola@icici",
+      "amount": 429.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -669706.02
+    },
+    {
+      "transaction_date": "2024-05-29",
+      "description": "UPIAR/531221690867/DR/BPCL Fuel/BPCL/CNRB/bpcl@canara",
+      "amount": 813.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -668893.02
+    },
+    {
+      "transaction_date": "2024-05-27",
+      "description": "UPIAR/555934331827/DR/AMIT\nPATEL/AMIT/ICICI/amitp789@okicici",
+      "amount": 8387.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -660506.02
+    },
+    {
+      "transaction_date": "2024-05-27",
+      "description": "UPIAR/975462455103/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 957.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -659549.02
+    },
+    {
+      "transaction_date": "2024-05-26",
+      "description": "NEFT:Int.Pd:01-04-2024 to 01-05-2024",
+      "amount": 23.51,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -659572.53
+    },
+    {
+      "transaction_date": "2024-05-25",
+      "description": "UPIAB/687911315861/CR/VIJAY\nSINGH/VIJAY/FDRL/vijays@okfederal",
+      "amount": 6458.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -666030.53
+    },
+    {
+      "transaction_date": "2024-05-25",
+      "description": "UPIAR/533362323155/DR/Google\nPlay/GOOGLEPLAY/UTIB/goog-payment@okaxis",
+      "amount": 886.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -665144.53
+    },
+    {
+      "transaction_date": "2024-05-23",
+      "description": "UPIAR/776212690466/DR/Ola/OLA/ICICI/ola@icici",
+      "amount": 271.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -664873.53
+    },
+    {
+      "transaction_date": "2024-05-22",
+      "description": "NEFT:CREDIT RECEIVED\nFDRLM8481764587",
+      "amount": 47322.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -712195.53
+    },
+    {
+      "transaction_date": "2024-05-22",
+      "description": "UPIAR/834474093032/DR/RAHUL\nSHARMA/RAHUL/SBIN/rahul123@oksbi",
+      "amount": 8625.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -703570.53
+    },
+    {
+      "transaction_date": "2024-05-22",
+      "description": "UPIAR/300098488451/DR/Netflix/NETFLIX/HDFC/netflix@hdfcban\nk",
+      "amount": 679.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -702891.53
+    },
+    {
+      "transaction_date": "2024-05-22",
+      "description": "UPIAB/363224671177/CR/RAHUL\nSHARMA/RAHUL/SBIN/rahul123@oksbi",
+      "amount": 5052.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -707943.53
+    },
+    {
+      "transaction_date": "2024-05-20",
+      "description": "UPIAR/385309793144/DR/Netflix/NETFLIX/HDFC/netflix@hdfcban\nk",
+      "amount": 581.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -707362.53
+    },
+    {
+      "transaction_date": "2024-05-15",
+      "description": "NEFT:TRANSFER\nFDRLM8529084211",
+      "amount": 20492.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -652885.53
+    },
+    {
+      "transaction_date": "2024-05-15",
+      "description": "NEFT:Int.Pd:01-04-2024 to 01-05-2024",
+      "amount": 33.06,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -652918.59
+    },
+    {
+      "transaction_date": "2024-05-14",
+      "description": "UPIAR/171863250852/DR/VIJAY\nSINGH/VIJAY/FDRL/vijays@okfederal",
+      "amount": 8045.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -644873.59
+    },
+    {
+      "transaction_date": "2024-05-14",
+      "description": "UPIAR/899944216357/DR/RAJESH\nNAIR/RAJESH/CNRB/rajeshn@okcanara",
+      "amount": 6394.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -638479.59
+    },
+    {
+      "transaction_date": "2024-05-14",
+      "description": "UPIAB/329500157872/CR/KAVITA\nVERMA/KAVITA/KLGB/kavitav@okklgb",
+      "amount": 4188.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -642667.59
+    },
+    {
+      "transaction_date": "2024-05-13",
+      "description": "NEFT:CREDIT RECEIVED\nFDRLM8352445190",
+      "amount": 12232.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -654899.59
+    },
+    {
+      "transaction_date": "2024-05-13",
+      "description": "MAND DR- BCF2442-",
+      "amount": 2083.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -652816.59
+    },
+    {
+      "transaction_date": "2024-05-12",
+      "description": "NEFT:TRANSFER\nFDRLM8704155340",
+      "amount": 49478.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -603338.59
+    },
+    {
+      "transaction_date": "2024-05-12",
+      "description": "ATM WDL 799703\nKASARAGOD",
+      "amount": 500.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -602838.59
+    },
+    {
+      "transaction_date": "2024-05-12",
+      "description": "ATM WDL 357151\nKASARAGOD",
+      "amount": 1000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -601838.59
+    },
+    {
+      "transaction_date": "2024-05-11",
+      "description": "UPIAR/890085507255/DR/VIJAY\nSINGH/VIJAY/FDRL/vijays@okfederal",
+      "amount": 6638.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -595200.59
+    },
+    {
+      "transaction_date": "2024-05-11",
+      "description": "UPIAR/199214307236/DR/Swiggy/SWIGGY/SBIN/swiggy@sbi",
+      "amount": 197.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -595003.59
+    },
+    {
+      "transaction_date": "2024-05-11",
+      "description": "UPIAB/636592758246/CR/RAHUL\nSHARMA/RAHUL/SBIN/rahul123@oksbi",
+      "amount": 9761.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -604764.59
+    },
+    {
+      "transaction_date": "2024-05-10",
+      "description": "UPIAR/647008421619/DR/Swiggy/SWIGGY/SBIN/swiggy@sbi",
+      "amount": 665.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -604099.59
+    },
+    {
+      "transaction_date": "2024-05-06",
+      "description": "UPIAR/107201609226/DR/BookMyShow/BOOKMYSHOW/ICICI/b\nookmyshow@icici",
+      "amount": 254.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -603845.59
+    },
+    {
+      "transaction_date": "2024-05-05",
+      "description": "UPIAR/196030228423/DR/Ola/OLA/ICICI/ola@icici",
+      "amount": 153.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -603692.59
+    },
+    {
+      "transaction_date": "2024-05-05",
+      "description": "UPIAB/354749521965/CR/AMIT\nPATEL/AMIT/ICICI/amitp789@okicici",
+      "amount": 9934.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -613626.59
+    },
+    {
+      "transaction_date": "2024-05-05",
+      "description": "ATM WDL 802802\nKANNUR",
+      "amount": 3000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -610626.59
+    },
+    {
+      "transaction_date": "2024-05-04",
+      "description": "NEFT:TRANSFER\nFDRLM8430191175",
+      "amount": 36112.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -574514.59
+    },
+    {
+      "transaction_date": "2024-05-04",
+      "description": "NEFT:TRANSFER\nFDRLM8395384245",
+      "amount": 27577.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -546937.59
+    },
+    {
+      "transaction_date": "2024-05-04",
+      "description": "UPIAR/932790607912/DR/Indian\nOil/INDIANOIL/YESB/indianoil@ybl",
+      "amount": 1236.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -545701.59
+    },
+    {
+      "transaction_date": "2024-05-03",
+      "description": "UPIAB/401822730076/CR/KAVITA\nVERMA/KAVITA/KLGB/kavitav@okklgb",
+      "amount": 1595.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -547296.59
+    },
+    {
+      "transaction_date": "2024-04-30",
+      "description": "UPIAR/186741212380/DR/VIJAY\nSINGH/VIJAY/FDRL/vijays@okfederal",
+      "amount": 6388.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -540908.59
+    },
+    {
+      "transaction_date": "2024-04-30",
+      "description": "UPIAR/452308069829/DR/Amazon/AMAZON/ICICI/amazon@icici",
+      "amount": 3999.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -536909.59
+    },
+    {
+      "transaction_date": "2024-04-28",
+      "description": "UPIAR/507996773988/DR/Uber/UBER/UTIB/uber@axisbank",
+      "amount": 376.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -536533.59
+    },
+    {
+      "transaction_date": "2024-04-24",
+      "description": "NEFT:Int.Pd:01-04-2024 to 01-04-2024",
+      "amount": 44.71,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -536578.3
+    },
+    {
+      "transaction_date": "2024-04-24",
+      "description": "UPIAB/148484428760/CR/SNEHA\nREDDY/SNEHA/AXIS/snehar@okaxis",
+      "amount": 5510.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -542088.3
+    },
+    {
+      "transaction_date": "2024-04-24",
+      "description": "UPIAR/936352690743/DR/AMIT\nPATEL/AMIT/ICICI/amitp789@okicici",
+      "amount": 3838.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -538250.3
+    },
+    {
+      "transaction_date": "2024-04-24",
+      "description": "UPIAR/104037502577/DR/BPCL Fuel/BPCL/CNRB/bpcl@canara",
+      "amount": 1963.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -536287.3
+    },
+    {
+      "transaction_date": "2024-04-23",
+      "description": "ATM WDL 455049\nKOCHI",
+      "amount": 5000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -531287.3
+    },
+    {
+      "transaction_date": "2024-04-23",
+      "description": "UPIAR/702229986950/DR/Ola/OLA/ICICI/ola@icici",
+      "amount": 78.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -531209.3
+    },
+    {
+      "transaction_date": "2024-04-23",
+      "description": "UPIAR/279013636504/DR/Zomato/ZOMATO/HDFC/zomato@hdfc\nbank",
+      "amount": 400.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -530809.3
+    },
+    {
+      "transaction_date": "2024-04-23",
+      "description": "UPIAR/698975470571/DR/Zomato/ZOMATO/HDFC/zomato@hdfc\nbank",
+      "amount": 687.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -530122.3
+    },
+    {
+      "transaction_date": "2024-04-23",
+      "description": "ATM WDL 336130\nKOCHI",
+      "amount": 3000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -527122.3
+    },
+    {
+      "transaction_date": "2024-04-23",
+      "description": "UPIAR/224004553761/DR/BookMyShow/BOOKMYSHOW/ICICI/b\nookmyshow@icici",
+      "amount": 376.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -526746.3
+    },
+    {
+      "transaction_date": "2024-04-22",
+      "description": "UPIAR/409436087379/DR/Reliance/RELIANCE/SBIN/reliance@sb\ni",
+      "amount": 1729.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -525017.3
+    },
+    {
+      "transaction_date": "2024-04-22",
+      "description": "NEFT:Int.Pd:01-04-2024 to 01-04-2024",
+      "amount": 24.33,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -525041.63
+    },
+    {
+      "transaction_date": "2024-04-22",
+      "description": "NEFT:TRANSFER\nFDRLM8865668887",
+      "amount": 37045.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -487996.63
+    },
+    {
+      "transaction_date": "2024-04-21",
+      "description": "NEFT:TRANSFER\nFDRLM8857492602",
+      "amount": 46900.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -441096.63
+    },
+    {
+      "transaction_date": "2024-04-20",
+      "description": "ATM WDL 620691\nKOCHI",
+      "amount": 2000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -439096.63
+    },
+    {
+      "transaction_date": "2024-04-19",
+      "description": "UPIAB/144842640843/CR/RAHUL\nSHARMA/RAHUL/SBIN/rahul123@oksbi",
+      "amount": 1817.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -440913.63
+    },
+    {
+      "transaction_date": "2024-04-18",
+      "description": "UPIAR/386861144974/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 550.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -440363.63
+    },
+    {
+      "transaction_date": "2024-04-18",
+      "description": "UPIAR/980887357813/DR/Reliance/RELIANCE/SBIN/reliance@sb\ni",
+      "amount": 2596.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -437767.63
+    },
+    {
+      "transaction_date": "2024-04-18",
+      "description": "ATM WDL 680587\nKOCHI",
+      "amount": 500.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -437267.63
+    },
+    {
+      "transaction_date": "2024-04-14",
+      "description": "UPIAR/811173929126/DR/Amazon/AMAZON/ICICI/amazon@icici",
+      "amount": 3603.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -433664.63
+    },
+    {
+      "transaction_date": "2024-04-13",
+      "description": "UPIAR/928498696947/DR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 3140.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -430524.63
+    },
+    {
+      "transaction_date": "2024-04-12",
+      "description": "UPIAR/771565452580/DR/BPCL Fuel/BPCL/CNRB/bpcl@canara",
+      "amount": 1915.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -428609.63
+    },
+    {
+      "transaction_date": "2024-04-12",
+      "description": "UPIAR/758325955098/DR/Netflix/NETFLIX/HDFC/netflix@hdfcban\nk",
+      "amount": 504.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -428105.63
+    },
+    {
+      "transaction_date": "2024-04-11",
+      "description": "UPIAR/984777940128/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 149.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -427956.63
+    },
+    {
+      "transaction_date": "2024-04-11",
+      "description": "UPIAR/951368912683/DR/SNEHA\nREDDY/SNEHA/AXIS/snehar@okaxis",
+      "amount": 5654.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -422302.63
+    },
+    {
+      "transaction_date": "2024-04-10",
+      "description": "NEFT:Int.Pd:01-04-2024 to 01-04-2024",
+      "amount": 39.22,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -422341.85
+    },
+    {
+      "transaction_date": "2024-04-09",
+      "description": "UPIAR/815892349075/DR/Uber/UBER/UTIB/uber@axisbank",
+      "amount": 373.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -421968.85
+    },
+    {
+      "transaction_date": "2024-04-08",
+      "description": "UPIAB/893065731675/CR/VIJAY\nSINGH/VIJAY/FDRL/vijays@okfederal",
+      "amount": 816.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -422784.85
+    },
+    {
+      "transaction_date": "2024-04-08",
+      "description": "UPIAR/227670984664/DR/Google\nPlay/GOOGLEPLAY/UTIB/goog-payment@okaxis",
+      "amount": 92.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -422692.85
+    },
+    {
+      "transaction_date": "2024-04-07",
+      "description": "UPIAR/602473341562/DR/Amazon/AMAZON/ICICI/amazon@icici",
+      "amount": 4266.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -418426.85
+    },
+    {
+      "transaction_date": "2024-04-06",
+      "description": "UPIAB/675961120604/CR/KAVITA\nVERMA/KAVITA/KLGB/kavitav@okklgb",
+      "amount": 3732.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -422158.85
+    },
+    {
+      "transaction_date": "2024-04-05",
+      "description": "NEFT:Int.Pd:01-04-2024 to 01-04-2024",
+      "amount": 42.55,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -422201.4
+    },
+    {
+      "transaction_date": "2024-04-04",
+      "description": "UPIAR/297763921978/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 827.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -421374.4
+    },
+    {
+      "transaction_date": "2024-04-02",
+      "description": "UPIAR/110411167954/DR/Indian\nOil/INDIANOIL/YESB/indianoil@ybl",
+      "amount": 1879.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -419495.4
+    },
+    {
+      "transaction_date": "2024-04-01",
+      "description": "NEFT:TRANSFER\nFDRLM8280869732",
+      "amount": 46611.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -372884.4
+    },
+    {
+      "transaction_date": "2024-04-01",
+      "description": "UPIAR/714752184399/DR/Paytm/PAYTM/PYTM/paytm@paytm",
+      "amount": 1353.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -371531.4
+    },
+    {
+      "transaction_date": "2024-04-01",
+      "description": "NEFT:CREDIT RECEIVED\nFDRLM8351433799",
+      "amount": 41492.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -413023.4
+    },
+    {
+      "transaction_date": "2024-04-01",
+      "description": "UPIAR/473192270043/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 668.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -412355.4
+    },
+    {
+      "transaction_date": "2024-03-31",
+      "description": "UPIAR/998995976014/DR/DEEPA\nMENON/DEEPA/BARB/deepam@okbob",
+      "amount": 8965.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -403390.4
+    },
+    {
+      "transaction_date": "2024-03-31",
+      "description": "NEFT:Int.Pd:01-01-2024 to 01-03-2024",
+      "amount": 45.6,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -403436.0
+    },
+    {
+      "transaction_date": "2024-03-31",
+      "description": "UPIAB/776502479223/CR/DEEPA\nMENON/DEEPA/BARB/deepam@okbob",
+      "amount": 3071.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -406507.0
+    },
+    {
+      "transaction_date": "2024-03-30",
+      "description": "NEFT:Int.Pd:01-01-2024 to 01-03-2024",
+      "amount": 45.19,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -406552.19
+    },
+    {
+      "transaction_date": "2024-03-29",
+      "description": "UPIAR/274303089594/DR/Zomato/ZOMATO/HDFC/zomato@hdfc\nbank",
+      "amount": 358.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -406194.19
+    },
+    {
+      "transaction_date": "2024-03-27",
+      "description": "NEFT:TRANSFER\nFDRLM8732430998",
+      "amount": 36820.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -369374.19
+    },
+    {
+      "transaction_date": "2024-03-27",
+      "description": "UPIAB/985941699976/CR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 4887.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -374261.19
+    },
+    {
+      "transaction_date": "2024-03-26",
+      "description": "UPIAR/220009191252/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 1087.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -373174.19
+    },
+    {
+      "transaction_date": "2024-03-26",
+      "description": "UPIAR/170677072052/DR/DMart/DMART/HDFC/dmart@hdfcbank",
+      "amount": 2916.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -370258.19
+    },
+    {
+      "transaction_date": "2024-03-26",
+      "description": "UPIAR/768288870513/DR/Ola/OLA/ICICI/ola@icici",
+      "amount": 235.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -370023.19
+    },
+    {
+      "transaction_date": "2024-03-25",
+      "description": "UPIAR/447899554639/DR/SNEHA\nREDDY/SNEHA/AXIS/snehar@okaxis",
+      "amount": 3690.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -366333.19
+    },
+    {
+      "transaction_date": "2024-03-24",
+      "description": "NEFT:CREDIT RECEIVED\nFDRLM8028558038",
+      "amount": 45616.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -411949.19
+    },
+    {
+      "transaction_date": "2024-03-23",
+      "description": "UPIAR/351612566306/DR/Reliance/RELIANCE/SBIN/reliance@sb\ni",
+      "amount": 1548.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -410401.19
+    },
+    {
+      "transaction_date": "2024-03-23",
+      "description": "UPIAR/196601832252/DR/SNEHA\nREDDY/SNEHA/AXIS/snehar@okaxis",
+      "amount": 1268.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -409133.19
+    },
+    {
+      "transaction_date": "2024-03-22",
+      "description": "ATM WDL 354813\nKANNUR",
+      "amount": 5000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -404133.19
+    },
+    {
+      "transaction_date": "2024-03-22",
+      "description": "UPIAR/188401305592/DR/Netflix/NETFLIX/HDFC/netflix@hdfcban\nk",
+      "amount": 492.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -403641.19
+    },
+    {
+      "transaction_date": "2024-03-21",
+      "description": "UPIAR/125345439945/DR/BPCL Fuel/BPCL/CNRB/bpcl@canara",
+      "amount": 2094.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -401547.19
+    },
+    {
+      "transaction_date": "2024-03-21",
+      "description": "UPIAR/643058171540/DR/Netflix/NETFLIX/HDFC/netflix@hdfcban\nk",
+      "amount": 573.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -400974.19
+    },
+    {
+      "transaction_date": "2024-03-20",
+      "description": "UPIAR/838339729882/DR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 955.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -400019.19
+    },
+    {
+      "transaction_date": "2024-03-19",
+      "description": "UPIAR/191400379667/DR/Indian\nOil/INDIANOIL/YESB/indianoil@ybl",
+      "amount": 1232.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -398787.19
+    },
+    {
+      "transaction_date": "2024-03-18",
+      "description": "MAND DR- BCF2442-",
+      "amount": 2083.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -396704.19
+    },
+    {
+      "transaction_date": "2024-03-18",
+      "description": "MAND DR- BCF2442-",
+      "amount": 2083.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -394621.19
+    },
+    {
+      "transaction_date": "2024-03-18",
+      "description": "UPIAR/469357623289/DR/Zomato/ZOMATO/HDFC/zomato@hdfc\nbank",
+      "amount": 879.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -393742.19
+    },
+    {
+      "transaction_date": "2024-03-17",
+      "description": "UPIAR/936938971091/DR/Amazon/AMAZON/ICICI/amazon@icici",
+      "amount": 4285.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -389457.19
+    },
+    {
+      "transaction_date": "2024-03-17",
+      "description": "NEFT:TRANSFER\nFDRLM8378435020",
+      "amount": 13239.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -376218.19
+    },
+    {
+      "transaction_date": "2024-03-16",
+      "description": "UPIAB/633276001685/CR/RAJESH\nNAIR/RAJESH/CNRB/rajeshn@okcanara",
+      "amount": 6565.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -382783.19
+    },
+    {
+      "transaction_date": "2024-03-16",
+      "description": "UPIAB/305674486363/CR/KAVITA\nVERMA/KAVITA/KLGB/kavitav@okklgb",
+      "amount": 5611.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -388394.19
+    },
+    {
+      "transaction_date": "2024-03-15",
+      "description": "UPIAB/674739594765/CR/RAJESH\nNAIR/RAJESH/CNRB/rajeshn@okcanara",
+      "amount": 2238.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -390632.19
+    },
+    {
+      "transaction_date": "2024-03-14",
+      "description": "UPIAR/660598920552/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 259.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -390373.19
+    },
+    {
+      "transaction_date": "2024-03-14",
+      "description": "UPIAR/585806739019/DR/AMIT\nPATEL/AMIT/ICICI/amitp789@okicici",
+      "amount": 3532.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -386841.19
+    },
+    {
+      "transaction_date": "2024-03-13",
+      "description": "UPIAB/333473170733/CR/SNEHA\nREDDY/SNEHA/AXIS/snehar@okaxis",
+      "amount": 6926.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -393767.19
+    },
+    {
+      "transaction_date": "2024-03-12",
+      "description": "NEFT:TRANSFER\nFDRLM8306023003",
+      "amount": 12691.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -381076.19
+    },
+    {
+      "transaction_date": "2024-03-12",
+      "description": "UPIAR/484473800378/DR/BPCL Fuel/BPCL/CNRB/bpcl@canara",
+      "amount": 2135.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -378941.19
+    },
+    {
+      "transaction_date": "2024-03-12",
+      "description": "UPIAB/483753953965/CR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 7337.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -386278.19
+    },
+    {
+      "transaction_date": "2024-03-11",
+      "description": "UPIAB/934851017452/CR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 3666.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -389944.19
+    },
+    {
+      "transaction_date": "2024-03-10",
+      "description": "UPIAR/299954314196/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 713.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -389231.19
+    },
+    {
+      "transaction_date": "2024-03-09",
+      "description": "ATM WDL 973162\nKANNUR",
+      "amount": 1000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -388231.19
+    },
+    {
+      "transaction_date": "2024-03-09",
+      "description": "UPIAR/824085462582/DR/Paytm/PAYTM/PYTM/paytm@paytm",
+      "amount": 886.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -387345.19
+    },
+    {
+      "transaction_date": "2024-03-09",
+      "description": "UPIAR/711499111024/DR/Flipkart/FLIPKART/AXIS/flipkart@axisb\nank",
+      "amount": 1620.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -385725.19
+    },
+    {
+      "transaction_date": "2024-03-09",
+      "description": "ATM WDL 339699\nKOCHI",
+      "amount": 1000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -384725.19
+    },
+    {
+      "transaction_date": "2024-03-09",
+      "description": "ATM WDL 648341\nKASARAGOD",
+      "amount": 2000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -382725.19
+    },
+    {
+      "transaction_date": "2024-03-08",
+      "description": "UPIAB/117515216950/CR/DEEPA\nMENON/DEEPA/BARB/deepam@okbob",
+      "amount": 9316.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -392041.19
+    },
+    {
+      "transaction_date": "2024-03-08",
+      "description": "UPIAR/517885432312/DR/BookMyShow/BOOKMYSHOW/ICICI/b\nookmyshow@icici",
+      "amount": 229.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -391812.19
+    },
+    {
+      "transaction_date": "2024-03-07",
+      "description": "UPIAR/413814819595/DR/Google\nPlay/GOOGLEPLAY/UTIB/goog-payment@okaxis",
+      "amount": 644.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -391168.19
+    },
+    {
+      "transaction_date": "2024-03-07",
+      "description": "UPIAR/947181455944/DR/VIJAY\nSINGH/VIJAY/FDRL/vijays@okfederal",
+      "amount": 8375.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -382793.19
+    },
+    {
+      "transaction_date": "2024-03-06",
+      "description": "UPIAR/732891268648/DR/Swiggy/SWIGGY/SBIN/swiggy@sbi",
+      "amount": 233.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -382560.19
+    },
+    {
+      "transaction_date": "2024-03-05",
+      "description": "ATM WDL 868975\nKASARAGOD",
+      "amount": 5000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -377560.19
+    },
+    {
+      "transaction_date": "2024-03-05",
+      "description": "UPIAR/590213757402/DR/Amazon/AMAZON/ICICI/amazon@icici",
+      "amount": 2519.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -375041.19
+    },
+    {
+      "transaction_date": "2024-03-05",
+      "description": "UPIAR/917967532941/DR/VIJAY\nSINGH/VIJAY/FDRL/vijays@okfederal",
+      "amount": 6557.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -368484.19
+    },
+    {
+      "transaction_date": "2024-03-05",
+      "description": "NEFT:TRANSFER\nFDRLM8564349116",
+      "amount": 41263.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -327221.19
+    },
+    {
+      "transaction_date": "2024-03-04",
+      "description": "UPIAB/766693412248/CR/RAJESH\nNAIR/RAJESH/CNRB/rajeshn@okcanara",
+      "amount": 3242.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -330463.19
+    },
+    {
+      "transaction_date": "2024-03-03",
+      "description": "UPIAB/841098276961/CR/RAHUL\nSHARMA/RAHUL/SBIN/rahul123@oksbi",
+      "amount": 5942.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -336405.19
+    },
+    {
+      "transaction_date": "2024-03-03",
+      "description": "ATM WDL 568294\nKANNUR",
+      "amount": 2000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -334405.19
+    },
+    {
+      "transaction_date": "2024-03-03",
+      "description": "UPIAR/862489657649/DR/RAJESH\nNAIR/RAJESH/CNRB/rajeshn@okcanara",
+      "amount": 9536.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -324869.19
+    },
+    {
+      "transaction_date": "2024-03-03",
+      "description": "NEFT:CREDIT RECEIVED\nFDRLM8571588242",
+      "amount": 41686.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -366555.19
+    },
+    {
+      "transaction_date": "2024-03-03",
+      "description": "UPIAR/724303296853/DR/Uber/UBER/UTIB/uber@axisbank",
+      "amount": 482.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -366073.19
+    },
+    {
+      "transaction_date": "2024-03-02",
+      "description": "UPIAB/339863667673/CR/SNEHA\nREDDY/SNEHA/AXIS/snehar@okaxis",
+      "amount": 1428.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -367501.19
+    },
+    {
+      "transaction_date": "2024-03-01",
+      "description": "UPIAB/578862643265/CR/KAVITA\nVERMA/KAVITA/KLGB/kavitav@okklgb",
+      "amount": 6487.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -373988.19
+    },
+    {
+      "transaction_date": "2024-03-01",
+      "description": "UPIAR/192044807198/DR/Zomato/ZOMATO/HDFC/zomato@hdfc\nbank",
+      "amount": 480.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -373508.19
+    },
+    {
+      "transaction_date": "2024-02-29",
+      "description": "UPIAR/795508918912/DR/Zomato/ZOMATO/HDFC/zomato@hdfc\nbank",
+      "amount": 895.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -372613.19
+    },
+    {
+      "transaction_date": "2024-02-28",
+      "description": "UPIAR/444198458038/DR/Amazon/AMAZON/ICICI/amazon@icici",
+      "amount": 1673.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -370940.19
+    },
+    {
+      "transaction_date": "2024-02-27",
+      "description": "UPIAR/797079907844/DR/Google\nPlay/GOOGLEPLAY/UTIB/goog-payment@okaxis",
+      "amount": 740.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -370200.19
+    },
+    {
+      "transaction_date": "2024-02-27",
+      "description": "UPIAR/128174116742/DR/Flipkart/FLIPKART/AXIS/flipkart@axisb\nank",
+      "amount": 2078.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -368122.19
+    },
+    {
+      "transaction_date": "2024-02-26",
+      "description": "ATM WDL 430745\nKOCHI",
+      "amount": 500.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -367622.19
+    },
+    {
+      "transaction_date": "2024-02-25",
+      "description": "UPIAR/341088255174/DR/BookMyShow/BOOKMYSHOW/ICICI/b\nookmyshow@icici",
+      "amount": 303.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -367319.19
+    },
+    {
+      "transaction_date": "2024-02-25",
+      "description": "UPIAR/888638108704/DR/Uber/UBER/UTIB/uber@axisbank",
+      "amount": 475.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -366844.19
+    },
+    {
+      "transaction_date": "2024-02-24",
+      "description": "UPIAR/310017869618/DR/Reliance/RELIANCE/SBIN/reliance@sb\ni",
+      "amount": 3025.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -363819.19
+    },
+    {
+      "transaction_date": "2024-02-23",
+      "description": "UPIAR/532589864561/DR/Ola/OLA/ICICI/ola@icici",
+      "amount": 255.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -363564.19
+    },
+    {
+      "transaction_date": "2024-02-22",
+      "description": "NEFT:TRANSFER\nFDRLM8743301021",
+      "amount": 33051.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -330513.19
+    },
+    {
+      "transaction_date": "2024-02-22",
+      "description": "NEFT:Int.Pd:01-01-2024 to 01-02-2024",
+      "amount": 31.95,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -330545.14
+    },
+    {
+      "transaction_date": "2024-02-22",
+      "description": "UPIAR/984481380387/DR/DMart/DMART/HDFC/dmart@hdfcbank",
+      "amount": 942.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -329603.14
+    },
+    {
+      "transaction_date": "2024-02-21",
+      "description": "UPIAR/660274833918/DR/Zomato/ZOMATO/HDFC/zomato@hdfc\nbank",
+      "amount": 797.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -328806.14
+    },
+    {
+      "transaction_date": "2024-02-20",
+      "description": "UPIAB/359631422524/CR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 4353.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -333159.14
+    },
+    {
+      "transaction_date": "2024-02-20",
+      "description": "UPIAR/818627463858/DR/Ola/OLA/ICICI/ola@icici",
+      "amount": 346.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -332813.14
+    },
+    {
+      "transaction_date": "2024-02-19",
+      "description": "UPIAR/936137298928/DR/KAVITA\nVERMA/KAVITA/KLGB/kavitav@okklgb",
+      "amount": 7741.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -325072.14
+    },
+    {
+      "transaction_date": "2024-02-17",
+      "description": "UPIAR/569265322791/DR/DEEPA\nMENON/DEEPA/BARB/deepam@okbob",
+      "amount": 5148.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -319924.14
+    },
+    {
+      "transaction_date": "2024-02-17",
+      "description": "NEFT:TRANSFER\nFDRLM8296896817",
+      "amount": 27597.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -292327.14
+    },
+    {
+      "transaction_date": "2024-02-16",
+      "description": "UPIAR/402284856260/DR/AMIT\nPATEL/AMIT/ICICI/amitp789@okicici",
+      "amount": 4496.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -287831.14
+    },
+    {
+      "transaction_date": "2024-02-15",
+      "description": "ATM WDL 477202\nKOCHI",
+      "amount": 3000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -284831.14
+    },
+    {
+      "transaction_date": "2024-02-15",
+      "description": "MAND DR- BCF2442-",
+      "amount": 2083.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -282748.14
+    },
+    {
+      "transaction_date": "2024-02-14",
+      "description": "NEFT:TRANSFER\nFDRLM8504395885",
+      "amount": 39303.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -243445.14
+    },
+    {
+      "transaction_date": "2024-02-14",
+      "description": "UPIAR/738634002615/DR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 7798.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -235647.14
+    },
+    {
+      "transaction_date": "2024-02-12",
+      "description": "NEFT:Int.Pd:01-01-2024 to 01-02-2024",
+      "amount": 22.91,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -235670.05
+    },
+    {
+      "transaction_date": "2024-02-12",
+      "description": "UPIAR/307636485096/DR/Swiggy/SWIGGY/SBIN/swiggy@sbi",
+      "amount": 511.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -235159.05
+    },
+    {
+      "transaction_date": "2024-02-12",
+      "description": "NEFT:Int.Pd:01-01-2024 to 01-02-2024",
+      "amount": 21.66,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -235180.71
+    },
+    {
+      "transaction_date": "2024-02-10",
+      "description": "UPIAB/562897037795/CR/AMIT\nPATEL/AMIT/ICICI/amitp789@okicici",
+      "amount": 9313.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -244493.71
+    },
+    {
+      "transaction_date": "2024-02-10",
+      "description": "UPIAR/504241043760/DR/Ola/OLA/ICICI/ola@icici",
+      "amount": 120.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -244373.71
+    },
+    {
+      "transaction_date": "2024-02-10",
+      "description": "UPIAR/519226567317/DR/Amazon/AMAZON/ICICI/amazon@icici",
+      "amount": 3591.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -240782.71
+    },
+    {
+      "transaction_date": "2024-02-10",
+      "description": "UPIAR/451114230203/DR/Paytm/PAYTM/PYTM/paytm@paytm",
+      "amount": 52.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -240730.71
+    },
+    {
+      "transaction_date": "2024-02-10",
+      "description": "NEFT:TRANSFER\nFDRLM8763992894",
+      "amount": 48373.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -192357.71
+    },
+    {
+      "transaction_date": "2024-02-09",
+      "description": "UPIAR/788420759599/DR/BPCL Fuel/BPCL/CNRB/bpcl@canara",
+      "amount": 1122.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -191235.71
+    },
+    {
+      "transaction_date": "2024-02-09",
+      "description": "NEFT:CREDIT RECEIVED\nFDRLM8190906982",
+      "amount": 45634.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -236869.71
+    },
+    {
+      "transaction_date": "2024-02-09",
+      "description": "UPIAR/662039537176/DR/DMart/DMART/HDFC/dmart@hdfcbank",
+      "amount": 1933.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -234936.71
+    },
+    {
+      "transaction_date": "2024-02-08",
+      "description": "UPIAR/700688305774/DR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 1538.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -233398.71
+    },
+    {
+      "transaction_date": "2024-02-07",
+      "description": "NEFT:CREDIT RECEIVED\nFDRLM8838846101",
+      "amount": 5376.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -238774.71
+    },
+    {
+      "transaction_date": "2024-02-07",
+      "description": "UPIAR/472699381376/DR/Indian\nOil/INDIANOIL/YESB/indianoil@ybl",
+      "amount": 1479.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -237295.71
+    },
+    {
+      "transaction_date": "2024-02-07",
+      "description": "UPIAR/837900395581/DR/DMart/DMART/HDFC/dmart@hdfcbank",
+      "amount": 513.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -236782.71
+    },
+    {
+      "transaction_date": "2024-02-07",
+      "description": "UPIAR/720891564112/DR/Flipkart/FLIPKART/AXIS/flipkart@axisb\nank",
+      "amount": 3632.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -233150.71
+    },
+    {
+      "transaction_date": "2024-02-07",
+      "description": "NEFT:CREDIT RECEIVED\nFDRLM8063913616",
+      "amount": 25542.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -258692.71
+    },
+    {
+      "transaction_date": "2024-02-06",
+      "description": "NEFT:TRANSFER\nFDRLM8521293470",
+      "amount": 38507.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -220185.71
+    },
+    {
+      "transaction_date": "2024-02-04",
+      "description": "NEFT:TRANSFER\nFDRLM8157393215",
+      "amount": 40895.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -179290.71
+    },
+    {
+      "transaction_date": "2024-02-03",
+      "description": "UPIAB/774760849223/CR/RAJESH\nNAIR/RAJESH/CNRB/rajeshn@okcanara",
+      "amount": 4397.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -183687.71
+    },
+    {
+      "transaction_date": "2024-02-03",
+      "description": "UPIAR/432013267510/DR/KAVITA\nVERMA/KAVITA/KLGB/kavitav@okklgb",
+      "amount": 1687.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -182000.71
+    },
+    {
+      "transaction_date": "2024-02-03",
+      "description": "UPIAB/547669491056/CR/AMIT\nPATEL/AMIT/ICICI/amitp789@okicici",
+      "amount": 2246.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -184246.71
+    },
+    {
+      "transaction_date": "2024-02-02",
+      "description": "UPIAB/827434784473/CR/KAVITA\nVERMA/KAVITA/KLGB/kavitav@okklgb",
+      "amount": 3371.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -187617.71
+    },
+    {
+      "transaction_date": "2024-02-02",
+      "description": "UPIAR/928090684518/DR/RAJESH\nNAIR/RAJESH/CNRB/rajeshn@okcanara",
+      "amount": 6537.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -181080.71
+    },
+    {
+      "transaction_date": "2024-02-01",
+      "description": "UPIAR/984676310007/DR/BookMyShow/BOOKMYSHOW/ICICI/b\nookmyshow@icici",
+      "amount": 313.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -180767.71
+    },
+    {
+      "transaction_date": "2024-02-01",
+      "description": "UPIAB/679519250185/CR/RAJESH\nNAIR/RAJESH/CNRB/rajeshn@okcanara",
+      "amount": 7175.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -187942.71
+    },
+    {
+      "transaction_date": "2024-01-31",
+      "description": "NEFT:Int.Pd:01-01-2024 to 01-01-2024",
+      "amount": 22.95,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -187965.66
+    },
+    {
+      "transaction_date": "2024-01-31",
+      "description": "UPIAR/910899530635/DR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 6283.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -181682.66
+    },
+    {
+      "transaction_date": "2024-01-31",
+      "description": "UPIAR/935616806298/DR/Google\nPlay/GOOGLEPLAY/UTIB/goog-payment@okaxis",
+      "amount": 831.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -180851.66
+    },
+    {
+      "transaction_date": "2024-01-30",
+      "description": "UPIAB/821106517638/CR/VIJAY\nSINGH/VIJAY/FDRL/vijays@okfederal",
+      "amount": 2604.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -183455.66
+    },
+    {
+      "transaction_date": "2024-01-29",
+      "description": "SMS Charges",
+      "amount": 19.48,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -183436.18
+    },
+    {
+      "transaction_date": "2024-01-29",
+      "description": "ATM WDL 401048\nKANNUR",
+      "amount": 2000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -181436.18
+    },
+    {
+      "transaction_date": "2024-01-28",
+      "description": "UPIAR/329061827576/DR/RAJESH\nNAIR/RAJESH/CNRB/rajeshn@okcanara",
+      "amount": 3206.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -178230.18
+    },
+    {
+      "transaction_date": "2024-01-25",
+      "description": "UPIAR/963512762225/DR/Amazon/AMAZON/ICICI/amazon@icici",
+      "amount": 2230.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -176000.18
+    },
+    {
+      "transaction_date": "2024-01-25",
+      "description": "ATM WDL 599818\nKOCHI",
+      "amount": 3000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -173000.18
+    },
+    {
+      "transaction_date": "2024-01-24",
+      "description": "UPIAB/291064451760/CR/KAVITA\nVERMA/KAVITA/KLGB/kavitav@okklgb",
+      "amount": 7834.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -180834.18
+    },
+    {
+      "transaction_date": "2024-01-24",
+      "description": "UPIAR/447709188165/DR/Google\nPlay/GOOGLEPLAY/UTIB/goog-payment@okaxis",
+      "amount": 464.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -180370.18
+    },
+    {
+      "transaction_date": "2024-01-22",
+      "description": "UPIAR/192033324116/DR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 1601.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -178769.18
+    },
+    {
+      "transaction_date": "2024-01-22",
+      "description": "UPIAB/489969554303/CR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 7681.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -186450.18
+    },
+    {
+      "transaction_date": "2024-01-21",
+      "description": "UPIAR/898105827482/DR/DMart/DMART/HDFC/dmart@hdfcbank",
+      "amount": 1923.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -184527.18
+    },
+    {
+      "transaction_date": "2024-01-21",
+      "description": "NEFT:TRANSFER\nFDRLM8051529379",
+      "amount": 40969.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -143558.18
+    },
+    {
+      "transaction_date": "2024-01-21",
+      "description": "UPIAB/750109244683/CR/SNEHA\nREDDY/SNEHA/AXIS/snehar@okaxis",
+      "amount": 2631.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -146189.18
+    },
+    {
+      "transaction_date": "2024-01-20",
+      "description": "UPIAR/346786942869/DR/Reliance/RELIANCE/SBIN/reliance@sb\ni",
+      "amount": 1528.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -144661.18
+    },
+    {
+      "transaction_date": "2024-01-20",
+      "description": "UPIAR/761931006808/DR/Netflix/NETFLIX/HDFC/netflix@hdfcban\nk",
+      "amount": 358.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -144303.18
+    },
+    {
+      "transaction_date": "2024-01-19",
+      "description": "NEFT:SALARY CREDIT\nFDRLM8075747545",
+      "amount": 38855.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -183158.18
+    },
+    {
+      "transaction_date": "2024-01-18",
+      "description": "UPIAB/398664977351/CR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 9412.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -192570.18
+    },
+    {
+      "transaction_date": "2024-01-18",
+      "description": "NEFT:TRANSFER\nFDRLM8528627306",
+      "amount": 42643.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -149927.18
+    },
+    {
+      "transaction_date": "2024-01-18",
+      "description": "ATM WDL 575243\nKOCHI",
+      "amount": 5000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -144927.18
+    },
+    {
+      "transaction_date": "2024-01-17",
+      "description": "UPIAB/304775063514/CR/SNEHA\nREDDY/SNEHA/AXIS/snehar@okaxis",
+      "amount": 7154.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -152081.18
+    },
+    {
+      "transaction_date": "2024-01-17",
+      "description": "UPIAB/669797386047/CR/VIJAY\nSINGH/VIJAY/FDRL/vijays@okfederal",
+      "amount": 5295.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -157376.18
+    },
+    {
+      "transaction_date": "2024-01-16",
+      "description": "ATM WDL 226856\nKOCHI",
+      "amount": 3000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -154376.18
+    },
+    {
+      "transaction_date": "2024-01-16",
+      "description": "UPIAR/464826419116/DR/SNEHA\nREDDY/SNEHA/AXIS/snehar@okaxis",
+      "amount": 3038.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -151338.18
+    },
+    {
+      "transaction_date": "2024-01-16",
+      "description": "NEFT:Int.Pd:01-01-2024 to 01-01-2024",
+      "amount": 15.5,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -151353.68
+    },
+    {
+      "transaction_date": "2024-01-16",
+      "description": "UPIAR/326108788200/DR/DMart/DMART/HDFC/dmart@hdfcbank",
+      "amount": 1956.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -149397.68
+    },
+    {
+      "transaction_date": "2024-01-15",
+      "description": "UPIAR/906132336977/DR/DMart/DMART/HDFC/dmart@hdfcbank",
+      "amount": 1238.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -148159.68
+    },
+    {
+      "transaction_date": "2024-01-15",
+      "description": "UPIAR/108633614470/DR/Flipkart/FLIPKART/AXIS/flipkart@axisb\nank",
+      "amount": 4935.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -143224.68
+    },
+    {
+      "transaction_date": "2024-01-14",
+      "description": "UPIAR/741568920185/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 1093.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -142131.68
+    },
+    {
+      "transaction_date": "2024-01-13",
+      "description": "UPIAR/505393972653/DR/BookMyShow/BOOKMYSHOW/ICICI/b\nookmyshow@icici",
+      "amount": 309.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -141822.68
+    },
+    {
+      "transaction_date": "2024-01-12",
+      "description": "ATM WDL 519441\nKOCHI",
+      "amount": 1000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -140822.68
+    },
+    {
+      "transaction_date": "2024-01-10",
+      "description": "UPIAR/656895423421/DR/Indian\nOil/INDIANOIL/YESB/indianoil@ybl",
+      "amount": 2080.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -138742.68
+    },
+    {
+      "transaction_date": "2024-01-09",
+      "description": "UPIAR/306268524874/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 183.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -138559.68
+    },
+    {
+      "transaction_date": "2024-01-07",
+      "description": "UPIAR/286012382016/DR/Flipkart/FLIPKART/AXIS/flipkart@axisb\nank",
+      "amount": 1599.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -136960.68
+    },
+    {
+      "transaction_date": "2024-01-07",
+      "description": "UPIAB/645680357598/CR/KAVITA\nVERMA/KAVITA/KLGB/kavitav@okklgb",
+      "amount": 9752.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -146712.68
+    },
+    {
+      "transaction_date": "2024-01-07",
+      "description": "UPIAR/274170231549/DR/BookMyShow/BOOKMYSHOW/ICICI/b\nookmyshow@icici",
+      "amount": 514.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -146198.68
+    },
+    {
+      "transaction_date": "2024-01-06",
+      "description": "UPIAR/345302074540/DR/Flipkart/FLIPKART/AXIS/flipkart@axisb\nank",
+      "amount": 5317.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -140881.68
+    },
+    {
+      "transaction_date": "2024-01-06",
+      "description": "General Charges Recovery",
+      "amount": 147.83,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -140733.85
+    },
+    {
+      "transaction_date": "2024-01-06",
+      "description": "UPIAR/865981298417/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 996.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -139737.85
+    },
+    {
+      "transaction_date": "2024-01-06",
+      "description": "UPIAR/359975375602/DR/Swiggy/SWIGGY/SBIN/swiggy@sbi",
+      "amount": 779.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -138958.85
+    },
+    {
+      "transaction_date": "2024-01-04",
+      "description": "UPIAR/861497469299/DR/RAJESH\nNAIR/RAJESH/CNRB/rajeshn@okcanara",
+      "amount": 1334.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -137624.85
+    },
+    {
+      "transaction_date": "2024-01-04",
+      "description": "UPIAR/726474773897/DR/Swiggy/SWIGGY/SBIN/swiggy@sbi",
+      "amount": 670.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -136954.85
+    },
+    {
+      "transaction_date": "2024-01-03",
+      "description": "UPIAR/610778567758/DR/Amazon/AMAZON/ICICI/amazon@icici",
+      "amount": 4103.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -132851.85
+    },
+    {
+      "transaction_date": "2024-01-03",
+      "description": "UPIAB/820476320607/CR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 1835.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -134686.85
+    },
+    {
+      "transaction_date": "2024-01-03",
+      "description": "UPIAB/866096427487/CR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 1347.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -136033.85
+    },
+    {
+      "transaction_date": "2024-01-02",
+      "description": "ATM WDL 188896\nKASARAGOD",
+      "amount": 1000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -135033.85
+    },
+    {
+      "transaction_date": "2024-01-01",
+      "description": "UPIAR/699497595776/DR/Indian\nOil/INDIANOIL/YESB/indianoil@ybl",
+      "amount": 1959.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -133074.85
+    },
+    {
+      "transaction_date": "2023-12-31",
+      "description": "UPIAB/536669741829/CR/AMIT\nPATEL/AMIT/ICICI/amitp789@okicici",
+      "amount": 6122.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -139196.85
+    },
+    {
+      "transaction_date": "2023-12-31",
+      "description": "ATM WDL 896103\nKOCHI",
+      "amount": 3000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -136196.85
+    },
+    {
+      "transaction_date": "2023-12-31",
+      "description": "UPIAR/771186772334/DR/VIJAY\nSINGH/VIJAY/FDRL/vijays@okfederal",
+      "amount": 2426.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -133770.85
+    },
+    {
+      "transaction_date": "2023-12-30",
+      "description": "ATM WDL 506953\nKOCHI",
+      "amount": 2000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -131770.85
+    },
+    {
+      "transaction_date": "2023-12-30",
+      "description": "UPIAB/562119603031/CR/VIJAY\nSINGH/VIJAY/FDRL/vijays@okfederal",
+      "amount": 4690.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -136460.85
+    },
+    {
+      "transaction_date": "2023-12-30",
+      "description": "UPIAR/464906597414/DR/Netflix/NETFLIX/HDFC/netflix@hdfcban\nk",
+      "amount": 321.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -136139.85
+    },
+    {
+      "transaction_date": "2023-12-30",
+      "description": "UPIAR/817888506494/DR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 2947.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -133192.85
+    },
+    {
+      "transaction_date": "2023-12-29",
+      "description": "ATM WDL 260270\nKANNUR",
+      "amount": 1000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -132192.85
+    },
+    {
+      "transaction_date": "2023-12-29",
+      "description": "UPIAR/689832897202/DR/RAJESH\nNAIR/RAJESH/CNRB/rajeshn@okcanara",
+      "amount": 6617.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -125575.85
+    },
+    {
+      "transaction_date": "2023-12-28",
+      "description": "UPIAR/660943464303/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 485.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -125090.85
+    },
+    {
+      "transaction_date": "2023-12-27",
+      "description": "UPIAR/233235381249/DR/DMart/DMART/HDFC/dmart@hdfcbank",
+      "amount": 2697.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -122393.85
+    },
+    {
+      "transaction_date": "2023-12-27",
+      "description": "ATM WDL 498462\nKANNUR",
+      "amount": 5000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -117393.85
+    },
+    {
+      "transaction_date": "2023-12-27",
+      "description": "UPIAR/460935950772/DR/BPCL Fuel/BPCL/CNRB/bpcl@canara",
+      "amount": 854.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -116539.85
+    },
+    {
+      "transaction_date": "2023-12-26",
+      "description": "MAND DR- BCF2442-",
+      "amount": 2083.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -114456.85
+    },
+    {
+      "transaction_date": "2023-12-26",
+      "description": "NEFT:Int.Pd:01-10-2023 to 01-12-2023",
+      "amount": 32.29,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -114489.14
+    },
+    {
+      "transaction_date": "2023-12-25",
+      "description": "UPIAR/754908840902/DR/Paytm/PAYTM/PYTM/paytm@paytm",
+      "amount": 477.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -114012.14
+    },
+    {
+      "transaction_date": "2023-12-25",
+      "description": "UPIAR/727831287288/DR/Indian\nOil/INDIANOIL/YESB/indianoil@ybl",
+      "amount": 854.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -113158.14
+    },
+    {
+      "transaction_date": "2023-12-24",
+      "description": "UPIAR/815183600638/DR/Google\nPlay/GOOGLEPLAY/UTIB/goog-payment@okaxis",
+      "amount": 388.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -112770.14
+    },
+    {
+      "transaction_date": "2023-12-23",
+      "description": "UPIAR/764627252068/DR/DEEPA\nMENON/DEEPA/BARB/deepam@okbob",
+      "amount": 6589.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -106181.14
+    },
+    {
+      "transaction_date": "2023-12-22",
+      "description": "NEFT:Int.Pd:01-10-2023 to 01-12-2023",
+      "amount": 26.55,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -106207.69
+    },
+    {
+      "transaction_date": "2023-12-21",
+      "description": "NEFT:TRANSFER\nFDRLM8704234586",
+      "amount": 45071.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -61136.69
+    },
+    {
+      "transaction_date": "2023-12-20",
+      "description": "UPIAR/319687117740/DR/Ola/OLA/ICICI/ola@icici",
+      "amount": 264.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -60872.69
+    },
+    {
+      "transaction_date": "2023-12-20",
+      "description": "NEFT:TRANSFER\nFDRLM8634993687",
+      "amount": 14505.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -46367.69
+    },
+    {
+      "transaction_date": "2023-12-18",
+      "description": "UPIAR/396322851718/DR/Swiggy/SWIGGY/SBIN/swiggy@sbi",
+      "amount": 764.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -45603.69
+    },
+    {
+      "transaction_date": "2023-12-18",
+      "description": "NEFT:TRANSFER\nFDRLM8486981403",
+      "amount": 9846.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -35757.69
+    },
+    {
+      "transaction_date": "2023-12-18",
+      "description": "UPIAR/952500697923/DR/BookMyShow/BOOKMYSHOW/ICICI/b\nookmyshow@icici",
+      "amount": 267.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -35490.69
+    },
+    {
+      "transaction_date": "2023-12-18",
+      "description": "NEFT:CREDIT RECEIVED\nFDRLM8216843907",
+      "amount": 36713.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -72203.69
+    },
+    {
+      "transaction_date": "2023-12-17",
+      "description": "UPIAR/439546303066/DR/Google\nPlay/GOOGLEPLAY/UTIB/goog-payment@okaxis",
+      "amount": 98.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -72105.69
+    },
+    {
+      "transaction_date": "2023-12-17",
+      "description": "UPIAR/735653132421/DR/Reliance/RELIANCE/SBIN/reliance@sb\ni",
+      "amount": 644.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -71461.69
+    },
+    {
+      "transaction_date": "2023-12-17",
+      "description": "UPIAR/232192302727/DR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 7480.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -63981.69
+    },
+    {
+      "transaction_date": "2023-12-17",
+      "description": "UPIAR/159769801599/DR/Swiggy/SWIGGY/SBIN/swiggy@sbi",
+      "amount": 780.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -63201.69
+    },
+    {
+      "transaction_date": "2023-12-16",
+      "description": "NEFT:Int.Pd:01-10-2023 to 01-12-2023",
+      "amount": 28.19,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -63229.88
+    },
+    {
+      "transaction_date": "2023-12-15",
+      "description": "ATM WDL 886654\nKOCHI",
+      "amount": 500.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -62729.88
+    },
+    {
+      "transaction_date": "2023-12-15",
+      "description": "UPIAR/399798930615/DR/Netflix/NETFLIX/HDFC/netflix@hdfcban\nk",
+      "amount": 229.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -62500.88
+    },
+    {
+      "transaction_date": "2023-12-14",
+      "description": "UPIAR/312832542012/DR/PRIYA\nKUMAR/PRIYA/HDFC/priyak456@okhdfcbank",
+      "amount": 4691.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -57809.88
+    },
+    {
+      "transaction_date": "2023-12-14",
+      "description": "ATM WDL 643042\nKOCHI",
+      "amount": 3000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -54809.88
+    },
+    {
+      "transaction_date": "2023-12-14",
+      "description": "ATM WDL 113507\nKASARAGOD",
+      "amount": 2000.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -52809.88
+    },
+    {
+      "transaction_date": "2023-12-13",
+      "description": "UPIAB/199913100146/CR/SNEHA\nREDDY/SNEHA/AXIS/snehar@okaxis",
+      "amount": 9804.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -62613.88
+    },
+    {
+      "transaction_date": "2023-12-13",
+      "description": "NEFT:TRANSFER\nFDRLM8431504494",
+      "amount": 37652.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -24961.88
+    },
+    {
+      "transaction_date": "2023-12-13",
+      "description": "UPIAR/897475432928/DR/Netflix/NETFLIX/HDFC/netflix@hdfcban\nk",
+      "amount": 737.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -24224.88
+    },
+    {
+      "transaction_date": "2023-12-12",
+      "description": "UPIAR/637391722349/DR/Amazon/AMAZON/ICICI/amazon@icici",
+      "amount": 2792.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -21432.88
+    },
+    {
+      "transaction_date": "2023-12-11",
+      "description": "UPIAR/637051183116/DR/Google\nPlay/GOOGLEPLAY/UTIB/goog-payment@okaxis",
+      "amount": 515.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -20917.88
+    },
+    {
+      "transaction_date": "2023-12-11",
+      "description": "UPIAB/823061939677/CR/DEEPA\nMENON/DEEPA/BARB/deepam@okbob",
+      "amount": 8770.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -29687.88
+    },
+    {
+      "transaction_date": "2023-12-11",
+      "description": "MAND DR- BCF2442-",
+      "amount": 2083.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -27604.88
+    },
+    {
+      "transaction_date": "2023-12-10",
+      "description": "UPIAB/332237778549/CR/RAHUL\nSHARMA/RAHUL/SBIN/rahul123@oksbi",
+      "amount": 6721.0,
+      "transaction_type": "CREDIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -34325.88
+    },
+    {
+      "transaction_date": "2023-12-10",
+      "description": "ATM WDL 302370\nKANNUR",
+      "amount": 500.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -33825.88
+    },
+    {
+      "transaction_date": "2023-12-08",
+      "description": "UPIAR/768459040747/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 160.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -33665.88
+    },
+    {
+      "transaction_date": "2023-12-07",
+      "description": "UPIAR/300844232850/DR/RAJESH\nNAIR/RAJESH/CNRB/rajeshn@okcanara",
+      "amount": 3026.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -30639.88
+    },
+    {
+      "transaction_date": "2023-12-06",
+      "description": "UPIAR/129448021964/DR/Google\nPlay/GOOGLEPLAY/UTIB/goog-payment@okaxis",
+      "amount": 200.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -30439.88
+    },
+    {
+      "transaction_date": "2023-12-06",
+      "description": "UPIAR/185548626058/DR/Ola/OLA/ICICI/ola@icici",
+      "amount": 173.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -30266.88
+    },
+    {
+      "transaction_date": "2023-12-06",
+      "description": "UPIAR/223565022442/DR/Paytm/PAYTM/PYTM/paytm@paytm",
+      "amount": 68.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -30198.88
+    },
+    {
+      "transaction_date": "2023-12-06",
+      "description": "UPIAR/930600754866/DR/PhonePe/PHONEPE/YESB/phonepe@\nybl",
+      "amount": 392.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -29806.88
+    },
+    {
+      "transaction_date": "2023-12-06",
+      "description": "UPIAR/920436781973/DR/DMart/DMART/HDFC/dmart@hdfcbank",
+      "amount": 1545.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -28261.88
+    },
+    {
+      "transaction_date": "2023-12-05",
+      "description": "UPIAR/386597403178/DR/KAVITA\nVERMA/KAVITA/KLGB/kavitav@okklgb",
+      "amount": 3063.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -25198.88
+    },
+    {
+      "transaction_date": "2023-12-04",
+      "description": "UPIAR/106265675038/DR/SNEHA\nREDDY/SNEHA/AXIS/snehar@okaxis",
+      "amount": 6116.0,
+      "transaction_type": "DEBIT",
+      "bank_name": "UNION",
+      "account_number": "672202025116715",
+      "balance": -19082.88
+    }
+  ]
+}
