@@ -1,4 +1,81 @@
 # backend/app.py
+# backend/app.py
+import json
+from pathlib import Path
+from flask import Flask, jsonify, request
+
+from pdf_extractor.hdfc_extractor import HDFCExtractor
+from pdf_extractor.axis_extractor import AxisExtractor
+from pdf_extractor.sbi_extractor import SBIExtractor
+from pdf_extractor.union_extractor import UnionExtractor
+from pdf_extractor.boi_extractor import BOIExtractor
+from pdf_extractor.central_extractor import CentralExtractor
+from normalizer.transaction_normalizer import TransactionNormalizer
+
+app = Flask(__name__)   # 👈 THIS IS WHAT GUNICORN NEEDS
+
+
+class BankStatementProcessor:
+    EXTRACTORS = {
+        'hdfc': HDFCExtractor,
+        'axis': AxisExtractor,
+        'sbi': SBIExtractor,
+        'union': UnionExtractor,
+        'bank_of_india': BOIExtractor,
+        'central': CentralExtractor,
+        'central_bank': CentralExtractor
+    }
+
+    def __init__(self):
+        project_root = Path(__file__).parent.parent
+        self.raw_pdf_dir = project_root / 'data' / 'raw_pdfs'
+        self.extracted_json_dir = project_root / 'data' / 'extracted_json'
+        self.normalized_json_dir = project_root / 'data' / 'normalized_json'
+
+    def process_all(self):
+        if not self.raw_pdf_dir.exists():
+            return {"error": "raw_pdfs directory not found"}
+
+        results = []
+
+        for bank_folder in self.raw_pdf_dir.iterdir():
+            if not bank_folder.is_dir():
+                continue
+
+            bank_name = bank_folder.name.lower()
+            extractor_class = self.EXTRACTORS.get(bank_name)
+            if not extractor_class:
+                continue
+
+            for pdf_file in bank_folder.glob("*.pdf"):
+                extractor = extractor_class(str(pdf_file))
+                statement_data = extractor.extract()
+
+                normalized = TransactionNormalizer.normalize_statement(statement_data)
+                results.append({
+                    "bank": bank_name,
+                    "file": pdf_file.name,
+                    "transactions": len(normalized)
+                })
+
+        return results
+
+
+# ------------------ ROUTES ------------------
+
+@app.route("/", methods=["GET"])
+def health():
+    return jsonify({"status": "BankFusion backend running 🚀"})
+
+
+@app.route("/process-all", methods=["POST"])
+def process_all_route():
+    processor = BankStatementProcessor()
+    result = processor.process_all()
+    return jsonify(result)
+
+
+'''
 import json
 from pathlib import Path
 from pdf_extractor.hdfc_extractor import HDFCExtractor
@@ -130,4 +207,4 @@ class BankStatementProcessor:
 
 if __name__ == "__main__":
     processor = BankStatementProcessor()
-    processor.process_all()
+    processor.process_all()'''
