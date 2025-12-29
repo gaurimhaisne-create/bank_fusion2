@@ -1,5 +1,0 @@
-# backend/requirements.txt
-Flask
-pdfplumber==0.10.3
-Pillow==10.1.0
-gunicorn
